@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T10:58:26.708895+09:00",
-  "generated_at_display": "2026-11-20 10:58 KST",
+  "generated_at": "2026-11-21T10:54:00.348344+09:00",
+  "generated_at_display": "2026-11-21 10:54 KST",
   "regions": [
     {
       "key": "ALL",
@@ -70,26 +70,26 @@
       },
       "headlines": [
         {
-          "title": "한눈에 보는 오늘의 뉴스 (11월 19일)",
+          "title": "한눈에 보는 오늘의 뉴스 (11월 20일)",
           "source": "데일리바이트(DAILY BYTE)",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lcjZUNktRSm1kR21JanlGV2pLMXBPMVV6bmxHRXE4WXBfdzdzX1cxQjljSUZVdW9RVU9WUGljdWRjNWtaZ29YX2VkS1ZXUGRfc3BVRklyQmR3X0tNRkxhSmpn?oc=5",
-          "summary": "한눈에 보는 오늘의 뉴스 (11월 19일)&nbsp;&nbsp;데일리바이트(DAILY BYTE)",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zTThNVFdvUzdBWFdsbDdTN01ZdEJjWnBVMzYzR0RJa2RJSkdUUFNOdzdiRFRnZllES2hHVXY3TkxtNnBicUpRUXJpYk5qaDQyeXNObW55cXRKcDdsa01iRGR3?oc=5",
+          "summary": "한눈에 보는 오늘의 뉴스 (11월 20일)&nbsp;&nbsp;데일리바이트(DAILY BYTE)",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "\"헬기까지 떴다\" 쌍둥이 산모 긴급 이송",
+          "title": "한국, UN 전자정부평가 '세계 1위'…정부24·모바일 신분증 등 호평",
           "source": "대한민국 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT245bUR1T1RFVERhcFprUjRKMXI4YV95dFV4QUlaRmxqRXgzY2NzUmFWWEs0NG5yX0tIZ09rZVgxNjJpb1lzSXozUjI3MC1uLVhVaU1RTWFCckxzYWJsdzFYUGFncHlXYnNTbTJzaDRBUVJIX19aUTE3WlBhNDRaR0pYZDJaYzJhbUE?oc=5",
-          "summary": "\"헬기까지 떴다\" 쌍둥이 산모 긴급 이송 - 영상 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUHB0RFNWNEUyb05zSkNJV2pNUjdxOVY0VXFHRlBONklOOE1zMnRPXzFyVnZVVUtZa3plRjNza2dJX00wcmpSVGJrMUpaZ2p0dk5UajlvSXZIRXRmTkJfRXFua0pZR3BTcElaZzZNX2JBeEpKeEJkeUxLQmtiQVZVRFhicEdqRTJHaUVSSw?oc=5",
+          "summary": "한국, UN 전자정부평가 '세계 1위'…정부24·모바일 신분증 등 호평&nbsp;&nbsp;대한민국 정책브리핑",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "[율곡로] 흔들리는 시험제도…한국사회 버팀목의 붕괴 위기",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DTmRsSExSUWZqU0pQNHFwZmttaWwzREw2X3VYLW41TGdIdUtuYmZlM3RYUXViZ09JMGttM0p1OW1HMTNsSVZ4dFYyMS0yQlU0bVp5Z1JMdTl2TFnSAWBBVV95cUxOdkhUVzB5blBHVnF6Zm5QbklPcnNXa0xETUQ1SVo5eG43QnFjUWlYQndvZ1JNdjdsWmNyR3NwVk5vTGFVU1h6UVRwUzZVMU5ncWdGZHBZWU9mTlA4RjRQZ1Q?oc=5",
-          "summary": "[율곡로] 흔들리는 시험제도…한국사회 버팀목의 붕괴 위기&nbsp;&nbsp;연합뉴스",
+          "title": "빙속 김민석 헝가리 대표팀 은퇴…한국 복귀 전망도",
+          "source": "연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tb0xjamp2TEpfUm15Zl9xU010anhSS0xOYU11SDJZOUY5OHBlV1F2clRlcEhYdEVBX3MwWTgza0NUWThha0hSS2hNZzNhMHVJazZfQ1F1VTJWbDFCTUx2VnBZbWlhNmc?oc=5",
+          "summary": "빙속 김민석 헝가리 대표팀 은퇴…한국 복귀 전망도&nbsp;&nbsp;연합뉴스TV",
           "lang": "ko",
           "translated": false
         }
@@ -135,10 +135,10 @@
           "category": "MANAGEMENT",
           "tag": "관세·공급망",
           "tag_class": "bg-amber-100 text-amber-700",
-          "title": "[기획/경제] ㉚ 한국 경제안보, 무역·에너지·기술·기후 전략",
-          "desc": "[기획/경제] ㉚ 한국 경제안보, 무역·에너지·기술·기후 전략&nbsp;&nbsp;기후에너지경제",
-          "source": "기후에너지경제",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZ3RQZzBSc2FFOS1IMUxEdnJUUVY2c0RtNHNnQjZSUVVHaDloWGlYMmY4Wl9HaFNJSERfVWJpbXkyajVkcmJCRm11bVpvQ3JKRVdqY0J1M1VzdFRhbmNkQ0lVUHg?oc=5",
+          "title": "이종혁 이지스관세사무소 대표 관세사 [직업의 세계]",
+          "desc": "이종혁 이지스관세사무소 대표 관세사 [직업의 세계]&nbsp;&nbsp;CEO저널",
+          "source": "CEO저널",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lSnVadFVmRFYzeWhSUG1icHQ5MkNQQllsNm82WHhFeGsyZ0lfSnpKYmtxWU9WSjluZ25yclo0NVAyR1l3LTRXZzFVcV9CcV9ENDFSVjFQRlc1TjloLTRVRXRTR0lwbTDSAWtBVV95cUxPN0FqTS1Zb0JvVlZvdGc1MDZ3b2JVbUtPcVg4ODBjYnRFcW1MQ0szT0t4aXJDRDFUUE1Qb29zVVRuNzBhUk1wOGFiNmVFOFUxV29oZWtWS25fSkQ1VmVOMnVQaEdLd0RsdnlJYw?oc=5",
           "lang": "ko",
           "translated": false,
           "original_title": ""
@@ -172,8 +172,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 200.39,
-        "change_pct": 0.43,
+        "current_rate": 200.22,
+        "change_pct": 0.35,
         "history_labels": [
           "12월",
           "1월",
@@ -200,32 +200,32 @@
           204.74,
           201.48,
           200.87,
-          200.39
+          200.22
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "[AI MY 뉴스] 20일 중국증시 '美 AI주 급락에 中 기술주도 긴장…반도체 자립 돌파구될까'",
-          "source": "뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1eW52cV9fX3FJS3p3MUM3ZG9yQ3ctYWYzUkhFRGt2c0VkTzNJckpWNzBUNEYweGtiMi12QVBmb3YzTWVKcXR5RGZYZEdOeWZjT1I1RzU1UkZqeTBG?oc=5",
-          "summary": "[AI MY 뉴스] 20일 중국증시 '美 AI주 급락에 中 기술주도 긴장…반도체 자립 돌파구될까'&nbsp;&nbsp;뉴스핌",
+          "title": "중국의 공기질",
+          "source": "IQAir",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JWWdYWWVzSTdPQ2NuUlhOSXp6a295WUsyZzB2ZzRZclZBcy1mUW9kRzI3RUdWVXRPbE9ubUNWTEtfNHQzd2sxX0lUUVhEaG5MX3UxTw?oc=5",
+          "summary": "중국의 공기질&nbsp;&nbsp;IQAir",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "FT \"삼성전자·TSMC, 중국에 일부 칩 출하 중단\"",
+          "title": "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합)",
           "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LeDRKTnR0VjEwMzE2ZEZpMGlaVVRoZFlQR2t4UFRSTFlCN0J4RXpNblEtRlh5VHdMLWJjLTBUalZhUlFXZXYwQlNSYzU5dUhxQWw4Zkkwdk9OVGPSAWBBVV95cUxOYndxbWFGaEZvbVd2WFZjZXlMNkVXcXV1aGY3R0pGQzJKQkZ3c2JjdmJQLUYwc3dKN2U5UUtBWHV2T25mbGROSmhFaHpvWmtlY1Jic21zczNjM01idm5ydUE?oc=5",
-          "summary": "FT \"삼성전자·TSMC, 중국에 일부 칩 출하 중단\"&nbsp;&nbsp;연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05RzBnazFPMk5iQVFManV2VWEzTW5YWkxxYjFleE5CNF9STlZhNEd3UUNQQllNMGl6ck85SlBjLUlSNERwYy0wblpUeko1SlNRZVJza3I1VWZnWEHSAWBBVV95cUxNV19HSXdCeXdOZEhHY0dPY1BqdVdZRVlGT3FzUVFhU2F0MlFDd1lxYll0SmJSMHd2d1dRWGl5WjdGUThaRTZrbjFIeU9nNGpQY2hGTTBEWVMzZ0k0Zm5DOWo?oc=5",
+          "summary": "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합)&nbsp;&nbsp;연합뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "트럼프 만나기 싫다는 김정은...일부러 중국서 멀어졌다? [자막뉴스]",
-          "source": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmSVk2TGRQbG1yV3pVWVJDbVVJbDA3cGVNVV9IRGw3Z2UzYUsxQ3c5MnE4elRfb1EzalNHdHVPdXZPaEJOWUxEMDA5NDVCLWF2RHFXWmNITm5fUjJNRnc?oc=5",
-          "summary": "트럼프 만나기 싫다는 김정은...일부러 중국서 멀어졌다? [자막뉴스]&nbsp;&nbsp;YTN",
+          "title": "트럼프 \"중국에 구형 칩만 판매‥안팔면 中 스스로 만들것\"",
+          "source": "MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tSU9wdEp3cHprTjVaelhnZ09oeVFYakpLaHhTd29hM1JNeGwwenQxa2ZoQWw3RXNaUHBNYktKdzNpVFNkV0xCcHRRVlZHaXVnWGVZejZyV19NRjhpZEFUWl9RaEdxNWdUTHlNTWxvVk9MUE5Z0gF0QVVfeXFMTm1JT3B0SndwemtONVp6WGdnT2h5UVhqSktoeFN3b2EzUk14bDB6dDFrZmhBbDdFc1pQcE1iS0p3M2lUU2RXTEJwdFFWVkdpdWdYZVl6NnJXX01GOGlkQVRaX1FoR3E1Z1RMeU1NbG9WT0xQTlk?oc=5",
+          "summary": "트럼프 \"중국에 구형 칩만 판매‥안팔면 中 스스로 만들것\"&nbsp;&nbsp;MBC 뉴스",
           "lang": "ko",
           "translated": false
         }
@@ -307,8 +307,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 1337.18,
-        "change_pct": 0.51,
+        "current_rate": 1334.79,
+        "change_pct": 0.33,
         "history_labels": [
           "12월",
           "1월",
@@ -335,32 +335,32 @@
           1377.11,
           1350.5,
           1337.98,
-          1337.18
+          1334.79
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "한눈에 보는 오늘의 뉴스 (11월 19일)",
+          "title": "한눈에 보는 오늘의 뉴스 (11월 20일)",
           "source": "데일리바이트(DAILY BYTE)",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPbnA2QXZESkR2QVdIQzdRQVRza1lvLVBMUXRkQk5UUGZlaV9rQzJiLXIwV29aTF90dU1lNFZJMU5VYWFRRDVJb1A2dDFKODNUNGh2RnA5ZnJ6cG5hNW1Rdzh3?oc=5",
-          "summary": "한눈에 보는 오늘의 뉴스 (11월 19일)&nbsp;&nbsp;데일리바이트(DAILY BYTE)",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zTThNVFdvUzdBWFdsbDdTN01ZdEJjWnBVMzYzR0RJa2RJSkdUUFNOdzdiRFRnZllES2hHVXY3TkxtNnBicUpRUXJpYk5qaDQyeXNObW55cXRKcDdsa01iRGR3?oc=5",
+          "summary": "한눈에 보는 오늘의 뉴스 (11월 20일)&nbsp;&nbsp;데일리바이트(DAILY BYTE)",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "미국, ’시진핑 돕는 트럼프’ 영상공개…우호 강조",
-          "source": "연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tUVBNeXFXRkM4TWhFMGpybUE1STFTeWE5dWQ5bDJGVS01S202V0FwWEVHeEVzOGEycjQwUjBRZm1CUDRXZjJCWkVybkVpYUtvUlhlSmJxVGRHSlR0aTJJUFRQWWhJYTg?oc=5",
-          "summary": "미국, ’시진핑 돕는 트럼프’ 영상공개…우호 강조&nbsp;&nbsp;연합뉴스TV",
+          "title": "[연합뉴스 이 시각 헤드라인]",
+          "source": "연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YeHNqSV95bHpld2VZRjU0N1VicnpFd0pXZlhtZ3RhckJiNTdTckpqRzBTZzJUUVZnZXpBakJGM2Vwdksxc2IxcVBrWTdUV0xaV2lLTXJRSTl0TURkYjhhMk9CMXNjbmxJdnBBcXRndGVUQXJu?oc=5",
+          "summary": "[연합뉴스 이 시각 헤드라인] - 10:30&nbsp;&nbsp;연합뉴스 한민족센터",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "덴마크 의회, 미국-그린란드 방위·안보 협정 만장일치 승인",
-          "source": "OhmyNews",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VblQxbUlvZXBONU9xTHZuVlZhVHBKS3pRUTdkb2djWjdGaGNGSVlXUUxBUk4zcVd0cTdlVVZkY0hockJ1TzkyYkZlLXk5TGJNWnFlTTNoQjBsNE1IZXpXWEFMYlJNZlQ3MGFkQnlMVTF6YXBpZzZN?oc=5",
-          "summary": "덴마크 의회, 미국-그린란드 방위·안보 협정 만장일치 승인&nbsp;&nbsp;OhmyNews",
+          "title": "트럼프 \"美기업, 다른 나라에 데이터센터 지으면 엄청난 세금 부과\"",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nTFJUbGdjTFBEazA0OWZ0bm5NNGNibWQ0NW05aWQtNG5UVlJ3Y0VRTUxKcm5FdEg1anozS3pNLURMRWQydjE1cjBJd3ZnWTBFY0FhNm5iSkE4UkHSAWBBVV95cUxQMm1PcmRiU2lldjhxZHJFYlFFcW9mQWdWRFVIeFRFM21WQU43S2Y5WHBiVWVyVjc5XzBKLXdmMDB3ell0Q0h4WEVTNVNjZUhCTU80bmpnTGlMMW8yYzdIbVI?oc=5",
+          "summary": "트럼프 \"美기업, 다른 나라에 데이터센터 지으면 엄청난 세금 부과\"&nbsp;&nbsp;연합뉴스",
           "lang": "ko",
           "translated": false
         }
@@ -438,8 +438,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 932.45,
-        "change_pct": 0.41,
+        "current_rate": 930.54,
+        "change_pct": 0.21,
         "history_labels": [
           "12월",
           "1월",
@@ -466,32 +466,32 @@
           990.76,
           952.01,
           955.94,
-          932.45
+          930.54
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "한-캐나다, 안정적·호혜적 에너지 공급망 구축 협력 지속",
-          "source": "대한민국 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSOGsyWDhUUTE4d1dQSzVuNHVKdHZkRGo4OW1pSTRpb3lKdGZJWDJ5bk5LUnFQQnJHTzFIRk04bF85cFJPU0o1Vm1KWmdpZ010bHFzQXhLRThHNnUtcW9LellPejdVWk44ZTdSUQ?oc=5",
-          "summary": "한-캐나다, 안정적·호혜적 에너지 공급망 구축 협력 지속&nbsp;&nbsp;대한민국 정책브리핑",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "알파벳, 캐나다서 회사채 발행해 5조6천억원 조달",
+          "title": "美-캐나다 갈등 심화…\"헤그세스 美국방, 양국 국방관계 제한 지시\"",
           "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YNHJ2MUNMb2ZFSFRmdklxWWwzUnlYN3BBNUcxUkVadXVpSXBPc3lzc0xna1IyOHRuRm5hdXhGa0NIaWQxZGFLN2hPMVY4cXI0c0hheGZqblNWT2_SAWBBVV95cUxOQURYOUllSmJRLXRFM3ZaSFpXQjlEbkNZZTRfbk5wdEluZFlkY1hBLS1pSlhLLUZsVk1DSXR3WG5WU2VxX3lmOVRwS1Bra2xrSnFMc0xvOFhKYXBoSEdwSGs?oc=5",
-          "summary": "알파벳, 캐나다서 회사채 발행해 5조6천억원 조달&nbsp;&nbsp;연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMdkN0djhhZTlabjA1MV91V3E5NXZYWE1temR5bjVFd3U5U3lpclBnRmdUaVVrdmxYZXV2RkxlVFpoMVFtbkVzN19tMDJ0Q2hoUzBONmt3SVBDbzTSAWBBVV95cUxPM3BxMVpvdXlpSHNYVVhDRmZjQjJ2c0VGcmJTMl9yem04N25LLTZ2QTZaTkU5YTV0Mm1SMUF6aXdyaUFqMTE2bDdkcWR4X2tHU2tBTklGMzFPVTRSdXNZRXA?oc=5",
+          "summary": "美-캐나다 갈등 심화…\"헤그세스 美국방, 양국 국방관계 제한 지시\"&nbsp;&nbsp;연합뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "산후조리원 없지만... 캐나다에서 배운 '가장 따뜻한 것'",
-          "source": "OhmyNews",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xQmxfaVNBYWJCbkJxV1g2aDRUYmFRMFNDLW0wdUZrOE9qOTdyWmpkcXlaa2VodFN2TFFiNjdiYlZhd2FZTE9nbUthODdFR0dTTUVITFQ2RWhoVzdaVXNzSWxqWGdnNEotaW1GLXR3RmxRMkpkNU5J?oc=5",
-          "summary": "산후조리원 없지만... 캐나다에서 배운 '가장 따뜻한 것'&nbsp;&nbsp;OhmyNews",
+          "title": "WP \"美, 캐나다와 군사협력 추가 제한\"",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ndG5UREFDVzg5ZzVIZjNIcmtwVFVnci1LOVc1bjJKQkllTHVKM3lOZld6OUY2OXVNM1pjZm95NkhrV2RZUFZ6ZDlzTE9BcjJJZHoyTXBaYzU?oc=5",
+          "summary": "WP \"美, 캐나다와 군사협력 추가 제한\"&nbsp;&nbsp;뉴스1",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "캐나다 | 에어캐나다 63위… 캐나다 최고 항공사 1위는",
+          "source": "밴쿠버 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54d0VrdWY1UGZNSnY5Q2dxV2haRWxBbDZTenpDTWdnbE8zMHBIRW9BcHM1cTZHNUJOWW95aXd5MGI1c1lHbkszOVpwbzlBTU83T0VsSkVrcmdvMFpzR2xSSzRzempSZ3FFeGh3SE1HdTdzNTBFYy1r?oc=5",
+          "summary": "캐나다 | 에어캐나다 63위… 캐나다 최고 항공사 1위는&nbsp;&nbsp;밴쿠버 중앙일보",
           "lang": "ko",
           "translated": false
         }
@@ -513,13 +513,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Minimum Wages in China: A Complete Guide",
-          "desc": "Minimum Wages in China: A Complete Guide&nbsp;&nbsp;China Briefing",
-          "source": "China Briefing",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPaDVQb2NYUkFYeUZ1aUhCOEFtOG9YUVB3R1IwUFMySWEzenNXalhVOHVrbUpVN0JtVXZiQXpEMHhWVzV0VHVCRHFhUnRwWFkzY0ZXMU1fVkhTN3Btb0lubFZraDFJVGs?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Minimum Wages in China: A Complete Guide"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -571,8 +571,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 1465.2,
-        "change_pct": 0.39,
+        "current_rate": 1462.41,
+        "change_pct": 0.2,
         "history_labels": [
           "12월",
           "1월",
@@ -599,32 +599,32 @@
           1579.97,
           1531.43,
           1495.9,
-          1465.2
+          1462.41
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "Hagenow 공기질 지수 (AQI) 및 독일 공해 | IQAir 대한민국",
-          "source": "IQAir",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYVprRFdZWWs3UTRXVktLYUhtNFBUeklBNkxOaHhNNkc2SHNESHA0amJDRERHbG8tTC01a2RUSTk0bFJIcExXV3NUZUxaeDlOWU11Y3VFZko0NDV2VVppX1h2b0hFT1c5cUdTU0w4SHJzRndwNG1jVHVGNE1PNmlDMw?oc=5",
-          "summary": "Hagenow 공기질 지수 (AQI) 및 독일 공해 | IQAir 대한민국&nbsp;&nbsp;IQAir",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "[자막뉴스]\"알테오젠 웃었다\"…독일 법원, 키트루다 판매금지 전격 취소",
-          "source": "티제이비",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXQk1kaF9leXVjQnJyODMxWmR1eXM3czZvMldqY1o3ck9waThpa193OU9mVV9iQ0ZNU0VDek5pMkFwX0NzaXc3U0I1bjh5RDVjM1JZU3Z3eEdDUm1BNExLUmVR?oc=5",
-          "summary": "[자막뉴스]\"알테오젠 웃었다\"…독일 법원, 키트루다 판매금지 전격 취소&nbsp;&nbsp;티제이비",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "안산시, 독일 바이오 전문기업 라이포타입과 투자 협력 간담회",
+          "title": "우크라 비판한 미국에 \"어리석다\"…독일 국방장관 발언 사과",
           "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44NTJJYnhkb0RreVpDam1kNWhsdXZ2UkdhakpBS0ZIemF2UzRsNXRFUURDdE90MlAyVWd0d0ZCQ0ZUcUlqSmhYM0d3MjAwVkFVOEVuSVVvdjNkbEnSAWBBVV95cUxOOU15N0QtbENQcFJ2dWI0a2tTVUxPY21acjN0V1Jwal9DWDZ0SHl1R2hTamZFS3VXcUsxSHVBVG9IMlZ5d1dwNC1YcElkYjlKQVFYN1RIdV9YSkdab2hEQWg?oc=5",
-          "summary": "안산시, 독일 바이오 전문기업 라이포타입과 투자 협력 간담회&nbsp;&nbsp;연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QWTlKdWRxeHRZMHpuY0c2VnM1S3ZZTVFxeDByN05zVFVNdnJUWTROcDRjRl96OG05VGJCQjJQR2pOc1NybkpySDdmU29na0k5YVpNTnpUMnZzRnlFOWl0NdIBYEFVX3lxTE9QWTlKdWRxeHRZMHpuY0c2VnM1S3ZZTVFxeDByN05zVFVNdnJUWTROcDRjRl96OG05VGJCQjJQR2pOc1NybkpySDdmU29na0k5YVpNTnpUMnZzRnlFOWl0NQ?oc=5",
+          "summary": "우크라 비판한 미국에 \"어리석다\"…독일 국방장관 발언 사과&nbsp;&nbsp;연합뉴스",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "메르세데스벤츠, 도심 주행보조 독일 첫 규제 승인…내년 상반기 전역 출시",
+          "source": "글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUtSOHRKQ2VweVJBSzhCZmg3Nk9rbXJmV2VxcmM0UGtaa1FPTFRTMUloWG9IcklVVHBqWEotRWdPbDdLVEdtWkhyOWtueDd6WGRqNWl1cWc2Wmh6VmYzVk54R0xWU0Q4WV83ejlFeXBFSElEZnhmRnloYTZ2cl8taEtCUVoyaHpC?oc=5",
+          "summary": "메르세데스벤츠, 도심 주행보조 독일 첫 규제 승인…내년 상반기 전역 출시&nbsp;&nbsp;글로벌이코노믹",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "독일대사, 장동혁에 \"통일 위해 중요한 건 꾸준한 대화\"",
+          "source": "프레시안",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOTzFyY1FfTW9BSE40RW5pRFo0WEtHUVBkNG5kc2t0LUZXaV9SYi1ReU9JaVRReGpIa2tucW1WY2t0YjU1bzNWSXN2aXJwbXVoV2tDYjAza2ZvOWZNRFFjdGR3LTc2enloSGZqWUs3bG9iYjktUlNxa2REcw?oc=5",
+          "summary": "독일대사, 장동혁에 \"통일 위해 중요한 건 꾸준한 대화\"&nbsp;&nbsp;프레시안",
           "lang": "ko",
           "translated": false
         }
@@ -704,7 +704,7 @@
         "is_base": false,
         "unit_base": 1,
         "current_rate": 3.93,
-        "change_pct": -0.93,
+        "change_pct": -0.89,
         "history_labels": [
           "12월",
           "1월",
@@ -737,26 +737,26 @@
       },
       "headlines": [
         {
-          "title": "징계받고 떠난 빙속 김민석, 헝가리 대표팀 은퇴…한국 복귀하나",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fVllaRFI3RnhoWV9FWXJyUUJZU1hiMVBCWlVVQkdWRVR4czFjLUkwenR1VVoxWG9YRGRMUUd0XzQ0TWs1SUFaN2ZCeW03ZktSTEU2WjV3NGhGSm_SAWBBVV95cUxNS1ZUMTNVT1JWNEF3d3R3aGVNZV9EbmtXdHlSNjZwZ2RnVTJkbXdUdThRSFoyZGpiVm9Vc3FwRWJWSFhUSVhGb0dfM1RhNks5ckV1enA4cFhGN1F6M2k4djI?oc=5",
-          "summary": "징계받고 떠난 빙속 김민석, 헝가리 대표팀 은퇴…한국 복귀하나&nbsp;&nbsp;연합뉴스",
+          "title": "빙속 김민석 헝가리 대표팀 은퇴…한국 복귀 전망도",
+          "source": "연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tb0xjamp2TEpfUm15Zl9xU010anhSS0xOYU11SDJZOUY5OHBlV1F2clRlcEhYdEVBX3MwWTgza0NUWThha0hSS2hNZzNhMHVJazZfQ1F1VTJWbDFCTUx2VnBZbWlhNmc?oc=5",
+          "summary": "빙속 김민석 헝가리 대표팀 은퇴…한국 복귀 전망도&nbsp;&nbsp;연합뉴스TV",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "징계받고 떠난 스피드스케이팅 김민석, 헝가리 대표팀 은퇴",
-          "source": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83clM4YlZLN2lyWEk4MDdlRm44aDVxNGFic0hBOGRqYWJOWHlJNlZua19YRXBTbDNGUWZPc2U2UnVqbjVyUmVpOUxmbldVdE9PTFhnS2RRVEFnYXVlTkE?oc=5",
-          "summary": "징계받고 떠난 스피드스케이팅 김민석, 헝가리 대표팀 은퇴&nbsp;&nbsp;YTN",
+          "title": "무디스, 헝가리 국가신용등급 Baa2 확인…전망 ’안정적’ 상향",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15UXhheElCS2JoODQ3dVkxbU93Z0N6NUdQVTE5dnh0SmNiZnFKV29rU0VnRUJydkhjbTZsVDVnYnF1dW5aekpqS3RucE5sUUtrM3NSY19WN3RTekUxeUtac1p5YXl0Z2s?oc=5",
+          "summary": "무디스, 헝가리 국가신용등급 Baa2 확인…전망 ’안정적’ 상향&nbsp;&nbsp;Investing.com 한국어",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "한성대, 헝가리 최고(最古) 엘테대학교와 '글로벌 교육·연구 및 인적 교류 활성화'를 위한 업무협약 체결",
-          "source": "뉴스에이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5b0JEZVFmTnNLNHE3cmFhV3dtODBVYU0zeDZVSlhUbEJOWFg4UXp5SWdSdVFEVno2d0RLY1l1Qm1WQWdTQ3F0S3dJOEtXN3AyZmctWTZBU2xnd09KbnJHMjlfTWc4VTliR2c?oc=5",
-          "summary": "한성대, 헝가리 최고(最古) 엘테대학교와 '글로벌 교육·연구 및 인적 교류 활성화'를 위한 업무협약 체결&nbsp;&nbsp;…",
+          "title": "헝가리 노사정, 2027년 최저임금 7.5% 인상 합의…월 세전 34만7000포린트 책정",
+          "source": "글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDJBZzA0T0Y3YUR2R0VZYXhjVlVyQmNLLW50SnBmY0Q1RHpjS1lLMGlRODFjS2ZIenJtT0kySzhXc3hYQmc5RVdKZTExWkdTSldjbmQzR3ZHRXc3MTFTOWk1RnFycmdyS1NhT01wZUY2S1BWamFBdFY0cDNlODU1cFhzNDlwc28?oc=5",
+          "summary": "헝가리 노사정, 2027년 최저임금 7.5% 인상 합의…월 세전 34만7000포린트 책정&nbsp;&nbsp;글로벌이코노믹",
           "lang": "ko",
           "translated": false
         }
@@ -766,10 +766,10 @@
           "category": "AUTO MARKET",
           "tag": "완성차·타이어 시장",
           "tag_class": "bg-rose-100 text-rose-700",
-          "title": "한국타이어, 3Q 영업익 6천억…분기 최대 매출(종합)",
-          "desc": "한국타이어, 3Q 영업익 6천억…분기 최대 매출(종합)&nbsp;&nbsp;KB Think",
-          "source": "KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WYnFZM1NKSjlIci1EQzVBWjZSOWpZaElSRllCbUlzVVRGOGZyamp4U2lVbnI0aUhTSjNqc21UVG5xMGFsbnNfamxFajNSMXRpbTNyUHpnMkg5ZC1CeTJhTGNYak5HUnRpRzh2aUFxN0kzZw?oc=5",
+          "title": "금호타이어, 넥센 제쳤다···유럽 매출 28.8% 급증",
+          "desc": "금호타이어, 넥센 제쳤다···유럽 매출 28.8% 급증&nbsp;&nbsp;뉴스프리존",
+          "source": "뉴스프리존",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuWjZ2NjFhRHNkRTFtM29DYWp1R2htd1BSb0JvbDc5YzJCS0plZWpHU01uUDNFazFKTERQYzFUWEtwZlo2M2o1ajB3dGZDb0UzWDNpVWUyc2ZvbkRkWktSYUswcThNZ21kZjZMUGJPdUIwZUdrZGc00gF3QVVfeXFMUG5aNnY2MWFEc2RFMW0zb0NhanVHaG13UFJvQm9sNzljMkJLSmVlakdTTW5QM0VrMUpMRFBjMVRYS3BmWjYzajVqMHd0ZkNvRTNYM2lVZTJzZm9uRGRaS1JhSzBxOE1nbWRmNkxQYk91QjBlR2tkZzQ?oc=5",
           "lang": "ko",
           "translated": false,
           "original_title": ""
@@ -778,13 +778,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Minimum Wages in China: A Complete Guide",
-          "desc": "Minimum Wages in China: A Complete Guide&nbsp;&nbsp;China Briefing",
-          "source": "China Briefing",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPaDVQb2NYUkFYeUZ1aUhCOEFtOG9YUVB3R1IwUFMySWEzenNXalhVOHVrbUpVN0JtVXZiQXpEMHhWVzV0VHVCRHFhUnRwWFkzY0ZXMU1fVkhTN3Btb0lubFZraDFJVGs?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Minimum Wages in China: A Complete Guide"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -834,8 +834,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 1747.45,
-        "change_pct": -0.12,
+        "current_rate": 1746.69,
+        "change_pct": -0.16,
         "history_labels": [
           "12월",
           "1월",
@@ -862,32 +862,32 @@
           1864.69,
           1787.63,
           1788.95,
-          1747.45
+          1746.69
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "문체부-영국 옥스퍼드대 MOU…한국학·문화 연구 활성화",
+          "title": "브렉시트로 헤어진 EU·영국, 정상회담서 '관계 재설정' 시동(종합)",
           "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ySUZrdUdhTHNXbVRzMGRkdDNVa28yMTBTUkNLVWhfblNCQ0dZc0hzY1dwYThxYXV5SXkyTUo0SU5XWHg5clBjTEZta0ZwOHYyUlFtNHhOR2lObGPSAWBBVV95cUxOd3VKTGJWc2VoUUQ1b3V6VUxpZGRTOUc0N0tPNkZxaVhYMFFyejNvOGxGUHhPbHVWLTMxZUhVeXFpUTFHcXBlOTFha1loYUw4WlhPbUJjSEpKQ2lidTZDeFk?oc=5",
-          "summary": "문체부-영국 옥스퍼드대 MOU…한국학·문화 연구 활성화&nbsp;&nbsp;연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XbG1kZEhsdWtsZjN2LS1WaUZ6YmdjVW04b3l4alNlM3V0dUh2V1dYdXQ0QTJoM0ZhZHVhUXRDZGVTYXpGckk5SkIxY2dMWDRoemd1RVZvdlVxbTJIOS1xbNIBYEFVX3lxTE1XbG1kZEhsdWtsZjN2LS1WaUZ6YmdjVW04b3l4alNlM3V0dUh2V1dYdXQ0QTJoM0ZhZHVhUXRDZGVTYXpGckk5SkIxY2dMWDRoemd1RVZvdlVxbTJIOS1xbA?oc=5",
+          "summary": "브렉시트로 헤어진 EU·영국, 정상회담서 '관계 재설정' 시동(종합)&nbsp;&nbsp;연합뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "유럽 '의지의 연합' 정상회의...영국, 우크라에 장거리 드론 지원",
-          "source": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jYTlzdUY4dUtpX2xpSGdVbVZWOFRqQmVDUjl3UUNDNy1NWTlBSXh5Z2R0UkZFdjVjbUd0Mm1ObFFfMHpPYzMtd0MwZDd0Z1VINUItQjdGTlBZdVE3aUN0ek5LXy1vV2t5UzZyY1UtN3Bza25YRXc?oc=5",
-          "summary": "유럽 '의지의 연합' 정상회의...영국, 우크라에 장거리 드론 지원&nbsp;&nbsp;YTN",
+          "title": "브렉시트로 갈라선 EU·영국, 정상회담서 관계 재설정 시동",
+          "source": "조세금융신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CSDV3ZnVlbTBCOFNHclNyNXlTMXR2NkVIOXpOX28yOW1HNUtqVmdJaU53MDdNbHdaUFVOamlCNE5iTUxOeDRDYTNmWHJuVEFUdzFhRWFBdjZRWUhZdVYzQ0Jwbw?oc=5",
+          "summary": "브렉시트로 갈라선 EU·영국, 정상회담서 관계 재설정 시동&nbsp;&nbsp;조세금융신문",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "\"미래를 위한 한류 연구기지\"…英옥스퍼드 한국학센터 공식 출범",
-          "source": "연합뉴스 한민족센터",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nWW1XQ3BxaEpCQnBzNVRsM3d6QWJwY3VUVUNrbG5yVVhfX053NFpYV0RnaGI2SDJSTkhzaloyNUNSSExJbUtpV3F1Vi0tZHpoSkMxNlJDUnVTZWJtZjRkMWd5MmV6OVh3X3E2OW1YcGdrYmpY?oc=5",
-          "summary": "\"미래를 위한 한류 연구기지\"…英옥스퍼드 한국학센터 공식 출범&nbsp;&nbsp;연합뉴스 한민족센터",
+          "title": "영국·EU 이어 스위스도 ‘북한 송도원야영소’ 제재…‘우크라 아동 이송’ 관여",
+          "source": "VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1falNPS2FuZTVJbmhUZzFzWlVNU0dVeDBUdXhWSnNPNXdlY05hRWtpWHdQNXJNcVFiLVdFUDNEOEk4V2I0WWFSal8xcEJZWUc4aEZhM19nSEhKZHY5NGVCdlA2QlI2ZEZuUFZxY2NRd3VaV3lya2w3eGhQMWJVZ9IBgAFBVV95cUxNS29KRms4Yldmakk3ZG1kbzNxSU9NLUY0SzQwZDF2ZGgxTmdsSXYteXlhLVR3UW5XVjFrU3N5UC1WTTE1d1RISmJKQkplV1dOcVNvVTNEZlRpcTJMWms1Vk5XUm9ySzhCVGY2M3BsVktsUmNEQkhmVkNfR2tueG1hOA?oc=5",
+          "summary": "영국·EU 이어 스위스도 ‘북한 송도원야영소’ 제재…‘우크라 아동 이송’ 관여&nbsp;&nbsp;VOA 한국어 홈페이지",
           "lang": "ko",
           "translated": false
         }
@@ -897,10 +897,10 @@
           "category": "AUTO MARKET",
           "tag": "완성차·타이어 시장",
           "tag_class": "bg-rose-100 text-rose-700",
-          "title": "기아, 독일 車상 비유럽 첫 3관왕... 한국타이어, 英 상용차 박람회 참가 외[시…",
-          "desc": "기아, 독일 車상 비유럽 첫 3관왕... 한국타이어, 英 상용차 박람회 참가 외[시경Today-자동차]&nbsp;&nbsp;시…",
-          "source": "시장경제신문",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ajB0eTlRNU9UcU03SmpGcm1jRFlPRVFjWm5oZHg2eVZaOXJpWU9Vb2ZyVDdoaHZjZXptT1dPUzdtRE0zTmhnMVBfaXlrVWh2ZEZ3N1hsZHFYeDQ2c3RvaTVlQ3NoSFhUSGpFN1YtTUg?oc=5",
+          "title": "영국 10월 배터리 전기차 신차 점유율 32%로 올 최고치 기록",
+          "desc": "영국 10월 배터리 전기차 신차 점유율 32%로 올 최고치 기록&nbsp;&nbsp;다나와 자동차",
+          "source": "다나와 자동차",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU0ptS2hyWVVrWjZDazFad3hqaE8tY0t3LWg1VDVfaUtSTllSTnozVFZ5dkpxTXQyMTc3MUNjV3JPeERBakF4WDJsX001OVp0RzVKNXhUX1pYS1JrRmNJOHZrdlp1cUdYdGllMnc3V0ozaWRVM1ZZVDlFeVNocU5XVC0td2puYTY2cmFTZnVmd3RnYnM?oc=5",
           "lang": "ko",
           "translated": false,
           "original_title": ""
@@ -909,13 +909,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Britain to make salary disclosure in job ads m…",
-          "desc": "Britain to make salary disclosure in job ads mandatory&nbsp;&nbsp;Reut…",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNai1SVnJsN2pqZlo5S1l1YTNGWkhCYTllcVlpenJyLTNPeVJ0M3gzYWFIWlJady14WXZ1R3VBRW43aTZjVTRvVXNBTkxUbmNaVU1YSTRVaEVfb0tKQ19xc0pPVGdHdndyejJkb2NPV1dtYUFCMkxNdUlIdzNvM0N2cnN4RjhZSjVTdjlTM1A3MXhWencxZnQtTEN1TFRNaUVNRHlheWR5VnZXN28?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Britain to make salary disclosure in job ads mandatory"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -965,8 +965,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 1465.2,
-        "change_pct": 0.39,
+        "current_rate": 1462.41,
+        "change_pct": 0.2,
         "history_labels": [
           "12월",
           "1월",
@@ -993,32 +993,32 @@
           1579.97,
           1531.43,
           1495.9,
-          1465.2
+          1462.41
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "[기획1]통합 10년, 프랑스 옥시타니의 선택",
-          "source": "KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HU0ZIVlV4RjBjSG9McElEZUxRRVE3RzFVU05YS3ZnVU1MQS1HM0gxbGV3b2VxUTRrT3g0NUVMdDBncmtMcFo1M0NpSDIyd0pZNHBaOUg4VjBWM0dyS2NsTjQweXUxMDQ?oc=5",
-          "summary": "[기획1]통합 10년, 프랑스 옥시타니의 선택&nbsp;&nbsp;KBC광주방송",
+          "title": "프랑스 대선판 뛰어든 드빌팽 前총리…마크롱에 \"유령 대통령\"",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zejNna3FULWRNZ2xkV2I5TmVmM205aUZkYjR5Q19icmNmTk1zSFczaFUwR0xyTFplLUFGeGl2X3BBQVdNMzNwcEpXLW9OZzRRWkRGTzZ0b21la0c1ZzhFYdIBYEFVX3lxTE9zejNna3FULWRNZ2xkV2I5TmVmM205aUZkYjR5Q19icmNmTk1zSFczaFUwR0xyTFplLUFGeGl2X3BBQVdNMzNwcEpXLW9OZzRRWkRGTzZ0b21la0c1ZzhFYQ?oc=5",
+          "summary": "프랑스 대선판 뛰어든 드빌팽 前총리…마크롱에 \"유령 대통령\"&nbsp;&nbsp;연합뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "'살인 면허' 반대 구호 외치는 프랑스 시위대",
-          "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtS0tOYTdXOGhqSUVzdjdaRmZmSjlBdlkxWFhxTmd4Y1AxYTZycWo1Qnl5V2lncFZ2TVZEM0RYbWhGdG51SnU5TGZObnYtRUJScDFlNHdrZ1VZM3ZRV2xMVmZZOGFadw?oc=5",
-          "summary": "'살인 면허' 반대 구호 외치는 프랑스 시위대&nbsp;&nbsp;뉴시스",
+          "title": "러·유럽, 종전협상 줄다리기…프랑스 \"역할 있어야 모스크바 갈 것\"",
+          "source": "연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsRjRxcGpxX3VrQ3pndXFFUV9PRkVka0pDWWx4ZTQ4ZThBRDAzX2IyNFRvZDJnMF8xOWFFRGpMV2V3QjkyTjVWSGZQeWtGMG5jOXFVMVZCVnNvNEQ1UUJlQlFSYkR4aUU?oc=5",
+          "summary": "러·유럽, 종전협상 줄다리기…프랑스 \"역할 있어야 모스크바 갈 것\"&nbsp;&nbsp;연합뉴스TV",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "비용 급증에 멈춘 프랑스 차기 해상초계기 사업…팰컨 10X·유로드론 대안 될까",
-          "source": "Meta-Defense",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlRMUjVFV2FsOXh1Xy1KZ19icWhKMXVPVlBCS2dCNWJ1X3hnb3pGdEstMzY5OFBBUzByaElFU2QyWHJLbDlteEtOZzdUemtLQmhiMXBJVnZHOENrSlRDTm9sd0tpOEt6NGFmblZGNTc2LWZwb1MwM2w4alhIYWV3Y2hn?oc=5",
-          "summary": "비용 급증에 멈춘 프랑스 차기 해상초계기 사업…팰컨 10X·유로드론 대안 될까&nbsp;&nbsp;Meta-Defense",
+          "title": "“개인주의 심한 프랑스, 내 연금만 챙기려 해 시위 난리굿”",
+          "source": "중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ObEx3RmNQczBicjJhdnRuMGNLeEJ6T09RbHlHVUdnS3RkQVI5aHRCa1prTjUxZ1p0YmMxQ1BlaTR6QS1HV01lTm82N3Y4SWhIWXk2RFB3?oc=5",
+          "summary": "“개인주의 심한 프랑스, 내 연금만 챙기려 해 시위 난리굿”&nbsp;&nbsp;중앙일보",
           "lang": "ko",
           "translated": false
         }
@@ -1040,13 +1040,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "How can the U.S. achieve full employment?",
-          "desc": "How can the U.S. achieve full employment?&nbsp;&nbsp;Fortune",
-          "source": "Fortune",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYnZjVnRwcGRacldJVUpxYzRjNE5YRVhtVDY1YW9vVlcxNDdtdG1jQ2VWaXFwaUJFNERhN1k1dUpacFgyUlMxMGdMYlRVYjVSWHc0eDVlazFiWjlmR1dmWjdGbkpYNzc2UVJHWlJzX1FUMzhNNkNWNmF1RTA0TVZuTHROcVFrd0RubmY4?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "How can the U.S. achieve full employment?"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -1096,8 +1096,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 1465.2,
-        "change_pct": 0.39,
+        "current_rate": 1462.41,
+        "change_pct": 0.2,
         "history_labels": [
           "12월",
           "1월",
@@ -1124,32 +1124,32 @@
           1579.97,
           1531.43,
           1495.9,
-          1465.2
+          1462.41
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "이탈리아 우니크레디트, 독일 2위 은행 인수 눈앞",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlYkotU2lrRGt0Y2ZXdE5DbHRLWWlQTE5hQ1lnSzhaOXIxNHVhVklOUmI1TGRsQXNwTW5rcXNFMVNYV2NMWlRVbEpaSjBnV2lORXVYSEtLRHZrRGPSAWBBVV95cUxOXzMtRG1aOVVMeXhfVDE2Y2R4c1FWTkhMQ3lGMXlUNHNhUWJtZWxhSk84MWs5eTQ3M3l6MEZLT3lxUzc1SFlfZnlGQTlVbUdKR3lOOVByRlNkU0FTNV9SYlE?oc=5",
-          "summary": "이탈리아 우니크레디트, 독일 2위 은행 인수 눈앞&nbsp;&nbsp;연합뉴스",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "5일 후 한국 만나는 이탈리아 대표팀, 엔트리 막판 변경…베레티니 합류하고 볼렐리 제외",
+          "title": "[김종석의 그라운드] 잃을 게 없는 한국, 지켜야 할 게 많은 이탈리아…언더독의 특권",
           "source": "테니스코리아",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fR0toQVZ0Sl9fam95UThHY2ZmYTY3bXlOQmZYRDFkaURoVEktQVlzM3lDazItVkd0bDZsZGZDU0pmT19nQm9QRFBKRllRNjl6MEdTV1NhWFpBNmVQVEhfQ1ltTlBlTVlUdXc?oc=5",
-          "summary": "5일 후 한국 만나는 이탈리아 대표팀, 엔트리 막판 변경…베레티니 합류하고 볼렐리 제외&nbsp;&nbsp;테니스코리아",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50d2pWS3BSQXo3YnQxcFNGXzQwV2pGeXFMbzdPYm00TjVIVnBMLUpMLUlibnRWY0VTZ2d3MXF1XzhlV0UwekxXUWtEVVJnN1lHOG83NkF0bHBfQ3BFR3F3czBlQlFJR3lpOUE?oc=5",
+          "summary": "[김종석의 그라운드] 잃을 게 없는 한국, 지켜야 할 게 많은 이탈리아…언더독의 특권&nbsp;&nbsp;테니스코리아",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "잼잼테라퓨틱스, 이탈리아 스타트업 피칭 2위…미국 대회 이어 연속 수상",
-          "source": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LbjZORFVSbVpJZThQRUlVQ0xfV2dKaW41eVduY0d0UllSR0RCcHdoU0xxT1FfQkNneWRoSUNJQkpKcDdVN2VyTGUxTTJRdklFUFZFbDBWQWI5MDhfQVUxTlpobEg1TXNzNDVaMA?oc=5",
-          "summary": "잼잼테라퓨틱스, 이탈리아 스타트업 피칭 2위…미국 대회 이어 연속 수상&nbsp;&nbsp;바이오타임즈",
+          "title": "“튀니지 올리브유, 한국 수입량 3.7배 폭증”... 스페인·이탈리아 이어 수입국 3위로 부상",
+          "source": "특허뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NT2dlZExIRUhOSEo2RXpXQTRWNl9ha3dybThtU3Bxb0stQ2V2aEE2VTV0XzJJSUJySVA3bllrY2VKTlQ0eHhDcg?oc=5",
+          "summary": "“튀니지 올리브유, 한국 수입량 3.7배 폭증”... 스페인·이탈리아 이어 수입국 3위로 부상&nbsp;&nbsp;특허뉴스",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "가축 하산 축제·요새도시·프로슈토…이탈리아 북동부 여행",
+          "source": "ACN아시아콘텐츠뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TdXVRTGs0bXQ3WnkydC14dVp6VU1DR1U2STBNN0RhdTFQU0tmYVUzRUdKcnFOcndmVFNNSGxaYUtqbElRdENEeHRQY01leHo5RWl3QUNpVzlyWGdpckphZU1keXVoZlVW?oc=5",
+          "summary": "가축 하산 축제·요새도시·프로슈토…이탈리아 북동부 여행&nbsp;&nbsp;ACN아시아콘텐츠뉴스",
           "lang": "ko",
           "translated": false
         }
@@ -1159,13 +1159,13 @@
           "category": "AUTO MARKET",
           "tag": "완성차·타이어 시장",
           "tag_class": "bg-rose-100 text-rose-700",
-          "title": "압축 성형 프레스 시장 2035년 전망: 복합소재 수요가 성장 견인",
-          "desc": "압축 성형 프레스 시장 2035년 전망: 복합소재 수요가 성장 견인 - 뉴스 및 통계&nbsp;&nbsp;IndexBox",
+          "title": "Ultra High Performance Tires Market To 2035: E…",
+          "desc": "Ultra High Performance Tires Market To 2035: Electrified Performance V…",
           "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYzlpVjV1T1F5R3JsQVI1bmdKR2x2OHRfQm4xX193SWJ6aTNRZWJGLVRCUWdKbm5ab29jNV82bGdTanRyX1NiekJYeHJpNV9pVUp2RTZQcFBhWlZINWN1LWM0Mi1HRnZDMWhIamxvdnRDZktVb3lNekRoc3htLXl5SGU3VDhFVDM4RF9GUzJ1anU4MEd6UWt2a1M1dm9BM09LU1I1czRBNjBFeVBRLXNjSWFpTmtUZjMtSHEzMGdYV2h2OUtvWi1hSHctR0tGaWtBUHlaZUdrTXQ5ZkV5OVhjT2RWYUo1UQ?oc=5",
-          "lang": "ko",
-          "translated": false,
-          "original_title": ""
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY3Q2NnpWUjhsZEZ2LWxnUWE1WXNIUHNuU1BXOHhtc0J0UTc0dHNvOTB0RHVEdlR6cUdtbldXS2ZxRVJlSzF4LWxLVmxsWUZPVmpEc2ZFMXh2RlItRUs3M0NUWUgxQVNWVkM4YVhIMVY3bFZsc3hIYnh6QWU4eVp3aWNtTVdvZGZPSGhHM2FaRzFqcjBibm5pU0VaSG9GZTFYRXhEbS1yQW5nUngzc3pXS0VBc214QTVHYmU1X253UHQySmE4dmV0ajN0cmV3WkRoVzBMVy1HQTBnZzQ?oc=5",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Ultra High Performance Tires Market To 2035: Electrified Performance Vehicles Fuel Growth"
         },
         {
           "category": "HR & LABOR",
@@ -1227,8 +1227,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 1465.2,
-        "change_pct": 0.39,
+        "current_rate": 1462.41,
+        "change_pct": 0.2,
         "history_labels": [
           "12월",
           "1월",
@@ -1255,32 +1255,32 @@
           1579.97,
           1531.43,
           1495.9,
-          1465.2
+          1462.41
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "스페인서 한영수 사진전…서울 여성 모습 담은 26점 전시",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03NmtKbzhmY0RGUnItNUlDeUtFWXFFT1hoVFA5WTFjeldGajEyTEVIZFQxeG1Xd3NNeEprTkFHMzN5WU0wYmdDdXJqOUhWaUVBU05lenRhaUZvOEHSAWBBVV95cUxNeXNEaHNuUGhkaUlabHhYMmlJb094UzNySzlhOS1CZkFIV1EtLWg3clN3OGxPVFJSY1B5QXNjdHN5WWRQSUZKSFRieUM3ZTlMalhDcWxFU0Z6VURRWjlIXzI?oc=5",
-          "summary": "스페인서 한영수 사진전…서울 여성 모습 담은 26점 전시&nbsp;&nbsp;연합뉴스",
+          "title": "“튀니지 올리브유, 한국 수입량 3.7배 폭증”... 스페인·이탈리아 이어 수입국 3위로 부상",
+          "source": "특허뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NT2dlZExIRUhOSEo2RXpXQTRWNl9ha3dybThtU3Bxb0stQ2V2aEE2VTV0XzJJSUJySVA3bllrY2VKTlQ0eHhDcg?oc=5",
+          "summary": "“튀니지 올리브유, 한국 수입량 3.7배 폭증”... 스페인·이탈리아 이어 수입국 3위로 부상&nbsp;&nbsp;특허뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "폴란드 국방부, 공중급유기 4대 도입 추진…스페인과 공동 조달",
+          "title": "현대차 스페인법인, 신차 5종으로 2027년 점유율 반등 승부수",
           "source": "글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRlZHLS03UmJPWFlpaVlCSTFnVTRxSkJrZkY1NFpBUmlZQkpSTk1PQU5HVm1NMEd5Rm1oTmJvUzY4UXJGT3VMVEI5TFhYRFhFZklBdC1YNGxuRTlXOGFFM2k3RmlrZUZ0QzFwQjlKcTZyMTF2eU9sYW81TktUUVFQRHE3a09ZLUE?oc=5",
-          "summary": "폴란드 국방부, 공중급유기 4대 도입 추진…스페인과 공동 조달&nbsp;&nbsp;글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1VjYkN4TjM2VHJsYWZESGg2aFRNLW4yenQzZko0bmJzNDdlcTFWbFluUzk5b0xUYVRPREQycVlDSy03OHlnclVxeUl2X2NFMVpvOG5Lck1DOXJLT1JURkV3NDdrbWJuNXRjSjBLVVpISC1Yd3BLaFd2VkhrZFo0SDBtc0Z4Zjdv?oc=5",
+          "summary": "현대차 스페인법인, 신차 5종으로 2027년 점유율 반등 승부수&nbsp;&nbsp;글로벌이코노믹",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "스페인 대정전이 던진 질문…‘예비력’에 가격 매기는 국가들",
-          "source": "전기신문",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82ZXhxU3NodTRrNDNNUFdPaDZOWFJsdG9CdVdIMUhETDdjdXdxVzlKY042RlR6VUVwQXB4bzVPSVRfZFFram5Pc1pUMEJfeHBkVU5KbGFXaFlycnNhQldSUmRqVThFcVNveHlTNUNrbW_SAXBBVV95cUxPNmV4cVNzaHU0azQzTVBXT2g2TlhSbHRvQnVXSDFIREw3Y3V3cVc5SmNONkZUelVFcEFweG81T0lUX2RRa2puT3NaVDBCX3hwZFVOSmxhV2hZcnJzYUJXUlJkalU4RXFTb3h5UzVDa21v?oc=5",
-          "summary": "스페인 대정전이 던진 질문…‘예비력’에 가격 매기는 국가들&nbsp;&nbsp;전기신문",
+          "title": "유럽 집값 10년 새 70% 급등… 스페인은 주택난에 조기 총선까지",
+          "source": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON09wdXJ2NG43bjFxVXJKU0ZwNElsUXJWdUVLSkxkNkhpT1pSSXB2YWpESnctbWN4M3hmZGZ3Z0VZcDlQd1hYczhtUTlTbFdOVE92OFZzRVN6YldDcElKVWd1YWRoOTM3Z2hoSDZZdWRESV9ZYkhxRmdMcFVPYTJzaTVkYlEwd2llcUp6TTBmU2NyNTlqUXBxa0tKcjBHd9IBsgFBVV95cUxOd1BoYjZQdHlGbGVfOFowd2NSU0JQT1dJYWJ0TzJwRjNFenpCMWM3b2hVYm9QekVfeHA0OWNLM0M2UWxXR2FKcloxNDdjOTI1WmZkYlA2ZXV0d0tHSTJsQ253cEVQUmZnREFhZ2J1QUtHRlM0RF9GX0otcVJzQnM5bC1EaUlqeDg2ZGZKLXVNaXVEVWdYbGNyOFVfZ21CdVl3U3h6RzhwLU9aRE9IWS1Yd2NR?oc=5",
+          "summary": "유럽 집값 10년 새 70% 급등… 스페인은 주택난에 조기 총선까지&nbsp;&nbsp;Chosunbiz",
           "lang": "ko",
           "translated": false
         }
@@ -1302,13 +1302,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Millions of Spanish Workers Stage First Genera…",
-          "desc": "Millions of Spanish Workers Stage First General Strike in 14 Years&nbs…",
-          "source": "Time Magazine",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjJOS2wwLU50OElxQXFIUDUyQXMweWdHVW05bkZscmV0VVhEenFhbmdPM05pdXBuSHE1alNDQTFOcFJLaXdmVWIwZ2tHbUhlNXluWm5fa1RBdU91d3kzcVFfa1lhb2FIb2dGVkpodElWVVYxTEVTNlowVG03RnZtbzUtY0dmNEtGS0ctcEFEb3B0TlREeGdOeVBKYm9YNUk?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Millions of Spanish Workers Stage First General Strike in 14 Years"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -1326,13 +1326,13 @@
           "category": "MANAGEMENT",
           "tag": "관세·공급망",
           "tag_class": "bg-amber-100 text-amber-700",
-          "title": "Consumer goods companies rethink supply chain…",
-          "desc": "Consumer goods companies rethink supply chain for a volatile trade era…",
-          "source": "RSM US",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMm5fU25vSmZJalQtLVB1bnZEN3ZvMEg0NkNyWFlNc1VXTXFMNVJqNWpaN0V6WW1MTHNjSjgyUnRIUTd0QVhHTGNPeWNFN1RkUHlDUnBvN1E0U1NCMlpKejFyMHUxWXFja2lrV1lxelRxanU4SFdzdWt2TzRROTlySnIzRW13TlBjTFFmVHJVYnRzX1dsNzd1Tk1rbUxCVnJtR3JfRnFqVkhoNGdxZU5F?oc=5",
+          "title": "Holiday shopping tracked by Port, USC in ‘Ship…",
+          "desc": "Holiday shopping tracked by Port, USC in ‘Ships to Shelves’ Study&nbsp…",
+          "source": "American Journal of Transportation",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYWpGNW5NczlQUzVBMm1KaThJYWFWd1JaYTZNdUVHOUcxcXRFaHM5T2U5VENVNkRKMHB3S3JnV0FQNzRuOHJ6blA3akZDbzZkRzd6UEltZWVDNnFnRmxYOExiRVRINjYyeFNKVkk0SW5FZWxHX3p2dVFVVnMxVTVtOUFsNmszMXVBMTJKUV9FcG5mdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Consumer goods companies rethink supply chain for a volatile trade era"
+          "original_title": "Holiday shopping tracked by Port, USC in ‘Ships to Shelves’ Study"
         }
       ]
     },
@@ -1358,8 +1358,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 330.34,
-        "change_pct": -0.2,
+        "current_rate": 330.21,
+        "change_pct": -0.24,
         "history_labels": [
           "12월",
           "1월",
@@ -1386,32 +1386,32 @@
           367.94,
           350.9,
           341.07,
-          330.34
+          330.21
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "삼성SRA자산운용, 폴란드 물류센터 1.4억 유로에 인수",
-          "source": "더구루",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MQ2IyZXdWSEFlLUdRak5CTnljWUg1TTBIMjRMVDNnNUZCT1ZveWxkRzVKV0JrNDRGdG1VaTJnelFKc1NvckIxWllaUEY1cGhHOV9sSzU4UlNiRVd3NjBMblpUVQ?oc=5",
-          "summary": "삼성SRA자산운용, 폴란드 물류센터 1.4억 유로에 인수&nbsp;&nbsp;더구루",
+          "title": "폴란드 '러시아 미사일이 영공 침범'…폭발 순간 CCTV에 포착",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yMG9xXzdZVmxYWWdXRU1yZ1E4bi0ydDhLSk1pLUthWjU1OGRteWI4T2lXeDdmenJEQ0ZPMDhiM3hLUUZ1R3BGT0JNV3AzeWEtN3VadGpDUWtib1I0Q2fSAWNBVV95cUxNQV9fVUhCeXdJNUtFaVFpSTBObkZ4X2VBS1BDMHQxM1J0OVk3VUxqbWxfRXpLcjZFUDREamNpNE5DbHdVUm0tUjFYb0k3MGpNVUlfS1U0eTVIRDdySHBZUUQtLWM?oc=5",
+          "summary": "폴란드 '러시아 미사일이 영공 침범'…폭발 순간 CCTV에 포착&nbsp;&nbsp;BBC",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "한화에어로 천무, 크로아티아 6375억 계약으로 폴란드 방산망 연결",
-          "source": "글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlc5VG1CZVIxRU1BQWsycEdDYlJ0UVl4aE0tei1WS0tvTnBVcFA3ZFlNTlBZb0x1WjVvY3RxeWpNNUV4TV9ZUml1S3MxZUc4bHZjY2Etemh1Si1MeDlaMlFxVzVsMFhtVUsyNXVYMWh4UEY1ZmU2ZHFRcXYtX2NsVmoyNERjV2lh?oc=5",
-          "summary": "한화에어로 천무, 크로아티아 6375억 계약으로 폴란드 방산망 연결&nbsp;&nbsp;글로벌이코노믹",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "\"러, 지난달 폴란드 국경침범 가짜깃발 작전 꾸며\"",
+          "title": "폴란드 \"미확인 비행체 영공 침범…러시아 미사일 추정\"",
           "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WREJJeXlUX19CZUxzME9INE9xTGZ4c0VFaVVLR3RBQmJRbnN2cFE3R21CLU1zRUlheWlVMl9vTFFwc1E2RVhpMVBkUDI4RGZjQk13OUdNRTkwbnPSAWBBVV95cUxOTzRzTE85c1FxZ2htX2pGSUZjWFU5Qm95LUFmeE1uRE5menV0RWt2d3pNallvbDZpSzNBVHN2YWFqS3lnblJnbk5KWkJQbHJRR2U5RTdHQUNKLWhPdmxsVkk?oc=5",
-          "summary": "\"러, 지난달 폴란드 국경침범 가짜깃발 작전 꾸며\"&nbsp;&nbsp;연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vSHZaU1RjU2NOOERjcDBJNVpRa05xM1A3MUZaT1lObGRCSGdybXlJNUNxWFNPaWhvTE1VcDZCZXBiaGVNWXJmUUhHOFllU3NZYkNxeHJNUnBDYW_SAWBBVV95cUxPaHBsTGtfMTF2T0pfQnJoVVlVX0E0N0t1azM4OEFTc3FnTXZ0UjhuOVB1cWVUUFBLMTBfUW5sMHFjc1FDTkI3M2lhc0dpZkVGdEtBYkVWQ1Z6Vm9DZGlyTGs?oc=5",
+          "summary": "폴란드 \"미확인 비행체 영공 침범…러시아 미사일 추정\"&nbsp;&nbsp;연합뉴스",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "유럽이 가난해졌다고? 폴란드는 ‘유럽의 한국’이다[딥다이브]",
+          "source": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtSGtGOUgtUko5c0tvSDJjUXdaU1VMUmE2UUFqel93NHNVcjg5Yi1MLXJKUlg3NDdIZTNRcFJpb0gxOWZwa2EydG9PNmpBdjVYSUdoZVJBTzFKTVRLWERMQ29QeVhwUdIBZkFVX3lxTFBtSGtGOUgtUko5c0tvSDJjUXdaU1VMUmE2UUFqel93NHNVcjg5Yi1MLXJKUlg3NDdIZTNRcFJpb0gxOWZwa2EydG9PNmpBdjVYSUdoZVJBTzFKTVRLWERMQ29QeVhwUQ?oc=5",
+          "summary": "유럽이 가난해졌다고? 폴란드는 ‘유럽의 한국’이다[딥다이브]&nbsp;&nbsp;동아일보",
           "lang": "ko",
           "translated": false
         }
@@ -1433,13 +1433,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Minimum Wages in China: A Complete Guide",
-          "desc": "Minimum Wages in China: A Complete Guide&nbsp;&nbsp;China Briefing",
-          "source": "China Briefing",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPaDVQb2NYUkFYeUZ1aUhCOEFtOG9YUVB3R1IwUFMySWEzenNXalhVOHVrbUpVN0JtVXZiQXpEMHhWVzV0VHVCRHFhUnRwWFkzY0ZXMU1fVkhTN3Btb0lubFZraDFJVGs?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Minimum Wages in China: A Complete Guide"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -1489,8 +1489,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 60.04,
-        "change_pct": 0.27,
+        "current_rate": 59.97,
+        "change_pct": 0.16,
         "history_labels": [
           "12월",
           "1월",
@@ -1517,32 +1517,32 @@
           66.17,
           62.77,
           61.5,
-          60.04
+          59.97
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "한수원, 체코서 두코바니 원전 냉각탑 입찰 현장설명회",
+          "title": "한수원 \"대우건설 컨소와 체코 원전 계약 공식 종료\"",
+          "source": "매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VTWdkUFFMX09qT1ZtdFByY3RVZ0tYbjhycDRGMDJndWZpSXRnN1hmU0Y3amlEWUd0QkhNZmJ5VV9kZnQySjZzNDFNaHZZdXlHanEzLTVfQTlfSFFJZGRMcGhaNmM?oc=5",
+          "summary": "한수원 \"대우건설 컨소와 체코 원전 계약 공식 종료\"&nbsp;&nbsp;매일일보",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "한수원 \"대우건설 컨소시엄과 체코원전 시공 공동협약 종료\"",
           "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uRWg2MHBuTXJxa2xIUU1WMFNfN0JaYWRlTnpPQldvdU9tSHpCYnhMclQtQ3NJZ3V1czdPd0JhNW9GTDdqWUVsU3B1LWsyTzJ5YlhGdVhQWl9sZzTSAWBBVV95cUxPcnMwVG51aVdyNVZxQ2RUOWVnR1pBR1EyWmU2d1lpX3kzZUY5cFBiXzFKMzBMd094OEU2cGVnS2pRM1ZkLVRob0xFUW80N2VYVURnWVpnbVZGaUNZeDBtSFU?oc=5",
-          "summary": "한수원, 체코서 두코바니 원전 냉각탑 입찰 현장설명회&nbsp;&nbsp;연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kdUQ0Q2p4VDlVcTRRQ0dOY09WWGo2cVBBQUxNdGN3U2FLbnlzOHVERnZBbUJibGRuTWJmcDJzYTM0Y1NXUVhNc0liVXAybWVfQTREWjE3Vi1tZFNkRHhiUNIBYEFVX3lxTE5kdUQ0Q2p4VDlVcTRRQ0dOY09WWGo2cVBBQUxNdGN3U2FLbnlzOHVERnZBbUJibGRuTWJmcDJzYTM0Y1NXUVhNc0liVXAybWVfQTREWjE3Vi1tZFNkRHhiUA?oc=5",
+          "summary": "한수원 \"대우건설 컨소시엄과 체코원전 시공 공동협약 종료\"&nbsp;&nbsp;연합뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "한수원, 체코 두코바니 원전 국내·외 공급망 구축 속도",
-          "source": "에너지데일리",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wZVd0UzJScHlxRHB1STBaM2dTZEZSU3FES0hLMEFGY3dxcUlsWlBOZWV5c2NJeUpIR2tqbnlrSnM5YTlwU09ObmhoZXFSY2hjaFZ0UjBCOXI1UkdNbmpnNEx4TlRCeElTc0w0bzI0ZUl6dw?oc=5",
-          "summary": "한수원, 체코 두코바니 원전 국내·외 공급망 구축 속도&nbsp;&nbsp;에너지데일리",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "체코 두코바니원전 냉각탑 2파전…한수원, 후속발주 ‘착착’",
-          "source": "전기신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Nc2RvY05EWTVvcEVLMTdiSGNCUTBTV3lwZ3I5Q19ZYS1TbTJ2REI0YU9iQXlJTUFwNUZmdEZ4VGhsWHdtUTBBaGhjYmJnODdxeUFlaXZRc1B5QUpieGlqZ2xGYjRfUko3QU5pQtIBcEFVX3lxTE0wOHFadnZpNWV2a3o5VzFXcnZWWGZOZUZGNTdhSmxHSWdPS1hwMnRYZi13eHFTZWVjQTN4WDFxWk9pcUxldUd4OTNXRXd5aEJMclAtRVVNYUd5TXBaY0NSZ0c2TEJxbHVKTldZQ0lJcDM?oc=5",
-          "summary": "체코 두코바니원전 냉각탑 2파전…한수원, 후속발주 ‘착착’&nbsp;&nbsp;전기신문",
+          "title": "한수원, 체코 두코바니 원전사업 시공분야 공동협력 협약 종료",
+          "source": "데일리대구경북뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EVVVGRkY2RU1pZ3NCTVVHVGEwenRGNG9jZEFiN1JGcmVJVDJ0QzMxc3JMSFpkYUlBZ0dacWVJLWJDeGxoUFJHUF9td3gxa2dETnF0OUF0ZFhOMUlIbDdlZlAxNWN0QQ?oc=5",
+          "summary": "한수원, 체코 두코바니 원전사업 시공분야 공동협력 협약 종료&nbsp;&nbsp;데일리대구경북뉴스",
           "lang": "ko",
           "translated": false
         }
@@ -1620,8 +1620,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 1465.2,
-        "change_pct": 0.39,
+        "current_rate": 1462.41,
+        "change_pct": 0.2,
         "history_labels": [
           "12월",
           "1월",
@@ -1648,32 +1648,32 @@
           1579.97,
           1531.43,
           1495.9,
-          1465.2
+          1462.41
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "네덜란드서 참전용사 초청 행사…올해 작고한 14명 호명해 예우",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qM3Z0LWlVdVRwbGtIc2Rfdi1xekVKdk1EbEFBNWhHX0tPV3Axel9ITkFCcmw1UzJ4emJ1LXRhR3loSjVNcENwYXVldjVVZW8xSlZ1bGlYbDM4ZnZjM0s4Q9IBYEFVX3lxTE9qM3Z0LWlVdVRwbGtIc2Rfdi1xekVKdk1EbEFBNWhHX0tPV3Axel9ITkFCcmw1UzJ4emJ1LXRhR3loSjVNcENwYXVldjVVZW8xSlZ1bGlYbDM4ZnZjM0s4Qw?oc=5",
-          "summary": "네덜란드서 참전용사 초청 행사…올해 작고한 14명 호명해 예우&nbsp;&nbsp;연합뉴스",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "네덜란드, 첫 국가 회복력 고위급회의 개최 예정…민관군 전면전 대비 태세",
+          "title": "러시아 드론, 키이우 네덜란드 대사관 뒤편 추락… 네덜란드·EU 대사 초치 파장",
           "source": "글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckJBcjByUUlKOElPV01qN0gxWEJMMlNFS1NXa2Nmdnk1SjAwRzJqMkJibFpjSzVXZVlSNDFVYVFQeHBjd2RBWmw0elpHRDg2S3BOU2lYSnNPanZ6bExNZjlpb0hPT1dKei11TnU2RDFGajJRNGRyb09IbFR1bS1EYjZqUWRjelRN?oc=5",
-          "summary": "네덜란드, 첫 국가 회복력 고위급회의 개최 예정…민관군 전면전 대비 태세&nbsp;&nbsp;글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjJSNlVqTXRNN0M1dVdnQU9PQlpYcUU3dzFMd2VwaVg3ZFhZZXdaZUNwZS1IUzRYQWl3R1ZHUXBjZEt1SG95MGczMnhSSS1IMFN4NlpXZU9hWU16TVZleV96WURVaFphQ1JGWXFIYkFKYWwyRVFHUkFtd0h2cGFFNmNvQ1pwcUpO?oc=5",
+          "summary": "러시아 드론, 키이우 네덜란드 대사관 뒤편 추락… 네덜란드·EU 대사 초치 파장&nbsp;&nbsp;글로벌이코노믹",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "PSY 37.8두 네덜란드 농장주에게 '한국 농장 인수하면 무엇부터 바꿀지' 물었더니…",
-          "source": "돼지와사람",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9neVR5blVMYzE5UU01Uk1WaUcxX2xVNnRjSUN1RHFUZEg1UWF6MVFZTnNwYmZua1hVZzcyQ3BVaEFTcFNhV1NmTjhaSnFScUROaXNDSkkxeGg5N2s2UFB2LW5R?oc=5",
-          "summary": "PSY 37.8두 네덜란드 농장주에게 '한국 농장 인수하면 무엇부터 바꿀지' 물었더니…&nbsp;&nbsp;돼지와사람",
+          "title": "러, 네덜란드에 \"우크라전 단순 방관자 더 이상 아냐\"",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zVVo1dzFCR0RQZENOUFA3WW5IQzNfbTBOX1ZVSkdJbC1jU3FrdG5PNlBZSEd0bWJ0eHNaWU9nZldWOXcxajZRT3BnTGxvZUdMZktuZ1FXbW5JLVHSAWBBVV95cUxPV1ktMkt2ajV2LWJGbkRXYWtQcDZxNDZENy11WGdDb0JyRVp1eERtM00zTXdHdlcxaE02UFpSUHpWTjFnUTRCcHdUelB3SzNfYjJSaEdnMVVkMVJhZDVEazc?oc=5",
+          "summary": "러, 네덜란드에 \"우크라전 단순 방관자 더 이상 아냐\"&nbsp;&nbsp;연합뉴스",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "러, 네덜란드에 경고…\"우크라전 개입해 긴장 높여\"",
+          "source": "연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Gc3NUOW9zTy1BYUs4cFhzX2E4ZGhKbTl1c0pjOHNacUlDLWY3M2NRMmdPOWNmNHJ3R0VQaXVrZ1ZkX1B1Z2hOZGYtN01yelROY0lyMDZfZmJ2aUtvWFVHNDFDUDlnZnc?oc=5",
+          "summary": "러, 네덜란드에 경고…\"우크라전 개입해 긴장 높여\"&nbsp;&nbsp;연합뉴스TV",
           "lang": "ko",
           "translated": false
         }
@@ -1695,13 +1695,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "In-Demand Jobs in Luxembourg for Indian Profes…",
-          "desc": "In-Demand Jobs in Luxembourg for Indian Professionals&nbsp;&nbsp;Y-Axi…",
-          "source": "Y-Axis Overseas Careers",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03LVJSSUpVT3Y1OThGS3ZLR1BnRDNQM2VMVkVfOTJQTDZjNnZVTTlyQV9udGpwYjAyUWkwR1o3WG5hUkV1M190VGN0UU1kVmtKYmhCRm5aMl9QNHBQa3pRcE5YaWhzU1ZjUGtxNlZiMi13SXhBVlZYRnFkRQ?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "In-Demand Jobs in Luxembourg for Indian Professionals"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -1751,8 +1751,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 131.1,
-        "change_pct": 0.21,
+        "current_rate": 130.92,
+        "change_pct": 0.07,
         "history_labels": [
           "12월",
           "1월",
@@ -1779,32 +1779,32 @@
           143.35,
           135.16,
           135.92,
-          131.1
+          130.92
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "[해외 탈시설 리포트 ② 스웨덴 편] \"시설은 역사 속으로\"",
-          "source": "더인디고",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11UTNNOXRkOGVWMjdFNU5WN2JKVGdpTENWWWxreVFtMHNMMDdmT0pQTmZ4NXE0UVJDZG9RS3J3QVFhTHNUUTNzYjlDV2wyQkk?oc=5",
-          "summary": "[해외 탈시설 리포트 ② 스웨덴 편] \"시설은 역사 속으로\"&nbsp;&nbsp;더인디고",
+          "title": "EU, ‘북한 포함 제재 전담 사무소’ 신설…전 주한 스웨덴대사 제재 특사 임명",
+          "source": "VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1U1o2WXVLSnk0MFlKV0N5UkpGSkx5Z2N3NDRFaFJBTEVEdWRTU0lPYlhIQmtsX2JqZEhwQWliQ3lhU21SMGFfNDRFNllRSU44N1Fv0gFTQVVfeXFMUDVTWjZZdUtKeTQwWUpXQ3lSSkZKTHlnY3c0NEVoUkFMRUR1ZFNTSU9iWEhCa2xfYmpkSHBBaWJDeWFTbVIwYV80NEU2WVFJTjg3UW8?oc=5",
+          "summary": "EU, ‘북한 포함 제재 전담 사무소’ 신설…전 주한 스웨덴대사 제재 특사 임명&nbsp;&nbsp;VOA 한국어 홈페이지",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "‘아세토 코르사 랠리’ 0.7 업데이트… 란치아 델타 S4·랠리 스웨덴 추가",
-          "source": "오토뷰",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtVVk0d1AtdWNEZ2pJcG54X1FuYnpfRUZXUEJlaHdPdi03R1d1OHdtVFRqcjBsNFJkdFNZNk56VmoydjhiN3JKbi1yUlppaWlVMXBWQmtNcTBHZHZY?oc=5",
-          "summary": "‘아세토 코르사 랠리’ 0.7 업데이트… 란치아 델타 S4·랠리 스웨덴 추가&nbsp;&nbsp;오토뷰",
+          "title": "\"재래식 미사일 값의 일부\" 스웨덴 K200, 러 제트드론 요격 나선다",
+          "source": "데일리방산",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wOTR4MklIVXV0aWFuUWttSzRoSDRIaXFMaTZ1cmtDbnFkcnQwMHdaREEtc2lYMEZ1Sk54dnFrRkJuR1RFNVhEcVc5UFN1UEZtcDlZdlFYNUUxWFlTZVlTOGo3bFd6czBKWnZDSHBqNlo?oc=5",
+          "summary": "\"재래식 미사일 값의 일부\" 스웨덴 K200, 러 제트드론 요격 나선다&nbsp;&nbsp;데일리방산",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "경일대 단편 애니메이션 2편, 스웨덴 REX 영화제 초청",
-          "source": "경북일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyZ1dZem9lRFg2RERHQzFpNEt0eHVOWEhUWXR4MGo1dWhsd0RWakFMSGMta0dCZG4yMUR0bVBBdkpJX0NBRDA5YmR2Ni1RMjhfYXVpTm9ZcEFfalJhNEkycjAxUlZEaUNpMXlyUUNnOA?oc=5",
-          "summary": "경일대 단편 애니메이션 2편, 스웨덴 REX 영화제 초청&nbsp;&nbsp;경북일보",
+          "title": "스웨덴 10월 실업률 7.7%로 하락",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IQ0RkNkJGNlBqODBxb3U5ZTJaejJad0JiMndZTjUzcV9ROUZjMDFBUzdKSlBkNnVxcmlHREo0RnFMcGc2REpRVmdROGQ5Z1NCUktBWHhTVTNiX2NsZ3JJdFE5dy1DWWZESTlUZHZ2YmdMWHFRVWdJcEJR?oc=5",
+          "summary": "스웨덴 10월 실업률 7.7%로 하락&nbsp;&nbsp;Investing.com 한국어",
           "lang": "ko",
           "translated": false
         }
@@ -1826,25 +1826,25 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Industrial relations | Definition, Types, Exam…",
-          "desc": "Industrial relations | Definition, Types, Examples, Importance, & Fact…",
-          "source": "Britannica",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wdXI1Z0FyNVZLZVlpMmhKTzVvbkg2LXNzOERRdVl2b256ZFBCeUpVaVRSTGo1X3pJSFp5RDNKTkx5ZkFheUt4RDVScGFCeGh1RFkwSVM5OVZSVnBWTkRVS1VqWQ?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Industrial relations | Definition, Types, Examples, Importance, & Facts"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
           "tag": "경기·금리",
           "tag_class": "bg-emerald-100 text-emerald-700",
-          "title": "Week Ahead for FX, Bonds: U.S. Midterms, Jobs…",
-          "desc": "Week Ahead for FX, Bonds: U.S. Midterms, Jobs Data in Focus; BOE Expec…",
-          "source": "WSJ",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnh0RUxfMGk2OW1JOE1LUUFsNkJzamc4RkZKODNFTlVSWk1wR2VseGlFWF9zZ1RKdTlrNVZldm94LWpIa3hHcVdjV3NmdlhqdWh5UlE3UTVyR1AyWUhrRGlpTVN3RkJOZGE4WVBDM0FHdW9jYmZua3RBWFhVOV80alRyUkY2V0ROb0Vrem1Jbmw3Qml2Zm1WZERhdWFCVUIyazVDc1VWemVEall3dGhDVG1RaE9Lc05KVXpDMg?oc=5",
+          "title": "Nordic Outlook: Growth challenged by rising in…",
+          "desc": "Nordic Outlook: Growth challenged by rising interest rates and high en…",
+          "source": "sebgroup.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLWJxSUMzanB1dElOYWVGOGFhTEc5VVV6Wkh3cVRtSGNSWUpTU1NhdVVNZUJCT3RZSTBSd0NGeHVONTBCamlwM3pVbmdBNTJ2Q2Zoa21ZRG8ycXUxSm1JaVR0WXFrUDBMZHhQRzJpeElfVWVsXzBmSzFLZzJSSlNDZUh2VnAtSDhEX1p0VWFKQWNQX242RExsNFNIOUh6b3MxZnNDT3k5OEJCeVRMbWtIekhEaTFNNmlaUE82UHlEZ193NFZwVWc?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Week Ahead for FX, Bonds: U.S. Midterms, Jobs Data in Focus; BOE Expected to Raise Rates"
+          "original_title": "Nordic Outlook: Growth challenged by rising interest rates and high energy prices"
         },
         {
           "category": "MANAGEMENT",
@@ -1882,8 +1882,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 1465.2,
-        "change_pct": 0.39,
+        "current_rate": 1462.41,
+        "change_pct": 0.2,
         "history_labels": [
           "12월",
           "1월",
@@ -1910,32 +1910,32 @@
           1579.97,
           1531.43,
           1495.9,
-          1465.2
+          1462.41
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "[포토] 러 드론 공격에 파손된 오스트리아 대사관",
-          "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TeFZRaGwwRWstdS02THZPdFh5am9aMkZZZnNHSm5CUTNQaFRjSlBfUjl0WHk0TzhjMmp3LWNPc29zbTd3YlhlV2xkMA?oc=5",
-          "summary": "[포토] 러 드론 공격에 파손된 오스트리아 대사관&nbsp;&nbsp;뉴스1",
+          "title": "주오스트리아 대사에 김태진 前의전장",
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hWFBCamd4V1NJRnA2UlNMOG1nZFpfYm9XXzgzQ0IyUlpodVRuNUxKdWVraTh5VExoSDNnWUF3UVNzZ2RlMkxMdzJPOUFhcmdjZDBfZlJrMk83NWl2TTVqbA?oc=5",
+          "summary": "주오스트리아 대사에 김태진 前의전장&nbsp;&nbsp;아시아경제",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "제이와인 컴퍼니, 오스트리아 스파클링 티 ‘메종 티 로열’ 국내 유통",
-          "source": "서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1icTFnaTZoV29HYTZsQWdhZWczWGJNLTJMWnE2bDJzVjhRZ0hxWDEtMXhoLU9LeGNlMTVMczRvdUVxYTRCSlhKYkpUWHBYWDJ5RzR5MFh1emN4ajlwTmN6M0x6THY?oc=5",
-          "summary": "제이와인 컴퍼니, 오스트리아 스파클링 티 ‘메종 티 로열’ 국내 유통&nbsp;&nbsp;서울경제TV",
+          "title": "오스트리아 와인의 위대한 심장 그뤼너 벨트리너 보고서",
+          "source": "쿠쿠쿠뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qOUkzYVZBUGNaVUtmMEsyM083cWp6akN4dTBnVGluLUdYcURTZDhXOUdadWZETjhFMXVjWHgyRFRYMzBFaXhWY2FTYzNialkzTzUxb1ZHZUdlQQ?oc=5",
+          "summary": "오스트리아 와인의 위대한 심장 그뤼너 벨트리너 보고서&nbsp;&nbsp;쿠쿠쿠뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "[뉴스후] 오스트리아 전 외교장관 시민권 박탈",
-          "source": "데일리연합",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVElqV1BQazZhbmFmeGxkOWFjQUpGeUNhU1dia0FJTG1ocWRacmdTTS01SVd5WXBXczU0cTJuX0Q5LUQtcWFXRThZV2hDTkVtX3dQcnhLM0tPV2M?oc=5",
-          "summary": "[뉴스후] 오스트리아 전 외교장관 시민권 박탈&nbsp;&nbsp;데일리연합",
+          "title": "美 로크웰, 오스트리아 AMR업체 애질록스 인수",
+          "source": "로봇신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PaTRFRWtXaV9abFdvd1pXVC13T1V1WldpZEdoVTRZaEdiNnBkVFdtblp5LUtiWjZCc3Faa1lHQ3hVakNVUkFWTmtlOFhzNWxxc3draXJzM21ocV90R2U3SndXemhESXhIR3FNVg?oc=5",
+          "summary": "美 로크웰, 오스트리아 AMR업체 애질록스 인수&nbsp;&nbsp;로봇신문",
           "lang": "ko",
           "translated": false
         }
@@ -1957,13 +1957,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "In-Demand Jobs in Luxembourg for Indian Profes…",
-          "desc": "In-Demand Jobs in Luxembourg for Indian Professionals&nbsp;&nbsp;Y-Axi…",
-          "source": "Y-Axis Overseas Careers",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03LVJSSUpVT3Y1OThGS3ZLR1BnRDNQM2VMVkVfOTJQTDZjNnZVTTlyQV9udGpwYjAyUWkwR1o3WG5hUkV1M190VGN0UU1kVmtKYmhCRm5aMl9QNHBQa3pRcE5YaWhzU1ZjUGtxNlZiMi13SXhBVlZYRnFkRQ?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "In-Demand Jobs in Luxembourg for Indian Professionals"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -2013,8 +2013,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 274.16,
-        "change_pct": 0.33,
+        "current_rate": 273.99,
+        "change_pct": 0.27,
         "history_labels": [
           "12월",
           "1월",
@@ -2041,32 +2041,32 @@
           303.77,
           290.55,
           280.77,
-          274.16
+          273.99
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
+          "title": "루마니아, 러시아 10대 태권도 선수 비자 거부…모스크바 대사 초치",
+          "source": "OBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QelVVdXNOR19sZUFTQzd2SElDbWU3blIyMUVDT2ZvTm5BNzhBYXJVc2dCM0lkWl9tYjhya0hkZjRwLVhwYTByWDctV0I0NzhRTXRPQmhpZ3RZbFU3NmZ4Yk9qVndzZ1FrdXc?oc=5",
+          "summary": "루마니아, 러시아 10대 태권도 선수 비자 거부…모스크바 대사 초치&nbsp;&nbsp;OBC 뉴스",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "반도체·미래차 공동교육 구축…호서대, 루마니아·헝가리 대학과 맞손",
+          "source": "머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UdWI4ZmZhaG9WTlNVdTFlVGN4cFc1MjlYckRHNkEtaERhSjNFTDBPY1BEQkVWenNPX1dBZEhBUHlRdzAtUkJKbEIyS0kyUG16dkpJRGhKaFY2Rk5tNW1kSDYyc2JTSk5KalI5ckVjYmg5cG50VWpJ0gF8QVVfeXFMT3Z6cW1tdmxoSC1mOG03MzY5RnplM2FqUTdsYXl1clo3R3lYS0dWY0lUOGVMYmlDc2RwNEVtTHl4M2xfUXpWWDBFdmNzSEJXX0JZbmpjemU2c2E0b1ptekp3NV9HT1VpM2lrWlFiZi1WblF1Q3o4TERsWVdIZg?oc=5",
+          "summary": "반도체·미래차 공동교육 구축…호서대, 루마니아·헝가리 대학과 맞손 - 머니투데이&nbsp;&nbsp;머니투데이",
+          "lang": "ko",
+          "translated": false
+        },
+        {
           "title": "한화 900kg 무인로봇·대드론, 악천후·통신장애 뚫고 루마니아군 지휘망에 올라탔다",
           "source": "글로벌이코노믹",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGlNMGMwNGF2VE91bGNQOHpuWDJVR3psTjkzYTc0MWhLXzViZ3ZtZEwzT1dKLVd0LXRfcG9wTFBVeWFQUlBTTXB4TVl0OE1kRTNJR09UMzk4VmVra0JSdGt0TTU3bzA0QXAyVlVXaUh6VjJjMzZMbHBQeEJjMXZvN0JxSjdjSWx0?oc=5",
           "summary": "한화 900kg 무인로봇·대드론, 악천후·통신장애 뚫고 루마니아군 지휘망에 올라탔다&nbsp;&nbsp;글로벌이코노믹",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "한화 '그룬트·안티드론', 루마니아 실전 훈련 합격점",
-          "source": "한국신용신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxYnBHOEVhU0FvaXhzdWgwY3RSNHNEWlA1a3YtSERDTnRJS2hvTnhxdVFJZEJCSkZ2TWlnSHljbWFFZjIwLWhldFV4QWpSMTRfMXZySjZYQ2xaUmp0LUR2RXl1RFQ2c0ZBWTVN?oc=5",
-          "summary": "한화 '그룬트·안티드론', 루마니아 실전 훈련 합격점&nbsp;&nbsp;한국신용신문",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "한화, 루마니아군과 대드론·무인지상차량 통합 운용 실증",
-          "source": "로봇신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFZ1pEa1dDb3A3bEdNdnAwRUYwMGJPS09aMFJVclZNS29BOTc5VkdyRm1wYll3Q1E5RUI3VTJBbG9vZ1prNEpSXzBUYkN1Rzg1SU94MkZhOWFraFBSU2FqcGJHTmlaQVJITEZTcA?oc=5",
-          "summary": "한화, 루마니아군과 대드론·무인지상차량 통합 운용 실증&nbsp;&nbsp;로봇신문",
           "lang": "ko",
           "translated": false
         }
@@ -2088,13 +2088,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Romania emerges as a new destination for Nepal…",
-          "desc": "Romania emerges as a new destination for Nepali migrant workers&nbsp;&…",
-          "source": "myRepublica",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY2JMeWtMRGxWVkZsYWtJamJUSUwwaUJrcF9Cd2JKcUdzNnNEWkpxY2RrWnBEYkZ2YlprbFlaWVc3ODJrdjdDY1g4THV0amg2UV9kT2VDT0hYU2xlQ3NwZmluMl9Rb0lZbWFiQTU4aHZURDRaaXJycWtWcmc0NVI5eXIwZzN1ZTdaTWlyYWgzSGhfWmRzYVM5NHdaczBnaGFjWG1peWVKZmxEMUxSRElHa1JNOWdERXZWc0E?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Romania emerges as a new destination for Nepali migrant workers"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -2144,8 +2144,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 16.3,
-        "change_pct": 0.95,
+        "current_rate": 16.25,
+        "change_pct": 0.61,
         "history_labels": [
           "12월",
           "1월",
@@ -2172,32 +2172,32 @@
           16.18,
           16.13,
           16.47,
-          16.3
+          16.25
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "EU, 러시아·북한 제재 전담 사무국 신설",
-          "source": "cpbc News",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80QlVwV01IU0dLUTF0TFBneDBkOEtnWVZJam53cDA2VU5zWEtZOEpYQVV6ZkQwcUY5SXBkMDF4RUtQZjlTNmUyeHFMQW4xNEMt?oc=5",
-          "summary": "EU, 러시아·북한 제재 전담 사무국 신설&nbsp;&nbsp;cpbc News",
+          "title": "폴란드 '러시아 미사일이 영공 침범'…폭발 순간 CCTV에 포착",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yMG9xXzdZVmxYWWdXRU1yZ1E4bi0ydDhLSk1pLUthWjU1OGRteWI4T2lXeDdmenJEQ0ZPMDhiM3hLUUZ1R3BGT0JNV3AzeWEtN3VadGpDUWtib1I0Q2fSAWNBVV95cUxNQV9fVUhCeXdJNUtFaVFpSTBObkZ4X2VBS1BDMHQxM1J0OVk3VUxqbWxfRXpLcjZFUDREamNpNE5DbHdVUm0tUjFYb0k3MGpNVUlfS1U0eTVIRDdySHBZUUQtLWM?oc=5",
+          "summary": "폴란드 '러시아 미사일이 영공 침범'…폭발 순간 CCTV에 포착&nbsp;&nbsp;BBC",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "힐러리 “트럼프, 러시아 독재자 대담하게 만들어… 우크라 방어력 약화”",
-          "source": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wU0NHZmtkeGtEbEJ1TE56Y1dOMVpmd1ROYlc1VnpaTlRuTzNMR2FLRTFWWktSQ2tvaEZrRTZ5UjVpRWFFNmRyVGdESTljYzdTcDRkb3gwOWpQdXlrRFVkdVZHdDNqV2xrYnlXZDBXVVVhdHPSAWZBVV95cUxOY2JvXzJEY0NGYmxfVWdJSmtZSFlfbWpBX0doTGhZRzVRM3BrSVM2dGFKVTNLSGl2S2xvYkkyMmdBanlKZnE5Nzh6c1hSTmVmVmxDblNYWTgzU1ZaU2Z4WEJ1cnBXRHc?oc=5",
-          "summary": "힐러리 “트럼프, 러시아 독재자 대담하게 만들어… 우크라 방어력 약화”&nbsp;&nbsp;동아일보",
+          "title": "폴란드 \"미확인 비행체 영공 침범…러시아 미사일 추정\"",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vSHZaU1RjU2NOOERjcDBJNVpRa05xM1A3MUZaT1lObGRCSGdybXlJNUNxWFNPaWhvTE1VcDZCZXBiaGVNWXJmUUhHOFllU3NZYkNxeHJNUnBDYW_SAWBBVV95cUxPaHBsTGtfMTF2T0pfQnJoVVlVX0E0N0t1azM4OEFTc3FnTXZ0UjhuOVB1cWVUUFBLMTBfUW5sMHFjc1FDTkI3M2lhc0dpZkVGdEtBYkVWQ1Z6Vm9DZGlyTGs?oc=5",
+          "summary": "폴란드 \"미확인 비행체 영공 침범…러시아 미사일 추정\"&nbsp;&nbsp;연합뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "조용원 당 비서 등 北 대표단, 러시아 방문 마치고 귀국",
-          "source": "SPN 서울평양뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94RUpwQU9YOGo1UWtGYUVTRGVqQlhDVDNJMF9hbGJZa0dqR3dOQ0U2UnhtTzQyNXg4eWdpcTdjS2luVGUxX09RME1mNC1ac3Qyb05SVFBwaFhxOThIeWdNZmd1dW1pRUZRT2c4?oc=5",
-          "summary": "조용원 당 비서 등 北 대표단, 러시아 방문 마치고 귀국&nbsp;&nbsp;SPN 서울평양뉴스",
+          "title": "푸틴 초청에 러시아 “유럽대표 방문 조율 중”···우크라 나토 가입엔 “절대 불가”",
+          "source": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JUWlWd3FyYjZjM09hUWo3TU5lRURaZUoxTjAySUNPUlNiVU9SYjVVeHJPRVhyR1hrLU5ENHFIb3p0bENiZnUxMnpmWXJSX2FGZ1l5cjBPckdfQdIBX0FVX3lxTFBsbnE5eVhibndpT2hjd3pza1MwU3J2dTZHM3F6OTQ4eWxUVmZJTkpYVWZBQVhuNDNtbWI4T1h2UmdCZEJ6TnVsSWRzQkh4bWluWE9hUXdUYXdjQVJ1bVdj?oc=5",
+          "summary": "푸틴 초청에 러시아 “유럽대표 방문 조율 중”···우크라 나토 가입엔 “절대 불가”&nbsp;&nbsp;경향신문",
           "lang": "ko",
           "translated": false
         }
@@ -2207,25 +2207,25 @@
           "category": "AUTO MARKET",
           "tag": "완성차·타이어 시장",
           "tag_class": "bg-rose-100 text-rose-700",
-          "title": "압축 성형 프레스 시장 2035년 전망: 복합소재 수요가 성장 견인",
-          "desc": "압축 성형 프레스 시장 2035년 전망: 복합소재 수요가 성장 견인 - 뉴스 및 통계&nbsp;&nbsp;IndexBox",
+          "title": "Ultra High Performance Tires Market To 2035: E…",
+          "desc": "Ultra High Performance Tires Market To 2035: Electrified Performance V…",
           "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYzlpVjV1T1F5R3JsQVI1bmdKR2x2OHRfQm4xX193SWJ6aTNRZWJGLVRCUWdKbm5ab29jNV82bGdTanRyX1NiekJYeHJpNV9pVUp2RTZQcFBhWlZINWN1LWM0Mi1HRnZDMWhIamxvdnRDZktVb3lNekRoc3htLXl5SGU3VDhFVDM4RF9GUzJ1anU4MEd6UWt2a1M1dm9BM09LU1I1czRBNjBFeVBRLXNjSWFpTmtUZjMtSHEzMGdYV2h2OUtvWi1hSHctR0tGaWtBUHlaZUdrTXQ5ZkV5OVhjT2RWYUo1UQ?oc=5",
-          "lang": "ko",
-          "translated": false,
-          "original_title": ""
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY3Q2NnpWUjhsZEZ2LWxnUWE1WXNIUHNuU1BXOHhtc0J0UTc0dHNvOTB0RHVEdlR6cUdtbldXS2ZxRVJlSzF4LWxLVmxsWUZPVmpEc2ZFMXh2RlItRUs3M0NUWUgxQVNWVkM4YVhIMVY3bFZsc3hIYnh6QWU4eVp3aWNtTVdvZGZPSGhHM2FaRzFqcjBibm5pU0VaSG9GZTFYRXhEbS1yQW5nUngzc3pXS0VBc214QTVHYmU1X253UHQySmE4dmV0ajN0cmV3WkRoVzBMVy1HQTBnZzQ?oc=5",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Ultra High Performance Tires Market To 2035: Electrified Performance Vehicles Fuel Growth"
         },
         {
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Putin's war machine tied to troubling recruitm…",
-          "desc": "Putin's war machine tied to troubling recruitment of young women as ne…",
-          "source": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXVHdjN4S0gybDBaU3lRQXNUNGRQUGFCM0hub3hRRi1jZHZGWjRFTXFHMGlEMWFIdDllRW5lUGF0d3hrTWNvbTRSODk2b3Q4UTl1OHUyc3Bqcm8tUmZ0bzFWUm5LbjJtTXdad1pJY2RBcWZ3VmptYk9PUmZMV0ZZQlNtbE4zSG5pVXhOVGl4Y0VGZjk5TWVKNlJINXdjckp4dlNXN2gwVdIBrAFBVV95cUxPS1VjUE9OMUVfRWhoN3ZIRGJoRHF3WlktZ1VCVkRBVXdwLVprbHRMNXJMc2kwaThmaUU5NU04amdVVnJ5R0x0Nk8weVJYaTNnQ2d3WFZwQzdNRlREYi1pNm9udXg4S2ktZ1ZBS2ItR3NVbHBQLTlXYXU3UzhXQS05Nm45X0paWV9YOFIzQXhSenU4LXJocWNKak9kZDhmeWYxcmQtM29QNXdaLWI4?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Putin's war machine tied to troubling recruitment of young women as new deals emerge"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -2275,8 +2275,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 29.46,
-        "change_pct": -3.09,
+        "current_rate": 30.56,
+        "change_pct": 0.53,
         "history_labels": [
           "12월",
           "1월",
@@ -2303,32 +2303,32 @@
           31.67,
           31.03,
           30.28,
-          29.46
+          30.56
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "우크라이나, ‘크림반도 주요 교량’ 타격…미국∙유럽 특사, 젤렌스키 대통령 만나",
+          "title": "스위스도 북한 송도원야영소 제재…“우크라이나 아동 이송 참여”",
+          "source": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4ME5vSGpJNmVtNkppdHktblFISG5wTzNrU1BYbDlQRU4yZTFzSnlobkhVT3JoTERUUVlwb0xzZ0dRa21kME1RS3RSMlNDcmc2TU9WVENoMnVnS00?oc=5",
+          "summary": "스위스도 북한 송도원야영소 제재…“우크라이나 아동 이송 참여”&nbsp;&nbsp;KBS 뉴스",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "푸틴 보복 경고 하루 만에 공습…우크라 8명 사망, 키이우 교량도 타격",
           "source": "VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RaDV4OGNwcjVoQmpwWE5LN1Ffci0wOHl6OFpqUlk2bjdwLTdvdE16NUhOZEZWN1UxQmlCemV4Vk9xLW5XcUZsbGF1eGVFbk5IZHpFd0E5d3JVTU1OOC1SMk9fTWlwT2c10gFrQVVfeXFMTmFFdjYzUGhZcmpwbjkxRUVybFhCX3Q3T3JVU2dBZ3UyTFVBeDYxaXFQWWc2Y21kYkQzT0FmUkV2N1JhbVpTQ3ZUSXpOX3o0cVpuYTBqQ3N6bHphc3ZmQU1mdU1HejFaMjV3NlU?oc=5",
-          "summary": "우크라이나, ‘크림반도 주요 교량’ 타격…미국∙유럽 특사, 젤렌스키 대통령 만나&nbsp;&nbsp;VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uRFdYUmYwNjkwQ0ZrRTNZTVhtOU00dzF3MkR2RnptNWw2RXJHTjZDTXJBVzlMSEREMlpEbUVIX3daU0lySng2b0dWYTVlb21fLW1TdkFHUTFNOFgzMHhhdDVhM3RXd3EzX3V4d0twUUd1QdIBdEFVX3lxTE1ER3E5b3drUlUxZDVuMDF0dzV4MWI5YllfNE9PRVk5c1R5NU5qeTQzbzV3S0RvLWU5WmtuTlhpVFFMbUtqX0E1WkFqa0ZsUV9xbXdvbUpBM01PRndJeXVWU1VSMzR2NlV2d2ZWbS1UTWlBbUlT?oc=5",
+          "summary": "푸틴 보복 경고 하루 만에 공습…우크라 8명 사망, 키이우 교량도 타격&nbsp;&nbsp;VOA 한국어 홈페이지",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "트럼프, 푸틴에게 \"내 친구\"...러시아, 우크라이나 한층 더 압박 전망",
-          "source": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94WUNWVTA2VHFCek9sOGxIcmd4aUFHQkZic3l0bDBFUUJWblFTSXFrR0F2NUwxdURRS3JNVzduc3l3SkJIZ1M4ajNOOFBQaDNGWk12V1lGMzI0VUNxSERTVXlxM0stN29DLW9DUFUwR2hlNm5aLVE?oc=5",
-          "summary": "트럼프, 푸틴에게 \"내 친구\"...러시아, 우크라이나 한층 더 압박 전망&nbsp;&nbsp;YTN",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "우크라이나 전쟁: 지하전이 벌어지고 있는 구소련 가스관 내부",
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mdmN2NlNjYXJJV2xqajFSYTlCdGlWTWY3YkJWYXN0N0hGdUo2ZGJiVDFNcjFCelRxSjRXS0p3UHNZTmZyajRHSmhQNmlvLTRWTkF3SmdzcmtnMHV6a0HSAWNBVV95cUxQUWdLaC1CaThtYUI5eWV6SHpQVWZwd2lJa2J6Y0Z0VGs4Q1E1MEk0T3JOYVRNVjVhM3pER2FmX0xWR1VPRUtjb0ZlN1dRUHZycExXa0hjSk9PaGFaclcwVTVfQjA?oc=5",
-          "summary": "우크라이나 전쟁: 지하전이 벌어지고 있는 구소련 가스관 내부&nbsp;&nbsp;BBC",
+          "title": "\"트럼프, 우크라 종전협상 내년 1월 초까지 타결 원해\"",
+          "source": "MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoTElQWjB3ZC1JTWxRYjN0ZlNjSzY5RnM0ZVg5RnBBWjYtT1UxWmJnb2w2c1FObFk0c1VQcnpqQzg1TEQzdGRfcGRNSURKSjVHQTk3Qm9sQVVqeWNHNmJ3SkZNd0JsQ25VbTFZMGVPRzBjcTFw0gF0QVVfeXFMUGhMSVBaMHdkLUlNbFFiM3RmU2NLNjlGczRlWDlGcEFaNi1PVTFaYmdvbDZzUU5sWTRzVVByempDODVMRDN0ZF9wZE1JREpKNUdBOTdCb2xBVWp5Y0c2YndKRk13QmxDblVtMVkwZU9HMGNxMXA?oc=5",
+          "summary": "\"트럼프, 우크라 종전협상 내년 1월 초까지 타결 원해\"&nbsp;&nbsp;MBC 뉴스",
           "lang": "ko",
           "translated": false
         }
@@ -2350,13 +2350,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "US labor market regains ground as job growth s…",
-          "desc": "US labor market regains ground as job growth surges, unemployment rate…",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -2406,8 +2406,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 26.46,
-        "change_pct": 0.36,
+        "current_rate": 26.4,
+        "change_pct": 0.13,
         "history_labels": [
           "12월",
           "1월",
@@ -2434,32 +2434,32 @@
           28.54,
           27.56,
           26.79,
-          26.46
+          26.4
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "월급 받으면 '달러로' 추락하는 튀르키예",
-          "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCZVFkVkl0NVQ1VmFRN3JtMzJXMTU0cGJOcXBSRVZGSDNiMVR0cGRPZ3haNnpFMXJnYWxEWW9udG5KLS1NQkxWVmQyMUVxTVJXckhDaENUMHFsX2xZd2s1ZE5WSDFldE5aOGYwOHUyZGbSAXRBVV95cUxPT3ZhM3BTZnhsMG5nWFY1RkxoVGJlcURlZE5PcmZPanFpeHJRajhaV3FuZFJBSVlKSmN5Qm5KaENTZGRtY25NTUZ4aWJKUWF3TVUzVlZCaU9Za2U3MFpKZkxZSmdsNXNLVUJqOGR0eW1ybVE4Mw?oc=5",
-          "summary": "월급 받으면 '달러로' 추락하는 튀르키예&nbsp;&nbsp;연합인포맥스",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "30년 유럽 공급망 침식 경고한 튀르키예, EU 규제 제외 기로 선 현대차 전기차 공장",
+          "title": "튀르키예, 2035년 자국산 5세대 스텔스 전투기 100대 배치 목표 발표",
           "source": "글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRkNyQ3lkWWxWTGZFLUFFWU5zdXlIRThaMUFMemtQajd0QndYdWZqeUdGbng5Sm9CN3pNZ2kwVFNackxrcVpWZGNmSk4xeWlOX0NGUU9HUnZHVEtkQ0R4U0dLWjJRZWN0SlRPSjB1S25TOU5mT2sxZUp6VTRrMVViMXNJVzJxQ3VN?oc=5",
-          "summary": "30년 유럽 공급망 침식 경고한 튀르키예, EU 규제 제외 기로 선 현대차 전기차 공장&nbsp;&nbsp;글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWV3bU55bGdfbzlYcVV1UElWcmtQVG51NkNodXUxMW1lNnN4M2N3NjZ5TVJhZXU2YXNsbFdHM0cwbWIxYVpySk9lTG1lRnhWOWpBTnFnS1l5cFZjaWU5aGtfem5Ndi1xeXFRdWdLVElYck51MDdrTjhjVkl2bVNBZ2hyZmVhd0pK?oc=5",
+          "summary": "튀르키예, 2035년 자국산 5세대 스텔스 전투기 100대 배치 목표 발표&nbsp;&nbsp;글로벌이코노믹",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "경성대, 이스탄불서 튀르키예 우수인재 유치 기반 넓혀",
-          "source": "베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfT2N4QW9HcFdOUGREemc5ZU1GTUtlOE4wMWFIMkdzWFlGRW5hV0hKVEp4MWZfdHd1QVpUZ3VHdEhkQk95dTdRNFpkM1JuSVZlU1MyNWotemxTMWJHV1NOeWlpX09hUTVJd2x5aA?oc=5",
-          "summary": "경성대, 이스탄불서 튀르키예 우수인재 유치 기반 넓혀&nbsp;&nbsp;베리타스알파",
+          "title": "튀르키예, 금융 스캔들과 고물가에 정치·경제적 위기 심화",
+          "source": "www.cn-insight.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90a0FYVGlBTXkzSXpjRFpCTWVTU1V4ejBuRzYxWEZfQmYwd3dPWk4tTW42cTVtNkZ2dFZibW55d0RIeWdWQWRnSlhJLTBMbDkxWkFNV1l2LVE5QW83VlFzUVFwOHNvZUdtc2c?oc=5",
+          "summary": "튀르키예, 금융 스캔들과 고물가에 정치·경제적 위기 심화&nbsp;&nbsp;www.cn-insight.kr",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "튀르키예 무역부 장관, EU ‘메이드 인 유럽’ 규칙서 튀르키예 제외 시 역풍 경고",
+          "source": "다나와 자동차",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HcHNfbnNMWXAwdHplS1g2QXVMcllZbmZnRHhFS0ZoWjBrZWRkMWFiVm1UajlicElkenItVnV3NXpzaVpnRFVlSnJiNVREay1oMEd1QXVTSF9SdEtZVmEzN0lTOUFsSlI0ZWUw?oc=5",
+          "summary": "튀르키예 무역부 장관, EU ‘메이드 인 유럽’ 규칙서 튀르키예 제외 시 역풍 경고&nbsp;&nbsp;다나와 자동차",
           "lang": "ko",
           "translated": false
         }
@@ -2481,13 +2481,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Turkish textile manufacturers shut Serbian fac…",
-          "desc": "Turkish textile manufacturers shut Serbian factories as ambitious targ…",
-          "source": "Türkiye Today",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYTFJeUNBVDFSTGppTmJrNE8wZVpCbVBtV3Nlc3BCS3YxU3NjMjRhZVJnZlVPb1BkOGRpYjktZWx3TVc5aVZBeTFncW1xc2VvZm9NdjR6OUkwUUFNUlpLSVlibXl5cVBXZ1F0akdBczZmTDh4V3F4SEE4TXlodWlzblM1NjN4enNTZUt4OXNyT09oOU1JenVlNmlmbVl4MWhjVWRaYkJDWGlUb19ZcC1uUkwxX284WDlxNlZJV01xY0s3R3JE?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Turkish textile manufacturers shut Serbian factories as ambitious targets missed"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -2537,8 +2537,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 12.53,
-        "change_pct": 0.48,
+        "current_rate": 12.5,
+        "change_pct": 0.25,
         "history_labels": [
           "12월",
           "1월",
@@ -2565,11 +2565,19 @@
           14.01,
           13.09,
           12.79,
-          12.53
+          12.5
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
+        {
+          "title": "보스니아 내전 종식 위한 데이턴 평화협정 가서명…뉴욕 베라자노 내로스 대교 개통",
+          "source": "VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvSWVfVjEzbWxUV1MtcC1DNDVaRGNZN3pNYWdVdFBjWUFfUDI3LXROSm5abGF5cEJQbFAyT3lHRVFKbmlQdmJJODE2UXNlWTRCcGFv0gFTQVVfeXFMUG9JZV9WMTNtbFRXUy1wLUM0NVpEY1k3ek1hZ1V0UGNZQV9QMjctdE5KblpsYXlwQlBsUDJPeUdFUUpuaVB2Ykk4MTZRc2VZNEJwYW8?oc=5",
+          "summary": "보스니아 내전 종식 위한 데이턴 평화협정 가서명…뉴욕 베라자노 내로스 대교 개통&nbsp;&nbsp;VOA 한국어 홈페이지",
+          "lang": "ko",
+          "translated": false
+        },
         {
           "title": "‘총선 압승’ 세르비아 학생운동 세력, 새 정부 구성 착수···조기 대선도 과제",
           "source": "경향신문",
@@ -2583,14 +2591,6 @@
           "source": "뉴스핌",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QSHRtczZnVlU1T19RbWFhcXc1R3VOcmVheHlzcHQ1QTQ3NnBWTE1oaEJ4MjdXbThPSE40akZpbG56WkdzMkNaS0VhUnhxaXV3Ym41VkNWNjBRbWZr?oc=5",
           "summary": "시화병원 세르비아 개최 '2026 세계멸균학회' 참가 감염관리 활동 소개&nbsp;&nbsp;뉴스핌",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "동유럽 세르비아서 MiG-29 전투기 추락, 조종사 사망",
-          "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nalhkTDJhUkFldlo2VnY4dW92OHVZTXZSbzRKX19BREJOcXVSaERLbzlvdXFETzBQTGlWelZPWjlLRW5lc0JuWkFqQ3l2YTRyTTBR?oc=5",
-          "summary": "동유럽 세르비아서 MiG-29 전투기 추락, 조종사 사망&nbsp;&nbsp;뉴스1",
           "lang": "ko",
           "translated": false
         }
@@ -2612,13 +2612,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Turkish textile manufacturers shut Serbian fac…",
-          "desc": "Turkish textile manufacturers shut Serbian factories as ambitious targ…",
-          "source": "Türkiye Today",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYTFJeUNBVDFSTGppTmJrNE8wZVpCbVBtV3Nlc3BCS3YxU3NjMjRhZVJnZlVPb1BkOGRpYjktZWx3TVc5aVZBeTFncW1xc2VvZm9NdjR6OUkwUUFNUlpLSVlibXl5cVBXZ1F0akdBczZmTDh4V3F4SEE4TXlodWlzblM1NjN4enNTZUt4OXNyT09oOU1JenVlNmlmbVl4MWhjVWRaYkJDWGlUb19ZcC1uUkwxX284WDlxNlZJV01xY0s3R3JE?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Turkish textile manufacturers shut Serbian factories as ambitious targets missed"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -2668,8 +2668,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 1465.2,
-        "change_pct": 0.39,
+        "current_rate": 1462.41,
+        "change_pct": 0.2,
         "history_labels": [
           "12월",
           "1월",
@@ -2696,11 +2696,19 @@
           1579.97,
           1531.43,
           1495.9,
-          1465.2
+          1462.41
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
+        {
+          "title": "보스니아 내전 종식 위한 데이턴 평화협정 가서명…뉴욕 베라자노 내로스 대교 개통",
+          "source": "VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvSWVfVjEzbWxUV1MtcC1DNDVaRGNZN3pNYWdVdFBjWUFfUDI3LXROSm5abGF5cEJQbFAyT3lHRVFKbmlQdmJJODE2UXNlWTRCcGFv0gFTQVVfeXFMUG9JZV9WMTNtbFRXUy1wLUM0NVpEY1k3ek1hZ1V0UGNZQV9QMjctdE5KblpsYXlwQlBsUDJPeUdFUUpuaVB2Ykk4MTZRc2VZNEJwYW8?oc=5",
+          "summary": "보스니아 내전 종식 위한 데이턴 평화협정 가서명…뉴욕 베라자노 내로스 대교 개통&nbsp;&nbsp;VOA 한국어 홈페이지",
+          "lang": "ko",
+          "translated": false
+        },
         {
           "title": "한화에어로 천무, 크로아티아 6375억 계약으로 폴란드 방산망 연결",
           "source": "글로벌이코노믹",
@@ -2714,14 +2722,6 @@
           "source": "이로운뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50WlVtMy1hSEl0RkxxdWRDbXJCNFNkMDk4WlNic0xZREhCdXZXMzhINFprcER0SV9UNWtMbkkwQ0dWNGhNbkl0VENHcThNdjlfblY4eHdVNmdTVUc3azhOcWc3Wkh4VWs?oc=5",
           "summary": "크로아티아관광청, 여행자 1만 89명이 뽑은 유럽 크리스마스 도시 1위 '자그레브 크리스마스 마켓' 소개&nbsp;&nbsp;…",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "빈·프라하 제치고 ‘유럽의 크리스마스 도시’ 1위 오른 크로아티아 자그레브 소개",
-          "source": "디스커버리뉴스(DISCOVERYNEWS)",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9scGNqbXYzMHFtOV82T3YxVjB6dTNGdldnY3lEd2IzT29tS3V0UWozSWt5ajJCRW1EQ0MyOWkwUGtycFJ3NDN2Zmg0QllUOG5JSXVjc1VlUmhiVUFxcjFpeTF3aDkxS0dWeGphMU1IQVdHQQ?oc=5",
-          "summary": "빈·프라하 제치고 ‘유럽의 크리스마스 도시’ 1위 오른 크로아티아 자그레브 소개&nbsp;&nbsp;디스커버리뉴스(DISCOV…",
           "lang": "ko",
           "translated": false
         }
@@ -2799,8 +2799,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 134.06,
-        "change_pct": -2.74,
+        "current_rate": 133.95,
+        "change_pct": -2.82,
         "history_labels": [
           "12월",
           "1월",
@@ -2827,32 +2827,32 @@
           153.06,
           143.86,
           136.11,
-          134.06
+          133.95
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "[신간]모로코 하산 야르티와 한국 임솔내 시인 '지중해의 별과 동방의 달' 공동 시집 출간",
-          "source": "뉴스N제주",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UVUhhZUNMWUVkaGtQaTdJNktBU1JybmFHYVdwby1aRUVhY1RTZVJBMWNLWHFSQnlFOENuemxkeGhDRGRGZWFtcjlQX0VQNmFtQ0RUaE10ZUY5STRvTlB4RGxYeWRzMXlQOEwtcQ?oc=5",
-          "summary": "[신간]모로코 하산 야르티와 한국 임솔내 시인 '지중해의 별과 동방의 달' 공동 시집 출간&nbsp;&nbsp;뉴스N제주",
+          "title": "서울호비, '모로코 관광청 2026 세미나 : 기자와 인플루언서가 본 모로코 여행길' 소개",
+          "source": "이로운뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02Sll4c2hncXhuMFZMR1duRFVxSFAyT2N2WDhUeVQ0QmkzenZGTW1vVXR0U1ViNTFya3RTM1ZQLVpPMlhwNnZMQkFUTWNkS3UxUWtQaURiWkliMVBqZGpWQnZQbGdoYUE?oc=5",
+          "summary": "서울호비, '모로코 관광청 2026 세미나 : 기자와 인플루언서가 본 모로코 여행길' 소개&nbsp;&nbsp;이로운뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "처칠도 생로랑도 탐낸 미감…영감의 땅, 모로코",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fdGtnWEJDMUw5RnIxRDJhcWxFOTJ6a0k0d0o2RGl6ai0wNENoaXpJVlpyY3NSdzJrQXNlNWxON2tDLThZUjFCZzZfTHl4XzctcTVsaUN4aFVSQQ?oc=5",
-          "summary": "처칠도 생로랑도 탐낸 미감…영감의 땅, 모로코&nbsp;&nbsp;한국경제",
+          "title": "Arbaoua 공기질 지수 (AQI) 및 모로코 공해 | IQAir 대한민국",
+          "source": "IQAir",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DVHMzODJOS2RxVW16MGljNnNxZkRTbjNZMEJ5QS1SdDBMaVpJTHp4Tmdrd283czhzNWxPSG9VdmRZVWNhMVI0OGpTc21oV0tzbGx5c0p6bEJ4QWUzY1ZBSzhOdFdJbTBBY1QxcTNQUzhpWVNyTkk4cmtROA?oc=5",
+          "summary": "Arbaoua 공기질 지수 (AQI) 및 모로코 공해 | IQAir 대한민국&nbsp;&nbsp;IQAir",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "[르포] 12세기 첨탑에서 대서양 위 모스크까지...모로코 건축에 흐르는 전통",
-          "source": "열린뉴스통신",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xR3lXb2FOdVZCeWZtVUowUUhIUkZzQVVjREdqWU9rTUdpOEw5WW42ekFWUlFXQmNyUlhfZUdlTkZDMVpld2ttckswMFJpUEtVOEx1ZlRodE9pQUI2U3M3Y3Q1azZ1QQ?oc=5",
-          "summary": "[르포] 12세기 첨탑에서 대서양 위 모스크까지...모로코 건축에 흐르는 전통&nbsp;&nbsp;열린뉴스통신",
+          "title": "모로코 2026년 10월 소비자물가 0.8% 상승…식료품·연료가 견인",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazN0OVlwWWVBX1JaWTFISFRpeXZDdU1aRmRkZmIzaUJEd1NDN1JEV1J2YXFSMVJxZkRfM3Q1QVNTUEtlMmh0YzZCcHJEWU82bmJnWk9qaUFKak1wQm4yN0hLTlhyRUpRX3pxRXpLajVIRUd5SUFIZ3BJZ1ZnckVUVm96RWJWcHc?oc=5",
+          "summary": "모로코 2026년 10월 소비자물가 0.8% 상승…식료품·연료가 견인 - 뉴스 및 통계&nbsp;&nbsp;IndexBox",
           "lang": "ko",
           "translated": false
         }
@@ -2874,13 +2874,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Moroccan farmers consider hiring sub-Saharan w…",
-          "desc": "Moroccan farmers consider hiring sub-Saharan workers as labor shortage…",
-          "source": "HESPRESS English - Morocco News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWmItclM5aTRhNTFpZ3pCVk5EdlBQdDJ6bHplb3BQTXI2YVByRWRPUWxkbWNWOHloWlZPUW4yZVpuSUs4YkJ0UTlYSVJNZ3VHWXY1Q3pSUndBVjFnT25IOGt5bHhja3JOMzZTQ2NKakV5THFWX24xal9GcnAwemlwSzgzSjZDUUQzWjRHZjlBek1Ic3VtbW56SFAtMHM0Tkx4aEIzaU1CWEg5WF9kNmhId1ZYYmRYaTl3QmtrSFN0cjJ6S2Nq?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Moroccan farmers consider hiring sub-Saharan workers as labor shortage hits harvest season"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -2898,13 +2898,13 @@
           "category": "MANAGEMENT",
           "tag": "관세·공급망",
           "tag_class": "bg-amber-100 text-amber-700",
-          "title": "Consumer goods companies rethink supply chain…",
-          "desc": "Consumer goods companies rethink supply chain for a volatile trade era…",
-          "source": "RSM US",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMm5fU25vSmZJalQtLVB1bnZEN3ZvMEg0NkNyWFlNc1VXTXFMNVJqNWpaN0V6WW1MTHNjSjgyUnRIUTd0QVhHTGNPeWNFN1RkUHlDUnBvN1E0U1NCMlpKejFyMHUxWXFja2lrV1lxelRxanU4SFdzdWt2TzRROTlySnIzRW13TlBjTFFmVHJVYnRzX1dsNzd1Tk1rbUxCVnJtR3JfRnFqVkhoNGdxZU5F?oc=5",
+          "title": "Trade rewired: Balancing resilience, cost and…",
+          "desc": "Trade rewired: Balancing resilience, cost and growth in a changing glo…",
+          "source": "Africa Private Equity News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUxRVGVURHBYT0xsYU9FWmVyY01JM3J6NkJSaW5HbXA2b0hQUEpjWmtiaHRUbFBkNkZDV0VYQUFqcm0tSnMwS3NXRXRNa1cxcVRiQkVpNFo5RU94Y3NhNlJLU3ZiRnJ1VHZkM3dwSXZZSEdQUDUxZHFCZzZMN3JIUWZ3?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Consumer goods companies rethink supply chain for a volatile trade era"
+          "original_title": "Trade rewired: Balancing resilience, cost and growth in a changing global landscape"
         }
       ]
     },
@@ -2930,8 +2930,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 69.89,
-        "change_pct": -0.97,
+        "current_rate": 69.92,
+        "change_pct": -0.93,
         "history_labels": [
           "12월",
           "1월",
@@ -2958,32 +2958,32 @@
           80.86,
           74.85,
           70.97,
-          69.89
+          69.92
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "위생관리 업체 수산물만 수입…식약처, 멕시코와 약정",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11TjUxQmVwbkJfQy1mOFBxRHVkLW5HTFBQR3JsdTQ5UWRzMDJJaDBhNnZHM1ltLVdYeTBpOFAtaXBLNlRiLVpCeDhiODRnSjFqTGZhamZIbnJaQi04aHprbdIBYEFVX3lxTE11TjUxQmVwbkJfQy1mOFBxRHVkLW5HTFBQR3JsdTQ5UWRzMDJJaDBhNnZHM1ltLVdYeTBpOFAtaXBLNlRiLVpCeDhiODRnSjFqTGZhamZIbnJaQi04aHprbQ?oc=5",
-          "summary": "위생관리 업체 수산물만 수입…식약처, 멕시코와 약정&nbsp;&nbsp;연합뉴스",
+          "title": "21시간 이코노미 타고 온 멕시코 대통령…중국에 쏟아진 기내 목격담",
+          "source": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcDhweE9QR2x5SS1ERkpHZ2VXakFKSnl4ekh1b2dDMmIxcm84UW5XSXcxQkdWMjZON0dFMk92ZVVqSWFYbF9BOUU5eWZZUHZjanFWMXVXZF9QeThacUtmVXkwNm1TZm14c1NIUG1NejhBYXZ3cC0tbmExejVONTJoLXZB?oc=5",
+          "summary": "21시간 이코노미 타고 온 멕시코 대통령…중국에 쏟아진 기내 목격담&nbsp;&nbsp;한겨레",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "식약처 \"멕시코산 수산물 수입할 때 현지 정부 위생증명서 내야\"",
-          "source": "간호사신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wSDlQZmowNVpGX2owWllJOVdQdS1Tc09ibUlQaThBMVZYMGRtcGpOdlZ0NElhZ3BPNm5iMUV5NTJ0U1pEZ2Y3c1RkTXBJbUl6T0w2dl9aRlNMeGFEWHVCYW92QVdkajR1Sl9MNllR?oc=5",
-          "summary": "식약처 \"멕시코산 수산물 수입할 때 현지 정부 위생증명서 내야\"&nbsp;&nbsp;간호사신문",
+          "title": "[멕시코] 멕시코시티 한가운데서 복음이 널리 울려 퍼지다",
+          "source": "굿뉴스데일리",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaUmcycHFTT25BQUl5UDZGb2l5TlJDOS1qb21KY2EyNEZ3SXE1ZGQyU1RuVmswd0xLNFZjUWtKMnhlaElSdEJUb1JTNVEya0JJMkZDaXhyQm9abWgwOWZhQk1heElvYW8?oc=5",
+          "summary": "[멕시코] 멕시코시티 한가운데서 복음이 널리 울려 퍼지다&nbsp;&nbsp;굿뉴스데일리",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "[현장] 책과 추억이 있는 광화문에서 만난 멕시코 ‘죽은 자의 날’",
-          "source": "퍼블릭뉴스통신",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KU3JNWmduQWZna193bi1YYm5BVFctRElRUDFTNHctTEFHV0M0SXB2VVlvazdwWkxMLVc4TFVxeVhlNXI5bzZCVzh3WS03eWFscktvdHM4eGx0X0ZSNUdrSzhqT09JeDNSRjNZ?oc=5",
-          "summary": "[현장] 책과 추억이 있는 광화문에서 만난 멕시코 ‘죽은 자의 날’&nbsp;&nbsp;퍼블릭뉴스통신",
+          "title": "[판으로 읽는 경제] 중국선 게임 허가, 멕시코선 자동차 관세…한국 통상의 두 전선",
+          "source": "MTN 머니투데이방송",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40czMydktkZ3dFNHE2QXJrUzJXVEp6UTVHQjVBUFJ4RS1mWTQ3dlBuNWhVUzJPSHhadldJZF9hV1lnbGYwOFFXSlFNb2tOMDVJVmlfUUpicW5JUXBlcUhN?oc=5",
+          "summary": "[판으로 읽는 경제] 중국선 게임 허가, 멕시코선 자동차 관세…한국 통상의 두 전선&nbsp;&nbsp;MTN 머니투데이방송",
           "lang": "ko",
           "translated": false
         }
@@ -3018,8 +3018,8 @@
           "tag": "경기·금리",
           "tag_class": "bg-emerald-100 text-emerald-700",
           "title": "Our economic outlook for Mexico",
-          "desc": "Our economic outlook for Mexico&nbsp;&nbsp;Vanguard Corporate",
-          "source": "Vanguard Corporate",
+          "desc": "Our economic outlook for Mexico&nbsp;&nbsp;Vanguard Research",
+          "source": "Vanguard Research",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGRKdkRtaUh2NUtyS3BYeWNRSUMzYzdZMzA3VFB4Zm5SY19wXzRCS1ZFdDVHYl9aYTYtUDBkal9odlN6TEk3YzVHeDJydk1MUUtkYXdZLUhoSm9kUHppaTloM2Rrem0zSGkwYkhfbDdGbXlIdUdWUVdfWlhWM1luUExiV3ktanE4QXBJWVh3?oc=5",
           "lang": "en",
           "translated": true,
@@ -3061,8 +3061,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 225.32,
-        "change_pct": -0.39,
+        "current_rate": 224.96,
+        "change_pct": -0.55,
         "history_labels": [
           "12월",
           "1월",
@@ -3089,32 +3089,32 @@
           265.28,
           259.57,
           248.47,
-          225.32
+          224.96
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "보쉬, 브라질 공장에 10억 헤알 투입해 전기트럭 모터 현지 생산 본격화",
+          "title": "[글로벌보건] ⑤ 원조에서 동반자로…K-보건의료, 중남미 자립 돕는다(끝)",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XdG1nSGs4WTZkS3BxVmY1MzhWUTZnYkNCbkI0YTFuTy1LelY5UUdvbU14dGtldVVmNEZDUDNjcExOYW14U2ZkMnBIWmw5Z3gtX3lVbjZfNGFPaHJoSmxMQ9IBYEFVX3lxTE5XdG1nSGs4WTZkS3BxVmY1MzhWUTZnYkNCbkI0YTFuTy1LelY5UUdvbU14dGtldVVmNEZDUDNjcExOYW14U2ZkMnBIWmw5Z3gtX3lVbjZfNGFPaHJoSmxMQw?oc=5",
+          "summary": "[글로벌보건] ⑤ 원조에서 동반자로…K-보건의료, 중남미 자립 돕는다(끝)&nbsp;&nbsp;연합뉴스",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "현대차 i20, 브라질서 18일 만에 3259대 등록…출시 후 첫 월간 최고 기록 경신",
           "source": "글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdlZXZlNLYjhUVE9TUm1tT1hhZG5qWDBLOWlxdTFlWmdvTVBscHg1RmNUa2VHWHBMMVRmb2R0aVY3VFRxVzZ3bkhaSjgyMGd2ZEtTRDJ6ZGx4b1JVZVRvQmZfRHJYVkJQeXhXY0ViM1BpU1h4NlVtNkFoTlFUM2VJMG9WdG9IdDFy?oc=5",
-          "summary": "보쉬, 브라질 공장에 10억 헤알 투입해 전기트럭 모터 현지 생산 본격화&nbsp;&nbsp;글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZExjeXM0RFUxYU10dFZMTDdSTXRKdVA4Z3cxZVhndlFJNnhzWUNOekx1RkZENmM2Q0wwU1NwMjBEWUdSSVVEUXZ1Sm92S285b0hxS1RMUWt1aVZBVGppSXhVeEQ5Z3BuMmpCQy1jVGNGWnZXbGFtd1E5UjBGX3RLM1FRLXBxTE0?oc=5",
+          "summary": "현대차 i20, 브라질서 18일 만에 3259대 등록…출시 후 첫 월간 최고 기록 경신&nbsp;&nbsp;글로벌이코노믹",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "[브라질증시] 재정 불확실성에 16만7000선 붕괴...헤알화 약세",
-          "source": "뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50czlIdWxqY3FxTTFTUGhpVXJ1VWhQNlhUU0lkLWItdWFQZWtTU3RrZ1VJV0FMaGtkMldXMEJIZTVmeG0wQk5kRzlNYXlaM1lOcWJhWFVtcHlZbVlQ?oc=5",
-          "summary": "[브라질증시] 재정 불확실성에 16만7000선 붕괴...헤알화 약세&nbsp;&nbsp;뉴스핌",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "K-제약바이오 \"대어 브라질 잡으면 '중남미 어장' 우리 것\"",
-          "source": "포인트데일리",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wZUEzTlRwY2ZLMXFSRDRuVVJGelQycEtzLUZtVVpkZ2p5QzNWQUpCNG1MY0llMTdRek5pdDlfMGVCVkZLVWpHSXRUd2xPcW9VbXNhZDBjNlRodzg2NndxOFRkRkh6aHlJb1A4Q2JteUE?oc=5",
-          "summary": "K-제약바이오 \"대어 브라질 잡으면 '중남미 어장' 우리 것\"&nbsp;&nbsp;포인트데일리",
+          "title": "메르세데스 벤츠 트럭, 대형 전기트럭 e악트로스 600 브라질 시장 출시",
+          "source": "다나와 자동차",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SME9nY0oyYkx3VkhfWXFHeUpoRndYaHpGOTQ0OFEzaXZrbkZRUmJUME5fbWlKZjZ6UzFKbjB3eTJIaWZwMlV5cjlIVHpuODMtR1NTSVM2MmltdUNrOUtXSmZST1g5Yjhsblg4?oc=5",
+          "summary": "메르세데스 벤츠 트럭, 대형 전기트럭 e악트로스 600 브라질 시장 출시&nbsp;&nbsp;다나와 자동차",
           "lang": "ko",
           "translated": false
         }
@@ -3136,13 +3136,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "How a Criminal Network trapped Paraguayan Work…",
-          "desc": "How a Criminal Network trapped Paraguayan Workers in Brazil's Black-Ma…",
-          "source": "Latin Times",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWVwcG5FR1g5RkUwOTRYZHB5NjdKMXhQYnVsMERORm9wUW5GNGZlb3ZlbFVOdlVJRV85Q1MwbWFXeHhwcDhteWhxNFNZM1d1ZFdEbXJFa1lrVzlaTWlWUF9RX1ZRWDNaLTA3VDRSOG5FR1NhbXo5OG5idVEwVjA0Nlp0M1VsQ1l0Y0kyNG5SYVhqdldxUUE?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "How a Criminal Network trapped Paraguayan Workers in Brazil's Black-Market Tobacco Factories"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -3192,8 +3192,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 1.33,
-        "change_pct": 0.51,
+        "current_rate": 1.32,
+        "change_pct": -0.57,
         "history_labels": [
           "12월",
           "1월",
@@ -3220,32 +3220,32 @@
           1.48,
           1.39,
           1.35,
-          1.33
+          1.32
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
           "title": "칠레 정상과 조우",
-          "source": "대한민국 청와대",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iZjBYcXlYbFhaeGM4eG1TWGU5c3hxakpFVU9yWFBPWWNmSjN3Sk1Sd2lIM1RyUndETzhYbEdlcF9fNmRoMUZmMm84VjJTTUk0YkpBb0k3cEJpNjhMYi11ay1wUQ?oc=5",
-          "summary": "칠레 정상과 조우&nbsp;&nbsp;대한민국 청와대",
+          "source": "대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kVzVtM050WEFIaHpkeWh3QThSZ0ZYUFA1SHdUT0hET0pBMFV5WFgtcl9PbmNDYTF1dVJQbzNsZ0xtanIwVHpLZGNfc2FhU1pJbkJzVWF1TGVpaVMwdThCeXR5U3hBT2VXOUg4QVZLRFprcjYwS0luZWxn?oc=5",
+          "summary": "칠레 정상과 조우 - 포토 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "필리핀뉴스 필리핀·칠레, 자유무역협정 서명…중남미 첫 양자 FTA",
-          "source": "뉴스케이",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaN2dMZVJSTFZZRGs5dmRyeExEeHJWbGFJTHpka3VWSWxJTTd2ZWh4SC0yQmJ6VmxCM1VEMzJrUTRIRUNYdVBheUc1OTk2Y3I0YjVLYUJCMDFwdw?oc=5",
-          "summary": "필리핀뉴스 필리핀·칠레, 자유무역협정 서명…중남미 첫 양자 FTA&nbsp;&nbsp;뉴스케이",
+          "title": "[기후의 역습(251)] 지구에서 가장 건조한 사막이 꽃밭으로⋯엘니뇨가 바꾼 아타카마",
+          "source": "포커스온경제",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WMEhPYTNPYjlqZm5iM3FJRWF4aHlURW8yWndweW9NbUJ3V210NU9vRDQ3ckhGem1kREZDbWIwQWw3TWlHVk1RS05DZm8tRGJtMzVsa05wV2NrS2pxWHc?oc=5",
+          "summary": "[기후의 역습(251)] 지구에서 가장 건조한 사막이 꽃밭으로⋯엘니뇨가 바꾼 아타카마&nbsp;&nbsp;포커스온경제",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "美 하이퍼스케일 데이터센터 전력 소비, 칠레 국가 전체 사용량 육박",
-          "source": "더구루",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UdzdhTjFqOHRPdXNDTUtvbVlsalhra2RwYlFTUXZSVEo2TjRIaUlVVTdYS3NkRUdiZXhtNlpjV2xxMXBMMjlyU3plNTZacURXRFBaYkxKSERPeUlNbXpFd3d4VQ?oc=5",
-          "summary": "美 하이퍼스케일 데이터센터 전력 소비, 칠레 국가 전체 사용량 육박&nbsp;&nbsp;더구루",
+          "title": "칠레·페루 이어 멕시코까지…한국산 담배 불법 유통 논란 잇따라",
+          "source": "뉴스버스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qQm92Njc2TTI5YklDUlhKb043UzMzY0lBVXV1RHluczNwcEtSOE1UaUl6RzNPSERSWlhxM0tBdldYQlNHWExNSGV0N2p6cXhTVVl2cUZ0QVNvbGpXY0tZZHZJampibFRVRmc?oc=5",
+          "summary": "칠레·페루 이어 멕시코까지…한국산 담배 불법 유통 논란 잇따라&nbsp;&nbsp;뉴스버스",
           "lang": "ko",
           "translated": false
         }
@@ -3267,13 +3267,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Minimum Wages in China: A Complete Guide",
-          "desc": "Minimum Wages in China: A Complete Guide&nbsp;&nbsp;China Briefing",
-          "source": "China Briefing",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPaDVQb2NYUkFYeUZ1aUhCOEFtOG9YUVB3R1IwUFMySWEzenNXalhVOHVrbUpVN0JtVXZiQXpEMHhWVzV0VHVCRHFhUnRwWFkzY0ZXMU1fVkhTN3Btb0lubFZraDFJVGs?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Minimum Wages in China: A Complete Guide"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -3324,7 +3324,7 @@
         "is_base": false,
         "unit_base": 1,
         "current_rate": 0.39,
-        "change_pct": -1.52,
+        "change_pct": -1.77,
         "history_labels": [
           "12월",
           "1월",
@@ -3357,26 +3357,26 @@
       },
       "headlines": [
         {
-          "title": "컬럼비아 터미널 마켓 채소 가격 대체로 보합",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOG9jODVFQ00xRFRsUHRzUlZwMFh1MzVPM2hwQWhyQkljMTdlMmxfTmZLblNBeS1BU1NpQnlNRFJ2akIxOFRpVWg2OUFkNGRmTE56aDE0dmlKX3Zua2xHaF9FVktYU21Wdk0yUHR2ZU41VC1VLVFmZGx5b24yUEY2MzVLVG42ZVRKS1pGb1QtMk1ZVkh1a3R6akI0aG1WLXM4U3NoamRBX3VtdFBMbTZyOGFwZm1RRndWN0pqN2k3MzZEeFk?oc=5",
-          "summary": "컬럼비아 터미널 마켓 채소 가격 대체로 보합 - USDA 2026년 11월 19일 - 뉴스 및 통계&nbsp;&nbsp;Ind…",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "차에서 내려 오토바이 타고 도망가자마자 ‘펑’…한 밤 중 차량 폭탄 테러에 난리 난 콜롬비아 [현장영상]",
-          "source": "채널A",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0VUc3VFRnSTUzMDZ5X19vUm41QTdUdGNKMUEyQTcyYjNGcm8yUEVmbnprZ1NWM3FzcC1tcVdwVEpBMm1qSjA5bjhZa0Fvd3I0NkhvVFlTbVAyQWJGd3ZTT2RfWdIBY0FVX3lxTFA0VUc3VFRnSTUzMDZ5X19vUm41QTdUdGNKMUEyQTcyYjNGcm8yUEVmbnprZ1NWM3FzcC1tcVdwVEpBMm1qSjA5bjhZa0Fvd3I0NkhvVFlTbVAyQWJGd3ZTT2RfWQ?oc=5",
-          "summary": "차에서 내려 오토바이 타고 도망가자마자 ‘펑’…한 밤 중 차량 폭탄 테러에 난리 난 콜롬비아 [현장영상]&nbsp;&nbsp;…",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "美, 베네수와 군사관계 복원 협정…'서반구 전략' 남미 교두보로",
+          "title": "어설픈 부켈레 따라하기?…콜롬비아 대통령 '과시형 통치' 논란",
           "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pMXNXZHA2NmNBWmRPVHpwUHdwbnBUVXhKbDl0d0lQT1FNcmRuU3RRaUNkQUQ4SGZvSFo3M3R6ZXJ6azRkN1EyWlpFRWR6bVZZT2dINURfZVZjQVE1NmxBZtIBYEFVX3lxTE5pMXNXZHA2NmNBWmRPVHpwUHdwbnBUVXhKbDl0d0lQT1FNcmRuU3RRaUNkQUQ4SGZvSFo3M3R6ZXJ6azRkN1EyWlpFRWR6bVZZT2dINURfZVZjQVE1NmxBZg?oc=5",
-          "summary": "美, 베네수와 군사관계 복원 협정…'서반구 전략' 남미 교두보로&nbsp;&nbsp;연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5waHhNMmtDbDN5b0IxSXpRazQ0dWo2ZG0xNkh6bGREdGlwemZHSkh0dmRsb1ozWVJtVGtUSm13WUFnOUVBeXZpZFFZOENoWXlEcXhCenNBNDZCX1lqWlZ1NdIBYEFVX3lxTE5waHhNMmtDbDN5b0IxSXpRazQ0dWo2ZG0xNkh6bGREdGlwemZHSkh0dmRsb1ozWVJtVGtUSm13WUFnOUVBeXZpZFFZOENoWXlEcXhCenNBNDZCX1lqWlZ1NQ?oc=5",
+          "summary": "어설픈 부켈레 따라하기?…콜롬비아 대통령 '과시형 통치' 논란&nbsp;&nbsp;연합뉴스",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "헤그세스 미 국방장관 중남미 순방…베네수엘라 협정 체결과 콜롬비아 수송기 인도",
+          "source": "글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalp4ZXJudHFRTGhCeHM4Q3hIZC1Za0J2R2NJR0VkWE56cmFhRWNDSWhZUUpsY2JKTnZUQThNblNyWUx4bUdITUVtRFpDMWhzUXF2ODk4c19JQ0c0RTBWVzZIcktPak9QTkMtZnZfSTZHRTg1SU9PNXRqQzllUmg2cl9QbFZqdS1Q?oc=5",
+          "summary": "헤그세스 미 국방장관 중남미 순방…베네수엘라 협정 체결과 콜롬비아 수송기 인도&nbsp;&nbsp;글로벌이코노믹",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "살해 위협에 망명한 콜롬비아 17세 기후활동가, 국제아동평화상 수상",
+          "source": "서프라이즈뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1heTBNUVptWkN6b0FjUGVuSzlOTjlqMzc2a2M4aVZ2ZENZVmN3dnRaZW96SzRvRy1kbnppRlJLMmJpbGJzcTk0eXlrSlFiVWFXZXBUZWYzVzZ5R1hmWUE2TTZhdlFIRWpaM3p0aWdR?oc=5",
+          "summary": "살해 위협에 망명한 콜롬비아 17세 기후활동가, 국제아동평화상 수상&nbsp;&nbsp;서프라이즈뉴스",
           "lang": "ko",
           "translated": false
         }
@@ -3398,13 +3398,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Nestle Closes Its Decades-Old Dosquebradas Fac…",
-          "desc": "Nestle Closes Its Decades-Old Dosquebradas Factory in Colombia, Around…",
-          "source": "Metaintro",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTN2ampxV090YWVtRUdaaVNzVGgtLTAzNm5PZUhjTGlvcWc4cXhVc2p6LVp4ZTJSVmljaE40ckViNVlwcnM3NzlFemxrQkJkM0hRMXE4Tng3cXNIT0FYWEhFRkJSUXd5U2tPUDl6M0wtd0pHZnJTdVo2NlFfVlBvR0w5RDNobmM?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Nestle Closes Its Decades-Old Dosquebradas Factory in Colombia, Around 320 Jobs Reportedly Affected"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -3454,8 +3454,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 1337.38,
-        "change_pct": -1.74,
+        "current_rate": 1334.79,
+        "change_pct": -2.22,
         "history_labels": [
           "12월",
           "1월",
@@ -3482,32 +3482,32 @@
           1399.64,
           1380.67,
           1368.67,
-          1337.38
+          1334.79
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
+          "title": "[원더풀 파나마] 파나마에 온 한산도함...AI시대에도 실제 항해는 필요하다",
+          "source": "오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Jc1J3LWhqZTNSNE90clZTeG52bjQxQUpWMFUtZkxkZUNhdEl0SEdjRDhCdk5mU1M3QkFaMVhieVRLbDhoNkRFSzd6NDM1bTlYbmFEcXBuS2p0eGFlV2wyUjh3YzNZNXJTTThTSm85UjdvUQ?oc=5",
+          "summary": "[원더풀 파나마] 파나마에 온 한산도함...AI시대에도 실제 항해는 필요하다&nbsp;&nbsp;오피니언뉴스",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "엠베라워우난 특구 산불 지도",
+          "source": "IQAir",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YdEZoM1BsYTF5dUd0cGJUTkNxV2dGSGxLUnN4bW4xRDBGdXlQUTIyT3NwbDNiUjU0Qm5lak9sR21TNlA5VkVZMXNHVnJEalJVN1dtSjdfSUpXV3c?oc=5",
+          "summary": "엠베라워우난 특구 산불 지도&nbsp;&nbsp;IQAir",
+          "lang": "ko",
+          "translated": false
+        },
+        {
           "title": "파나마, CK허치슨 항만 운영권 관련 형사고발…파나마운하 항만 분쟁 격화",
           "source": "해사신문",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50N0t4M2FHZ2lFTUJNMWlveUFqaXM4ZFpmVnJqeFFNY3FZcmVVbEdWS2lhT2g2cWpidWZIWHBfejJ0cm1iT3gyLTZOZDBSRHk0a3BiNXRFOE94UFc2ZHZ1djFvczNLUTUycTZN?oc=5",
           "summary": "파나마, CK허치슨 항만 운영권 관련 형사고발…파나마운하 항만 분쟁 격화&nbsp;&nbsp;해사신문",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "파나마, CK 허치슨 항만 분쟁 속 형사 고발…주가 하락",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrMS1heVcyVVNEOEZTR2lmbE9BX1lMS3dCY1pNWC1yellRZWxRWV8zbkpHWEpucm1mSTdMQTVPb2c5cFotVUJyanRNRE5LVlI2SkstWmJyQ3hyN0V0ZnZXa0VZUWRGOHlFSWlYQy02Vkk?oc=5",
-          "summary": "파나마, CK 허치슨 항만 분쟁 속 형사 고발…주가 하락&nbsp;&nbsp;Investing.com 한국어",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "[단독] 광해공단 1조 투자 '아픈 손' 파나마 광산 재가동 시동...현지 대통령 나서",
-          "source": "더구루",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPaS0tQlRrSXB2Q3BLSjlHMWluU3VtMjkxeFdIQll6aWh5a20zY2dXSy1HaGdVcU8tejViUDVMWUw3WjZhRzhBWE1NZkZxQWFPOXU0X0JHNFpacEJJcXJKbVh4Yw?oc=5",
-          "summary": "[단독] 광해공단 1조 투자 '아픈 손' 파나마 광산 재가동 시동...현지 대통령 나서&nbsp;&nbsp;더구루",
           "lang": "ko",
           "translated": false
         }
@@ -3553,13 +3553,13 @@
           "category": "MANAGEMENT",
           "tag": "관세·공급망",
           "tag_class": "bg-amber-100 text-amber-700",
-          "title": "Above the Fold: Supply Chain Logistics News (N…",
-          "desc": "Above the Fold: Supply Chain Logistics News (November 6, 2026)&nbsp;&n…",
-          "source": "Talking Logistics with Adrian Gonzalez",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdG50RWdnd0ZGZDhiZG5KN3dfam5KRXl2Wm1FMjZSWkJYRHhES0doa3dsM0NTXzgxeUJGamNYMWZKd0xYVHFyUXlKMVpya2VoNktmMUt6N2JfSHZrZU1XcElKRl8tWEdfSFlXNDJDdTJKYi1SQ1AzeTgwbFVEVTBab2tRUVM2LUViOGV0UEpVTDdRNDlaVmt2Z0o3N1FPczhq?oc=5",
+          "title": "Consumer goods companies rethink supply chain…",
+          "desc": "Consumer goods companies rethink supply chain for a volatile trade era…",
+          "source": "RSM US",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMm5fU25vSmZJalQtLVB1bnZEN3ZvMEg0NkNyWFlNc1VXTXFMNVJqNWpaN0V6WW1MTHNjSjgyUnRIUTd0QVhHTGNPeWNFN1RkUHlDUnBvN1E0U1NCMlpKejFyMHUxWXFja2lrV1lxelRxanU4SFdzdWt2TzRROTlySnIzRW13TlBjTFFmVHJVYnRzX1dsNzd1Tk1rbUxCVnJtR3JfRnFqVkhoNGdxZU5F?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Above the Fold: Supply Chain Logistics News (November 6, 2026)"
+          "original_title": "Consumer goods companies rethink supply chain for a volatile trade era"
         }
       ]
     },
@@ -3587,8 +3587,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 100,
-        "current_rate": 7.37,
-        "change_pct": 0.97,
+        "current_rate": 7.31,
+        "change_pct": 0.17,
         "history_labels": [
           "12월",
           "1월",
@@ -3615,32 +3615,32 @@
           7.76,
           7.53,
           7.37,
-          7.37
+          7.31
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "인도네시아 진출 한국 광업기업, 수출대금 예치 부담 완화",
-          "source": "세계한인신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UM21mdVFhOVVPVDFtMkNKYndUTFhRXzhlc1NGUHRkYlk0SHpEMTljTDdqc0swaE9SMlp3TGxYa1M1Vmp1aHY5Zno0MDNjb3hvTUdtaGhqanp2YzhNR1UyYUFFNFo2bDl2bGhB?oc=5",
-          "summary": "인도네시아 진출 한국 광업기업, 수출대금 예치 부담 완화&nbsp;&nbsp;세계한인신문",
+          "title": "비야디 인도네시아 수방 공장 갈취 의혹…서자바 경찰 3차례 조사 끝 무혐의 결론",
+          "source": "글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2YwMm1xcmtlbDdreHp4ejFCVjRUcS1BOHR2WmttaGpINzdFVTNhazhvUFJaSU1mS1o5a3R2VGJmRmtsMlE3THhfNm1GU19RbWdVQXZ2VDZTWGpKMFZBb0JJbkJiMGdEWkE4M1N0S29URjU2ZnhDYkRiQUV6TFpBc2xNWHdaTWVm?oc=5",
+          "summary": "비야디 인도네시아 수방 공장 갈취 의혹…서자바 경찰 3차례 조사 끝 무혐의 결론&nbsp;&nbsp;글로벌이코노믹",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "19억 무슬림 시장 겨냥…K뷰티·K패션, 인도네시아 공략 속도",
-          "source": "머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ha2gwRVkxcFpQMTBubkVLbHh6NU5udlJmc2YzRGEtZ1hsYTRXdTRfVmoyUFl1Y0NHWGZ5aWthSXNGWGJLSmNVTldxcVZDOTRaRjZRdEh0bXpKNmJkeGNlMk5BcTlydzl6UGfSAW9BVV95cUxNMHUyOTlhY0JXcWNIeURBWWhsVnZWUENXMkRFMVB5UnBZQXZYMEJvVllFMUhrTGNsemplRmhJSGFfbWxBekJqU0s1M0hMTC03ZXBhMlR4SEZnZzlmaVFXWHlLRFptTDBUdlhvY1djZEU?oc=5",
-          "summary": "19억 무슬림 시장 겨냥…K뷰티·K패션, 인도네시아 공략 속도 - 머니투데이&nbsp;&nbsp;머니투데이",
+          "title": "지스타 참가한 인도네시아 \"게이머 1억9천만명…국가 역점산업\"",
+          "source": "매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoS3oweFBDeDVxQkFRaGdUVXYzNS1zUjhEOW1wTlREeEdsOTZrd3Q4SklFd0F5a0dSd0V4T0pYTWVKMWFCcFpMV1Nwdnl3bHd1bnc?oc=5",
+          "summary": "지스타 참가한 인도네시아 \"게이머 1억9천만명…국가 역점산업\"&nbsp;&nbsp;매일경제 마켓",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "[의정부 소식] 인도네시아 보고르시 대표단, ‘물관리 선진 도시’ 의정부 방문 외",
-          "source": "이뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ER3ZYaENGeW41SVVaNmVEZkE2LUFVb0xFWGY5UTBCOUJwVW1CdVRKcFR2WHNsU3RxV1RXSmdrYmo1blhfREFVV0Z3aURZVG5wczJlZVgtQVI0ZXdQZ3dXSDFpYThNRjZEYktvcjI4Q2HSAXRBVV95cUxQaEw1c1VSa2FFRHUwdzBMbHJKbWFVQ2E1aDA2MldtbHhibHJSbGV0bWhNUjJwb2tqM2E5VnBkMmIydlNWSVk5aWNBMGU4aUdUaldjZGtiSGx0Z3NkcGMwWWhVNzlva0MxMWJOU3cyckZQZTZJeA?oc=5",
-          "summary": "[의정부 소식] 인도네시아 보고르시 대표단, ‘물관리 선진 도시’ 의정부 방문 외&nbsp;&nbsp;이뉴스투데이",
+          "title": "인도네시아, Google에 YouTube 채널 1만9천여 개 삭제 경위 설명 요구",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EcUMwaGs5TG5MdmhVTlE0MUV6emJkR0RjMEs2RDhOal94VEM2aTF5Y19mQjY2OGwyNXl0RUE3eDhkZnZJdG9UMG9wbk45dWZFRkZaZmFvRndlZWd1aXpZV196SkUtSWVjXy1fbGZLQkZEcmZ6TURR?oc=5",
+          "summary": "인도네시아, Google에 YouTube 채널 1만9천여 개 삭제 경위 설명 요구&nbsp;&nbsp;Investing.com…",
           "lang": "ko",
           "translated": false
         }
@@ -3650,13 +3650,13 @@
           "category": "AUTO MARKET",
           "tag": "완성차·타이어 시장",
           "tag_class": "bg-rose-100 text-rose-700",
-          "title": "압축 성형 프레스 시장 2035년 전망: 복합소재 수요가 성장 견인",
-          "desc": "압축 성형 프레스 시장 2035년 전망: 복합소재 수요가 성장 견인 - 뉴스 및 통계&nbsp;&nbsp;IndexBox",
+          "title": "Ultra High Performance Tires Market To 2035: E…",
+          "desc": "Ultra High Performance Tires Market To 2035: Electrified Performance V…",
           "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYzlpVjV1T1F5R3JsQVI1bmdKR2x2OHRfQm4xX193SWJ6aTNRZWJGLVRCUWdKbm5ab29jNV82bGdTanRyX1NiekJYeHJpNV9pVUp2RTZQcFBhWlZINWN1LWM0Mi1HRnZDMWhIamxvdnRDZktVb3lNekRoc3htLXl5SGU3VDhFVDM4RF9GUzJ1anU4MEd6UWt2a1M1dm9BM09LU1I1czRBNjBFeVBRLXNjSWFpTmtUZjMtSHEzMGdYV2h2OUtvWi1hSHctR0tGaWtBUHlaZUdrTXQ5ZkV5OVhjT2RWYUo1UQ?oc=5",
-          "lang": "ko",
-          "translated": false,
-          "original_title": ""
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY3Q2NnpWUjhsZEZ2LWxnUWE1WXNIUHNuU1BXOHhtc0J0UTc0dHNvOTB0RHVEdlR6cUdtbldXS2ZxRVJlSzF4LWxLVmxsWUZPVmpEc2ZFMXh2RlItRUs3M0NUWUgxQVNWVkM4YVhIMVY3bFZsc3hIYnh6QWU4eVp3aWNtTVdvZGZPSGhHM2FaRzFqcjBibm5pU0VaSG9GZTFYRXhEbS1yQW5nUngzc3pXS0VBc214QTVHYmU1X253UHQySmE4dmV0ajN0cmV3WkRoVzBMVy1HQTBnZzQ?oc=5",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Ultra High Performance Tires Market To 2035: Electrified Performance Vehicles Fuel Growth"
         },
         {
           "category": "HR & LABOR",
@@ -3718,8 +3718,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 889.52,
-        "change_pct": -0.42,
+        "current_rate": 888.42,
+        "change_pct": -0.55,
         "history_labels": [
           "12월",
           "1월",
@@ -3746,32 +3746,32 @@
           986.07,
           944.18,
           939.62,
-          889.52
+          888.42
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "\"미중러 대화 고착화는 악몽\"…일본서 커지는 위기감",
-          "source": "연합뉴스 한민족센터",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRZ0g5VTFWNmEyaHc4cmt5LW11eGxURmFnTmJKaktNME5DdmswdFhDeWcyakVENkZ5TWJDTjhjeWFSUTI0YllfeW1JMVFJOHU1dHJSN2lNejhZVEZZbnN1MXotLXk1OWhQYU9TYzFtNGszcERt?oc=5",
-          "summary": "\"미중러 대화 고착화는 악몽\"…일본서 커지는 위기감&nbsp;&nbsp;연합뉴스 한민족센터",
+          "title": "호주 5편-호주 동물과 여행 팁",
+          "source": "VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ySkc0VGxBUk8zd2M5amJ3TEN1RjU2TlY2cmxYNl82RTJIcEZTa20tNXBRR0hnODhCYnpvRnhKZUNaWE5xNnRMdGs3V204LWlw0gFTQVVfeXFMUFQ4aDdwTVo4WWRFVXYzRm5YVGd4d2pIN0d3X3JkYWJDVFdnTmNRX1RVRzZ4ODN5WFdvZHhCeUJBNXFnQl94OXpkRWVDejExcFNOY0E?oc=5",
+          "summary": "호주 5편-호주 동물과 여행 팁&nbsp;&nbsp;VOA 한국어 홈페이지",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "\"흙에서 왔으니 흙으로\"... 호주 NSW주, '인체 퇴비화' 장례 합법화",
-          "source": "OhmyNews",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0NXEzblJRTUJPYWNjWjM4eEEtbmVCdE9hMlNoMmRVTkxGTG5WQTJReGp6YVBrUGtQNllCX1gwaU5kNVR0TmdiUlRmYXMyMV9hQlRTdnpKXzhVZXFrOVdDc2NMMThkSFlNZUVjSzY1d1BTZXdrQXpr?oc=5",
-          "summary": "\"흙에서 왔으니 흙으로\"... 호주 NSW주, '인체 퇴비화' 장례 합법화&nbsp;&nbsp;OhmyNews",
+          "title": "중국·호주, 'AI 대화체' 신설 합의…안전·거버넌스 논의",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yV1NnX0hxb3h2X1JQT0FRQlAxOWJ5U1hFRzQwcjFxRUZPN09NbTFBMFo2RUZ4WEx1dE9rdTY2TmFFUTAxUjBCMHItMzY0anhreXVfU0dGcWROM1RBN3c?oc=5",
+          "summary": "중국·호주, 'AI 대화체' 신설 합의…안전·거버넌스 논의&nbsp;&nbsp;뉴스1",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "호주 실업률 상승에 경기 침체 우려 확산",
-          "source": "호주 톱뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HSWhQdHhsbVhZdHJLNlpISjF6SVU0dGZhaGx2UkFaWjFxQUFJQVduZkRYcVEwSnNyTnAzdWJEUUk5S1MyUkV2M2hoWTF1bHlhMXVKY2VtdzZWcXotU0xDQzhQVXhjcy02dy16VVRuUGQ?oc=5",
-          "summary": "호주 실업률 상승에 경기 침체 우려 확산&nbsp;&nbsp;호주 톱뉴스",
+          "title": "북중 교역서 랴오닝성 비중 확대…수출입 동반 상승",
+          "source": "SPN 서울평양뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxeGhuUlBRWDZyeU9aX2F2dWswc2E3bkhHZnItVEVra0dpMGhZaWlvenJmRm5FZEVPUF9GRFdIV3UtYmRvQkdjZmlrcXJYR1BHNVVucXNsSk1MN2lwVGFseHZjWVJIRzM1c0dj?oc=5",
+          "summary": "북중 교역서 랴오닝성 비중 확대…수출입 동반 상승&nbsp;&nbsp;SPN 서울평양뉴스",
           "lang": "ko",
           "translated": false
         }
@@ -3793,13 +3793,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "October jobs report puts employer pay and hiri…",
-          "desc": "October jobs report puts employer pay and hiring plans under pressure&…",
-          "source": "Human Resources Director",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTN3MFJCTjA1N1ZBaEZOLXc5Z0I5MTZpdHhCUHNqSXVUeldXcGdoeTY2Q01ZTDRuV3lwWGJRX3ZCcmVYWHV3MU81MUptbnVfNWVVOWc2dVdROW9RMWM5Xy1pUVptTEpIOXpVVzd1NGYzaGE2NE84bVlrXzNFTjlaT2tXUzJtLWxJc0ZpNGliQnM5VTR6ME5YTVBuQlVpeGdFNnJRak5MN0p1STVNeExneU1OX3ItbnNQOWNYc3JRQmdRdnc?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "October jobs report puts employer pay and hiring plans under pressure"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -3817,13 +3817,13 @@
           "category": "MANAGEMENT",
           "tag": "관세·공급망",
           "tag_class": "bg-amber-100 text-amber-700",
-          "title": "How Do Tariffs Work?",
-          "desc": "How Do Tariffs Work?&nbsp;&nbsp;Britannica",
-          "source": "Britannica",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XSVpIVVFjWHhQSC1TRm9scFpiTnBHN05ZU3R2UG9td0Y3aXFFZXh5WGpKUDJSTEZPdVFRNFFLSW1IemgyOVFPQWpjamdwdDh4RHhCamtIdVNXRXlhYnFJM0h3?oc=5",
+          "title": "Port of LA Crushes Records: 5M Containers in 5…",
+          "desc": "Port of LA Crushes Records: 5M Containers in 5 Months!&nbsp;&nbsp;Frei…",
+          "source": "FreightWaves",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWNKVFJnOXJSNGhBalBpYURlRGllMDFyRjluVXlVUndoYjNjUERRWXRwb29oWmxDTFpGWnFjQVpmSUtuSEk5clNra0xpT1U3dloxLWdjZDRsT1pIejlKeC12MVZlTXcxbDdQdVVDcFFHejRxLVBvZ2JpaTFSS0hBcERtWHkyTUN1Qlk2TWNtbw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "How Do Tariffs Work?"
+          "original_title": "Port of LA Crushes Records: 5M Containers in 5 Months!"
         }
       ]
     },
@@ -3850,8 +3850,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 100,
-        "current_rate": 837.1,
-        "change_pct": 0.27,
+        "current_rate": 835.7,
+        "change_pct": 0.1,
         "history_labels": [
           "12월",
           "1월",
@@ -3878,11 +3878,19 @@
           860.06,
           858.31,
           847.34,
-          837.1
+          835.7
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
+        {
+          "title": "리센느 미나미, 대세 가수로 고향 일본으로",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFY2xBRC1KaDA1eU5JYkRjTDZKOVhUanF1Z3dpdGdnSzFGTmZZbkxOY1VoejRGZnRub2FfLVk4dGYyNGFfb1ZiZE40Yw?oc=5",
+          "summary": "리센느 미나미, 대세 가수로 고향 일본으로&nbsp;&nbsp;뉴스1",
+          "lang": "ko",
+          "translated": false
+        },
         {
           "title": "\"미중러 대화 고착화는 악몽\"…일본서 커지는 위기감",
           "source": "연합뉴스",
@@ -3892,18 +3900,10 @@
           "translated": false
         },
         {
-          "title": "하찮은 의전부터 심상치 않더니…APEC서 살아남지 못한 일본 [지금이뉴스]",
+          "title": "'악몽' 현실화되는 일본? 미중러 회담 흐린 눈 하지만 글쎼… [지금이뉴스]",
           "source": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QY0I3TU1PR051ZU9welRWbVVzZGFkWmo0azREd1VjRUpXbkJrY052YUV6d1g2eGYwcVJvVFlsd0xvNHM0T2VXVTBIRzdWRTFFZWVpODctWUdMSU94UWdfSWtTWDdXQWN2d25iTHREX2t0aGI1UUE?oc=5",
-          "summary": "하찮은 의전부터 심상치 않더니…APEC서 살아남지 못한 일본 [지금이뉴스]&nbsp;&nbsp;YTN",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "[뉴스 다이브] 한덕수 대법 선고, ‘내란 단죄의 날’ 될까",
-          "source": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5azJQNHBncDJHWjBNWHlXajFnRWpKYTBSSzlhMDgzLURXMFJRNDcybDd4MTVJb1l0NUdzYjBCVzMyTHBTSmlFdVduNTJKTGpwTTRzU0pDYW9CUEh6aUZCR054d08zaGFrMUxaOVFIZTRFSVU5?oc=5",
-          "summary": "[뉴스 다이브] 한덕수 대법 선고, ‘내란 단죄의 날’ 될까&nbsp;&nbsp;한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tZmxwTFlmWGpJUDM0VFFhclI5V3o4eDhDazg0dzJqX1hTWk1uQUFsOTBrTFBlRFRwRHd5MXBBeWZnZjBUMm9fZTlyUXpaaFV4QXZCZExwVXN4a0dCV2loSzJDZ1g5SHFFVmoxczVBeDVyY2V3WEE?oc=5",
+          "summary": "'악몽' 현실화되는 일본? 미중러 회담 흐린 눈 하지만 글쎼… [지금이뉴스]&nbsp;&nbsp;YTN",
           "lang": "ko",
           "translated": false
         }
@@ -3981,8 +3981,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 1034.89,
-        "change_pct": 0.27,
+        "current_rate": 1033.28,
+        "change_pct": 0.11,
         "history_labels": [
           "12월",
           "1월",
@@ -4009,32 +4009,32 @@
           1080.39,
           1057.34,
           1044.91,
-          1034.89
+          1033.28
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "“예술은 도시의 무엇을 기억하고, 누구에게 닿는가”…싱가포르로 떠난 인천 청년창작자 15명",
-          "source": "기호일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ta3pSY1pFYjNJbWszenhkd19GemE5LWtLMkRFZEZLS0tid05LdlhvZTZIUHRiR2I2WUxvRTAzYndSX3c3WU1oeWpITGxYUWhyTGdpYVB2cEpTdnVlQVVIUHhNbllRUkNQaF9GVWp3QQ?oc=5",
-          "summary": "“예술은 도시의 무엇을 기억하고, 누구에게 닿는가”…싱가포르로 떠난 인천 청년창작자 15명&nbsp;&nbsp;기호일보",
+          "title": "\"美증권위, 엔비디아 회계조사\"…싱가포르 매출기준 변경 주목",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pcnlCeEFIOEs1TFlXU3Z3Y2xsSjE1YXBwRU02OTBUblNvV3l1YTFiSXJXWjNoaFJkUmZhbEJlZzhiaE9MY05nS25BSDZEclpiVGdYd3k3Mm9yQ3PSAWBBVV95cUxOZkdUUmtWam5JTkhRR3JxQjdHZmk4MjBPM3ZJYkNXMW1zVV9jR1p2NE4tZVpkYWFSRlBRazQtU0JaNWwzMk9nQ0ZLZlJ2RlRjMmdWV3JmeHlDckptVEY3c1Q?oc=5",
+          "summary": "\"美증권위, 엔비디아 회계조사\"…싱가포르 매출기준 변경 주목&nbsp;&nbsp;연합뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "[디지털자산 2.0]AI가 세계 금융을 움직인다…싱가포르에서 본 미래",
-          "source": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iOWcyU0NlMUxnempsYTVyaFVWVm9hcmRyeTZKeW1tdE5fTlp0NWU5Y1Z2cS0tcnpUSEZmMnpaeDlkWXNXQjhBS1pVeXV5Zm9KTnpmeHZRVDdMWjdGNm5BVA?oc=5",
-          "summary": "[디지털자산 2.0]AI가 세계 금융을 움직인다…싱가포르에서 본 미래&nbsp;&nbsp;아시아경제",
+          "title": "약가만 눌러선 신약 못 키운다...중·일·싱가포르의 교훈",
+          "source": "팜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BVjR2YnNvUnFkbmpCUXkwN09mY0QxNkl6eDFpbi1TWExMNjllVGxDd0ZwcHNnVl8xaWVzZDlROFprekYweTZTbmRISGxEXy1kWVRpS3JxM1VEN0o5QkZBN0xhdnpoMjhpdFU4VQ?oc=5",
+          "summary": "약가만 눌러선 신약 못 키운다...중·일·싱가포르의 교훈&nbsp;&nbsp;팜뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "中 반도체 장비 싱가포르 수입 4배 급증…우회 조달 의혹",
-          "source": "서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mSWowU2VQYTFSWHVKWjdKTUs5YzdwVE1rb2prMjFlMjBSRm5rLTJuTVFUbXU2RzMwOHNLV0dxdWMtRVd3YnZ6UUVxV3piRmYyakHSAVNBVV95cUxPMGg1X1Vrbk92bkN3eVJGYi15ZnRhOE00ZFpXMmhhcGpDWDFQeFFPM1hQT3RGem5rXzAtdDVmT0lNSUxGeHNyVDhIZHFySEM0Z21GOA?oc=5",
-          "summary": "中 반도체 장비 싱가포르 수입 4배 급증…우회 조달 의혹&nbsp;&nbsp;서울경제",
+          "title": "“미국 증권위, 엔비디아 회계조사”…싱가포르 매출기준 변경 주목",
+          "source": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZzUwNkdIenU4OUZEVW1rRnVPcGxNTW53UFFiZ1lOcllLa2lESDczQWxNS09KbDk5Z25PYThNY3VsRE4wVWU5a0M5MjJMSDRqMERIWUJNX1o3Nzg?oc=5",
+          "summary": "“미국 증권위, 엔비디아 회계조사”…싱가포르 매출기준 변경 주목&nbsp;&nbsp;KBS 뉴스",
           "lang": "ko",
           "translated": false
         }
@@ -4044,13 +4044,13 @@
           "category": "AUTO MARKET",
           "tag": "완성차·타이어 시장",
           "tag_class": "bg-rose-100 text-rose-700",
-          "title": "넥센타이어, 출고 4년 차 ‘전기차 42만 대’ 교체 수요 정조준",
-          "desc": "넥센타이어, 출고 4년 차 ‘전기차 42만 대’ 교체 수요 정조준&nbsp;&nbsp;서울경제",
-          "source": "서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93dXRVbzBlM1hQLXlfUnFSN2Z3MDRfdU5oOFdzRjlSVWZxS29lNW11bnI5bWtQYktXRXRYbnROY1g3OERLVGllTzdULTdGRU5XMHfSAVNBVV95cUxNYm43aDhNcF9ESFZWUGlSbE5SUHZmREZmZG00Vld5ZTZiTldCbnotUXZaUW5LQjU0cHRuVl81eXNZZU5UUnpoOG1feGNPQkJaQloyOA?oc=5",
-          "lang": "ko",
-          "translated": false,
-          "original_title": ""
+          "title": "Ultra High Performance Tires Market To 2035: E…",
+          "desc": "Ultra High Performance Tires Market To 2035: Electrified Performance V…",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY3Q2NnpWUjhsZEZ2LWxnUWE1WXNIUHNuU1BXOHhtc0J0UTc0dHNvOTB0RHVEdlR6cUdtbldXS2ZxRVJlSzF4LWxLVmxsWUZPVmpEc2ZFMXh2RlItRUs3M0NUWUgxQVNWVkM4YVhIMVY3bFZsc3hIYnh6QWU4eVp3aWNtTVdvZGZPSGhHM2FaRzFqcjBibm5pU0VaSG9GZTFYRXhEbS1yQW5nUngzc3pXS0VBc214QTVHYmU1X253UHQySmE4dmV0ajN0cmV3WkRoVzBMVy1HQTBnZzQ?oc=5",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Ultra High Performance Tires Market To 2035: Electrified Performance Vehicles Fuel Growth"
         },
         {
           "category": "HR & LABOR",
@@ -4068,13 +4068,13 @@
           "category": "ECONOMY",
           "tag": "경기·금리",
           "tag_class": "bg-emerald-100 text-emerald-700",
-          "title": "USD/JPY Weekly Outlook: Bulls Eye Higher Range…",
-          "desc": "USD/JPY Weekly Outlook: Bulls Eye Higher Range After Historic Rate Sho…",
-          "source": "FOREX.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2FGTWdjZWVRY2tDT0lUMG5adkJlbHFwUmNZRkhHallfbzhnWEN0cDY1UnFUeXlvQUpFV3R2ZlMydzE3UjJCUHowSnR1WTM5Y3ZSd1hia2d4MmItUDZrUEdfSk5NTWkzanZvdG5lVjlvWkF5cWdCeFRLYlhBYnAwN3lvR2lwVC15M1gyenVqVW9sMjdFU2lFVHUxSWc4WUhQRng5cVQyR2l5TjQ3MTJxWW1oMkNFYnFqNFE?oc=5",
+          "title": "Asia FX Outlook 2027: Rotation underway but te…",
+          "desc": "Asia FX Outlook 2027: Rotation underway but tech currencies should lea…",
+          "source": "ing think",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzg3NVRiTUw3UEQzdTgxdzktTnFxUTFHbHRaV2tudWl2Z3k5R0FBVGhBS0tvUWVKbjlxYlRiZUxnVTh2eDZ5YVl6SXA1MFFrTWRaZTFOeEtCQ3gxTUl5NEFpQy1vSzhWQzVQT2Z1OTFlaDBUdVFGWU92ODJzSUM4bHhBdkxoVVdURjR6SFhIeVktYW1BUzI3dnBXemJFTWFCd1NSZg?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "USD/JPY Weekly Outlook: Bulls Eye Higher Range After Historic Rate Shock"
+          "original_title": "Asia FX Outlook 2027: Rotation underway but tech currencies should lead"
         },
         {
           "category": "MANAGEMENT",
@@ -4112,8 +4112,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 325.15,
-        "change_pct": 0.54,
+        "current_rate": 324.51,
+        "change_pct": 0.34,
         "history_labels": [
           "12월",
           "1월",
@@ -4140,32 +4140,32 @@
           342.07,
           330.91,
           329.42,
-          325.15
+          324.51
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "말레이시아 정상과 조우",
-          "source": "대한민국 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SRGFsa0dlcHRjVkhtbHJnYVFfU2szZDNrYWw2MWV2bkw5Vzk4YW16OXZWZk1BZDRqQzB1TWVVY3EzcmZhMzdTalJ0aFk4VjROcHJabUV0VktacTY0T1ZKSENVVmcycUhOaGxBMnpndW9CTV9yZ1R2R3dB?oc=5",
-          "summary": "말레이시아 정상과 조우 - 사진 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑",
+          "title": "팜오일, 중국·말레이시아 재고 증가와 국제 식용유 가격 하락에 약세",
+          "source": "CNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PdkVxU1RhN0dYMy1OMTd4dGpFMWRmdzV2SGptMDhTbW5BcVFYS1VFUGtDeS1DN0ZoN09lanBwM0lkamREODRLWUg5Wkxtc0dfakl0VmRtdGk3UmRUTDBxZEo4Ry1EVWl6djNPd2hSRXpqWjNDZFM4?oc=5",
+          "summary": "팜오일, 중국·말레이시아 재고 증가와 국제 식용유 가격 하락에 약세&nbsp;&nbsp;CNews",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "신세계사이먼, 해외 단체 관광객 유치 확대…파주에 말레이시아 단체 1600명 방문",
-          "source": "파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sWFdReUFNQ3VuQ3FTVHFWLUFlVFFBZ1U3dWRoaUFOZnduWm1LT2FWc0lIb3E2aUlFTDBBS0NaQVJ2VUFKanpLaXJ2dV9ncDNNcEdQS1JMV2JIQQ?oc=5",
-          "summary": "신세계사이먼, 해외 단체 관광객 유치 확대…파주에 말레이시아 단체 1600명 방문&nbsp;&nbsp;파이낸셜뉴스",
+          "title": "K-팝 넘어 뮤지컬·전통예술까지…말레이시아 사로잡은 K-컬처",
+          "source": "재외동포신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ub2Z6SjlXUllqR1haZmgtLUlHcEdRc3JsOF9iV2NxYlNkcF96VFpWYTVIY2tTR25rVlItRWFEdWNDZXNPMTczWTVneXpYdEY0TlJXMm1QZG5HNS1xcWt3dlJ1SHN3cnBicy1XTw?oc=5",
+          "summary": "K-팝 넘어 뮤지컬·전통예술까지…말레이시아 사로잡은 K-컬처&nbsp;&nbsp;재외동포신문",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "\"훌륭한 작품은 완벽한 답 아닌 무수한 시행착오로부터\"… 웨이 웬 콩 Muma 말레이시아 CD",
-          "source": "브랜드브리프",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yVThqc001LUFnYzdtbEE2d2lXSDl2ZlJIQzItQk9PMzA1RVlRWGVUX2pRUDEtcE1PZEg0MmNrNFE0U3Rncl9GN1FNSkVpUllhNTF0Z2kzbUdCVjFWdk1ad3ZhVEpsTEV6Mlh6ODMyQjFEcWtMTGZOMVI2NUswdw?oc=5",
-          "summary": "\"훌륭한 작품은 완벽한 답 아닌 무수한 시행착오로부터\"… 웨이 웬 콩 Muma 말레이시아 CD&nbsp;&nbsp;브랜드브리프",
+          "title": "시진핑 주석, 안와르 말레이시아 총리와 회견",
+          "source": "인민망 한국어판",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SQW5hakFzZXBPX1NFanJzMXlyVmh4aGZnZ0I4Y0puTGpLLWdsX19KS3A2SDNLM2o1TnVJVUhCMlVSNnR3UkI3R0wzZ3JGOHVLVnpLeFJLbjVBbzhBSGdlaFFCVkNRUl8xaFE?oc=5",
+          "summary": "시진핑 주석, 안와르 말레이시아 총리와 회견&nbsp;&nbsp;인민망 한국어판",
           "lang": "ko",
           "translated": false
         }
@@ -4243,8 +4243,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 39.37,
-        "change_pct": 0.51,
+        "current_rate": 39.27,
+        "change_pct": 0.26,
         "history_labels": [
           "12월",
           "1월",
@@ -4271,32 +4271,32 @@
           41.63,
           40.27,
           39.65,
-          39.37
+          39.27
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "차병원 글로벌 난임트레이닝센터, 태국 의료진 15명 배아 동결·융해 교육",
-          "source": "MEDI:GATE NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUblJleks5QkdxTDJLU0JqTDV5S0xqYU9oeVlNNy1IdEhObE5xbVZfVW4zcUNiZ0xpak9VdXpGTkRzVEJOankxSWRDVTV1bDJkQmtwOERNaw?oc=5",
-          "summary": "차병원 글로벌 난임트레이닝센터, 태국 의료진 15명 배아 동결·융해 교육&nbsp;&nbsp;MEDI:GATE NEWS",
+          "title": "“땅 사려 국적까지 바꿨다”… ‘46조 바지사장 스캔들’ 태국 발칵",
+          "source": "중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByM3dDc2FOYlVFXzEwQnB1all0djRzYnJVMklMRnFTSmhyVDA3M3JrcFZNZldTSmNNWUphMHJRZGxWMXRvbFhFeWJZNXNPcThTRXczcWl3?oc=5",
+          "summary": "“땅 사려 국적까지 바꿨다”… ‘46조 바지사장 스캔들’ 태국 발칵&nbsp;&nbsp;중앙일보",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "태국 \"美, 태국산 제품 강제노동 추가 관세 12.5%→10% 인하\"",
+          "title": "시진핑, 인니·호주·싱가포르·태국·말레이와 연쇄 정상회담(종합)",
           "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DNUJWcjl4YXB5dHNFdTZ4X010UUZtejh5ZHo5Vk5jOVJrelA4a1pwMERlQ2xyWkpIbTlISXk2TzRHRGFBZ01QeHlrblZUWnNtQUhSSmd0em5TZlVva3BRStIBYEFVX3lxTE5DNUJWcjl4YXB5dHNFdTZ4X010UUZtejh5ZHo5Vk5jOVJrelA4a1pwMERlQ2xyWkpIbTlISXk2TzRHRGFBZ01QeHlrblZUWnNtQUhSSmd0em5TZlVva3BRSg?oc=5",
-          "summary": "태국 \"美, 태국산 제품 강제노동 추가 관세 12.5%→10% 인하\"&nbsp;&nbsp;연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmRzVjQVFoNElkWS0wM2t6RnFRZktvSkJlYlhWSW5sYllUNGJJLUV2ZVpHUXp2dk92VmxocW5DTFdRRVBJMFk0bnRzM2lOcUowM29vNEV4TGFVT3ZmaXAxQ9IBYEFVX3lxTFBmRzVjQVFoNElkWS0wM2t6RnFRZktvSkJlYlhWSW5sYllUNGJJLUV2ZVpHUXp2dk92VmxocW5DTFdRRVBJMFk0bnRzM2lOcUowM29vNEV4TGFVT3ZmaXAxQw?oc=5",
+          "summary": "시진핑, 인니·호주·싱가포르·태국·말레이와 연쇄 정상회담(종합)&nbsp;&nbsp;연합뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "제주 세계자연유산 특별전, 태국 방콕서 열린다",
-          "source": "헤드라인제주",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6U0Y0bzdrb2NBczkzdmxwWWZ4OHhySEVXUUg2bGhIM2k1X0Ewa1BkckgyTWhod2FVaVc5bnJBTl9UV0d3V0JnSGV1UE14V0xOakVVc09sakMzQ2VkTEl6WHZqNl9xLW82dmR6YVpXLW91Tk0?oc=5",
-          "summary": "제주 세계자연유산 특별전, 태국 방콕서 열린다&nbsp;&nbsp;헤드라인제주",
+          "title": "태국 MZ세대들을 열광시킨 한식당의 정체! 방콕을 휩쓴 진짜 한국의 맛🧑🏻‍🍳",
+          "source": "KBC광주방송",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ObGpuSnN1UVJINVc3RU1XYW9lWUZFNWw3aWpaNDZDSTdIWi1mU1R6NkhJTkRnRV9ENVhtUml4QnhwMzRRSEprRFBhZjZHM2NDX3liWnl1bGJWSXIwU3hGU3RVRmY?oc=5",
+          "summary": "태국 MZ세대들을 열광시킨 한식당의 정체! 방콕을 휩쓴 진짜 한국의 맛🧑🏻‍🍳&nbsp;&nbsp;KBC광주방송",
           "lang": "ko",
           "translated": false
         }
@@ -4318,13 +4318,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Minimum Wages in China: A Complete Guide",
-          "desc": "Minimum Wages in China: A Complete Guide&nbsp;&nbsp;China Briefing",
-          "source": "China Briefing",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPaDVQb2NYUkFYeUZ1aUhCOEFtOG9YUVB3R1IwUFMySWEzenNXalhVOHVrbUpVN0JtVXZiQXpEMHhWVzV0VHVCRHFhUnRwWFkzY0ZXMU1fVkhTN3Btb0lubFZraDFJVGs?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Minimum Wages in China: A Complete Guide"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -4374,8 +4374,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 100,
-        "current_rate": 5.2,
-        "change_pct": 0.47,
+        "current_rate": 5.18,
+        "change_pct": 0.12,
         "history_labels": [
           "12월",
           "1월",
@@ -4402,32 +4402,32 @@
           5.28,
           5.2,
           5.19,
-          5.2
+          5.18
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "‘2026년 베트남 일하기 좋은 직장 100곳’에 韓기업 대거 포함…CJ푸드·오리온 등",
-          "source": "인사이드비나",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83eE1DM2ZUWnJqMlVRMThrWEIweWJXOTBXNUdPRlpyUlBwYkJkc3dQb2Fnb1FZSjhsT2duTzkxUlRuTjhiNDdXV0ZhSkJwNDNGQURJd1BUWXdBOTJtNXdIcDlkNDUtTHIydHdrcQ?oc=5",
-          "summary": "‘2026년 베트남 일하기 좋은 직장 100곳’에 韓기업 대거 포함…CJ푸드·오리온 등&nbsp;&nbsp;인사이드비나",
+          "title": "주베트남 한국문화원 곳곳에 스며있는 'K-문화'",
+          "source": "대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mcHJEeWhnOW83VTZ6Ujg5SmkzcmN5Z3AzVmNZaW5jN1F6cGMzV3gtNHpoUFFkNGthOUtJNkZfQkc0TndXV2tTdzlfWjB6NWlNZGQ3RmFJTE9sQ2VkS3hqMFM0Y3dpZnY3Qnc?oc=5",
+          "summary": "주베트남 한국문화원 곳곳에 스며있는 'K-문화'&nbsp;&nbsp;대한민국 정책브리핑",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "한·베트남 첨단산업 분야 협력 강화…2030년 1,500억 달러 목표",
-          "source": "BBS불교방송",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LcThqZWpoRnNVMkxaaEwxT2ZXZ0x4STNzdFRUYTNYZDN0VkV6bHJFOGxBZ3N6WUdWSlZXT2pXQzJYZ0o5WGVzSGJZczR4eEg0NHVNWXBlcXJOVXdtdHFsMnY4RmdKdWpOVlRv?oc=5",
-          "summary": "한·베트남 첨단산업 분야 협력 강화…2030년 1,500억 달러 목표&nbsp;&nbsp;BBS불교방송",
+          "title": "대한민국 산업은행, 베트남 하노이지점 개점식.현지 기업금융 지원 확대",
+          "source": "아세안데일리 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UTEdwSFpfV210MGd0blY1UHBLb2RyNnVjWkVWU0ZfS1BNMlF1aE9Xb05ZdkU5VkJjenU3TVE2OU1FN3MyRVpiYk5lLVJHSVVLY2xmRE1MWWhVclRDU3BFdEJiaUEtaTdjNlRqd1FsTklidw?oc=5",
+          "summary": "대한민국 산업은행, 베트남 하노이지점 개점식.현지 기업금융 지원 확대&nbsp;&nbsp;아세안데일리 뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "[현장에서]“베트남서도 하트나무 보러 온다”…청주 확대 추진에 네모·버섯 모양 ‘가로수 성형’ 수난시대",
-          "source": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zVDc1N1ljNlpEaGRLN1QtYkhmdzlIUGx5bV8tTFdZaE55NVduNzBPVldWZEFtblFvTW9JTmlhQVpPVUxkNllrNVBWRnp3RjFwLVd5dWtqd2ZwUdIBX0FVX3lxTE9WbDJXa1BKYlVZOVZOaGVVcENhbEZTMU54RFgxb3JuMkFsUllZMUQ2dndLd2Q1N1FES0dPbDNXYVNlcTlRdkl2cGkyNEMwajU2WmdhN19BM2pYS25nTzNn?oc=5",
-          "summary": "[현장에서]“베트남서도 하트나무 보러 온다”…청주 확대 추진에 네모·버섯 모양 ‘가로수 성형’ 수난시대&nbsp;&nbsp;경…",
+          "title": "산업은행, 베트남 하노이지점 개점…한국 기업 지원 강화",
+          "source": "스트레이트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JRHNXVG1LUUN2bUUwWTY3S3VwdmR3VVoxUGFpOHd0ekUtbUhWeHNzSURjV0haVnZ3enQ3WDJNR3RsblA1c25WWVo2dU45eWdxQjNnZERkdlpJVXBsZERIdGJEMjlFRlJxV0wzblRTQnAxb03SAXdBVV95cUxNb29VelYzajlpNVJqcHVmc1Y0cUdVaFFuUkpwVGFCbEQ2dHdaX2lpRUlxZkozMWFwX2lXTzV5aFU1dTRTNUFYaklSMlFqbmdHSk5Obnh3RFY1ODNKSktvODRnS3dYeGdoSFFlREpRckJSZkkxMWdTbw?oc=5",
+          "summary": "산업은행, 베트남 하노이지점 개점…한국 기업 지원 강화&nbsp;&nbsp;스트레이트뉴스",
           "lang": "ko",
           "translated": false
         }
@@ -4505,8 +4505,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 40.48,
-        "change_pct": 0.21,
+        "current_rate": 40.4,
+        "change_pct": 0.01,
         "history_labels": [
           "12월",
           "1월",
@@ -4533,32 +4533,32 @@
           43.52,
           42.4,
           41.04,
-          40.48
+          40.4
         ],
         "source": "Yahoo Finance"
       },
       "headlines": [
         {
-          "title": "시진핑, 트럼프 앞에서 “대만 문제 올바르게 행동해야”",
-          "source": "채널A",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BX1NHRFNZODUyZno3d2x2WTRqRlBHRVdqMFhEU24tX2tzNVhlcXppY1pkaU1OdWF4X0M5YmRHR2hhMDJwd2ladkZScWJMeTctdXF2VDBiZkdKN1dtc0HSAWNBVV95cUxQejlxa0lfUzBHVGlteGhNQlpJSzZfamdTMU5zVWZ6SFdmVk5KU1B1aDltYmhCZjVOS2xXOGZIMmo5NERpSUlycnhXWUZ2a3VBMkRtamQ3UHd4dTZYdm5IbzIxSms?oc=5",
-          "summary": "시진핑, 트럼프 앞에서 “대만 문제 올바르게 행동해야”&nbsp;&nbsp;채널A",
+          "title": "美 중남미, 中 대만, 러는 동유럽… 스트롱맨들의 ‘제 구역 지키기’",
+          "source": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc3ctNVo4QWRST2V0Rl93VzlvWm5PMmtVa3dpRW1MdHFWRURBWG8teUZfd3R1VTBpVkJJcFZxUkJIeEVFMFZ2Y0FhVFExaDlWVk4wUEhUTUdpaUFtcjBEZnBIN3QzTXhXcDhmTFM3U1JZUE51MVU4Z3JLRjZaVVozLXRUbVVRUGxRX0U1T3hHeV83QQ?oc=5",
+          "summary": "美 중남미, 中 대만, 러는 동유럽… 스트롱맨들의 ‘제 구역 지키기’&nbsp;&nbsp;조선일보",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "트럼프·시진핑, 두 달 만에 회담…대만·반도체 등 핵심 현안 진전은 미지수",
-          "source": "SPN 서울평양뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtRTVlclVpRUJPb192c2VqdkoxM3RtTUFNZHpxbWNfSDNtbm5xRGpnTEZMbVFGd0tKblRpMjA4d21xNmlaOFI1aThhUFlFZmpibzhpSm1CMnNUUVRHaG4tWXN0UHNnSEZwRFVr?oc=5",
-          "summary": "트럼프·시진핑, 두 달 만에 회담…대만·반도체 등 핵심 현안 진전은 미지수&nbsp;&nbsp;SPN 서울평양뉴스",
+          "title": "대만, 미·중·러 선언 빠졌지만…“강대국 간 거래 가능성 경계”",
+          "source": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94eHh6LXQ0Q0lrbW5HNXBDLWVzeHlpSHphczlxcmR2NmJQS1ExdlZmNEd6Vk9SRmZaQmczUVNJendmcVpEc1haWEdOZDJFaGVHZEladEt6QmZDZk1nb3NuaHJsUHV0YmRQR0NfNVNKWEw0d2ZC?oc=5",
+          "summary": "대만, 미·중·러 선언 빠졌지만…“강대국 간 거래 가능성 경계”&nbsp;&nbsp;한겨레",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "대만·동남아 사로잡은 여주 中企…80만 불 계약상담",
-          "source": "문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKS3ZPWml2MncxRzhOcU5qV3QxUXFtQ1hpWjhsa2VGeG1lcFFHVlBZNVBiVTZDdlFSZ0ZSekQ2OWNqYUpfOTdDaTZ4aEQzakJM?oc=5",
-          "summary": "대만·동남아 사로잡은 여주 中企…80만 불 계약상담&nbsp;&nbsp;문화일보",
+          "title": "대만 증시 6.23% 급락 마감…1991년 이후 최악의 주간 하락",
+          "source": "연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VN0t5a0MxMGRWMk51Nmlxa0dXbTU0VnJCcU96djBJTktpYTZRVFNFOXZ4WWNYcGtHYjV4SGRxWnBnRWRiTmdaek1QcmZYWGIxcW9xTkRpNmVkNzN5Sk9KeFlCX2FPQVBVRXpqSm80NTU?oc=5",
+          "summary": "대만 증시 6.23% 급락 마감…1991년 이후 최악의 주간 하락&nbsp;&nbsp;연합인포맥스",
           "lang": "ko",
           "translated": false
         }
@@ -4636,8 +4636,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 364.03,
-        "change_pct": 0.46,
+        "current_rate": 363.42,
+        "change_pct": 0.29,
         "history_labels": [
           "12월",
           "1월",
@@ -4664,32 +4664,32 @@
           375.08,
           367.83,
           364.42,
-          364.03
+          363.42
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "천궁-II에 놀란 UAE, 한화시스템 레이저 대공무기 '천광' 도입 검토",
-          "source": "더구루",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mWGFqX05KVGdpdlNQdkktOEtJOG4zZVBFM3dzZmpfcEVlZGR2QjRrcXRfOXU0MUxZeThFN1NCdEFwUW1TVGl6THI1YVJlLVdOMGdNR0M0SDFEd3FkSGtzMHhhQQ?oc=5",
-          "summary": "천궁-II에 놀란 UAE, 한화시스템 레이저 대공무기 '천광' 도입 검토&nbsp;&nbsp;더구루",
+          "title": "아랍에미리트(UAE) 건국 55주년 국경일 기념식",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZdW1KYkpZaW5NSU85cGVlQ2hCLWM1aDc0cnFvbVNNNFQxdm1aSU5la1dkQzAxQUF6WDR6YXRUcFJ6dElXOHhtNWRrUQ?oc=5",
+          "summary": "아랍에미리트(UAE) 건국 55주년 국경일 기념식&nbsp;&nbsp;뉴스1",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "K-콘텐츠 스타트업, 중동 시장 진출 가속화, 아랍에미리트서 글로벌 투자·사업 협력 확대",
-          "source": "뉴스아이이에스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Dc3FTcm52OEZsWE5kRktiZ1p0N3R1UldWSDRJTXF3YnBaMF9pZW4tT1VDcjZUVUUwYWd1NlZiUTA3N3dJOE9yNkE3N3VTTjZ0VWwwTGZmaXdBN2UxVERaRFZKbUVZdXp5UUx2amVQb9IBckFVX3lxTE05NkRzdE05VGs5NG9xd295TVEteXlBdVdRWHdnaVNXTEg3WWMyWGQwSm42RjNnYWIwc21xcHJqNjVYejZSWVlIMEtEREpwQ3hqeXlHS0I3QXlfZ2cybDlteE83ME44M1Y0WGFULTdzdl9Pdw?oc=5",
-          "summary": "K-콘텐츠 스타트업, 중동 시장 진출 가속화, 아랍에미리트서 글로벌 투자·사업 협력 확대&nbsp;&nbsp;뉴스아이이에스",
+          "title": "[동정] 배경훈 부총리, UAE 건국 55주년 기념행사 참석",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzUkJNalQtNW9EWHItYUNBMUVfeG5CNkNoQkdDZm92UkZ0NFZ5dXMyNklEQzQycVV0dFVad3RJU09DZVhyS2pmTG8wRVVqMHNka2UzUXpIeEVrX25lY0prZNIBYEFVX3lxTFAzUkJNalQtNW9EWHItYUNBMUVfeG5CNkNoQkdDZm92UkZ0NFZ5dXMyNklEQzQycVV0dFVad3RJU09DZVhyS2pmTG8wRVVqMHNka2UzUXpIeEVrX25lY0prZA?oc=5",
+          "summary": "[동정] 배경훈 부총리, UAE 건국 55주년 기념행사 참석&nbsp;&nbsp;연합뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "서울대, 아랍에미리트(UAE) 리더십 개발 센터(MBRCLD)와 손잡고 현지 교육과정 운영",
-          "source": "대한민국 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGdyeEgydVpwRmJyczNSdzVkMmZyaFhjcjNfbFp0UVpjaHFubWp5UFR5Yk5pZVNhY2ZxaVhRZmJkMElkVkp2RGYtalQ5eVFST3JnVHBQNU5MeTFSZkFjaUlhaC1NVF9EWVM5VVZzTGhNbmhDUXd6d1l2VzNEOUptNHcwOVF3UlgyVV9mQ3NzU1pxQQ?oc=5",
-          "summary": "서울대, 아랍에미리트(UAE) 리더십 개발 센터(MBRCLD)와 손잡고 현지 교육과정 운영&nbsp;&nbsp;대한민국 정책브…",
+          "title": "“한·UAE 경제 협력 강화”…두바이 국제상공회의소, 서울 사무소 개소",
+          "source": "문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVlpFVmNtNlFibWU5ZUx5Mmo5QW9YeDRSWGVZSnlqWU5mQ0lPdDlTZ2IyM2hKM2xfd3VzUGs4djFzV1ExMkdFZWJSZnFHNFMt?oc=5",
+          "summary": "“한·UAE 경제 협력 강화”…두바이 국제상공회의소, 서울 사무소 개소&nbsp;&nbsp;문화일보",
           "lang": "ko",
           "translated": false
         }
@@ -4711,13 +4711,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "economy of India",
-          "desc": "economy of India&nbsp;&nbsp;Britannica",
-          "source": "Britannica",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SS2pBNG9wV0pOcy1CUHpzWng3WGZEc0h6RHVodi1UUE81NWhZZ2JmTWROR0IzZTBHQXZUdUJyMTlfVHlXMFBneW1VcjVfNnl2Wmlnb1FubWh6SkctX3c?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "economy of India"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -4767,8 +4767,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 356.57,
-        "change_pct": -2.66,
+        "current_rate": 367.26,
+        "change_pct": 0.26,
         "history_labels": [
           "12월",
           "1월",
@@ -4795,32 +4795,32 @@
           375.97,
           370.83,
           367.83,
-          356.57
+          367.26
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "네이버 사우디 합작법인 핵심 경영진 3인, ’중동 DX 대표 리더’ 나란히 선정 By The Guru",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0VGtXNmZKb3Y4bUlrRmtKNFlZNUZVYjJZUm5NNDdETlAxc1RDLUFnaURudWk5bmdzOS1RNkJxUEd1d1J0Z3VnRE9Fb0pwRjlOVENYeG1FeHo1N3NObk42TXVUUkpVaHF2dzIwRlc0bWU?oc=5",
-          "summary": "네이버 사우디 합작법인 핵심 경영진 3인, ’중동 DX 대표 리더’ 나란히 선정 By The Guru&nbsp;&nbsp;In…",
+          "title": "후티 반군 사우디 수도에 탄도미사일 3발 발사",
+          "source": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42OUVsRTBYWU52anR0Y3F2WVFEODVMY3lpQkc3YXBKQ29BU3pyWWZxU0kxZXJjTFktaENlTHIwVHU1MXJUNGIxeWU3dkMzSVhkVVhJNGhpa3haendwckk0ZtIBeEFVX3lxTFBicE9Id2ZQVVFJRUtnb2IwczR4YUpCbWE1STdaa1pVQ3ZJb0w5dERUYlRLdnZlNDJqdGd1M01YQmVoWGtRd25aRC1Dd0pUOW9ZR0Z5YmRSLWVUOENiaDdYdEVBajNPSmQzNnFKWjBqS0w3Vl9SVjVaTQ?oc=5",
+          "summary": "후티 반군 사우디 수도에 탄도미사일 3발 발사&nbsp;&nbsp;뉴시스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "사우디 리야드 80층 빌딩, 후티 미사일에 파손",
-          "source": "연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDNlZMSjU4aHJXcnA4T1Y3eTVjb0dlRzZ5TXNqU3J2aGozMjcwek1aS2lDNDZDZzNxXzdUNDlFN1ZXM3BsZHcxOHpZbDJrYVRrNk9ia1VTaVJpTkhhX2xlMlVHZjFvb2M?oc=5",
-          "summary": "사우디 리야드 80층 빌딩, 후티 미사일에 파손&nbsp;&nbsp;연합뉴스TV",
-          "lang": "ko",
-          "translated": false
-        },
-        {
-          "title": "사우디 리야드 80층 빌딩 후티 미사일에 파손…'비전2030' 상징(종합)",
+          "title": "후티 반군, 사우디 금융센터 등 '민간 시설'에 보복 예고",
           "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9taV9qckQ2OEJtSDRPZjdkZUlHOGlrNGh0R2I0LUwwSUx1eHpFa0swZHVOS242eWE5QXNQZVVpOHNQY2RsbVExM1dkWXIxVkl2M2pmS0R0dFlmcmlOTHk2NdIBYEFVX3lxTE9taV9qckQ2OEJtSDRPZjdkZUlHOGlrNGh0R2I0LUwwSUx1eHpFa0swZHVOS242eWE5QXNQZVVpOHNQY2RsbVExM1dkWXIxVkl2M2pmS0R0dFlmcmlOTHk2NQ?oc=5",
-          "summary": "사우디 리야드 80층 빌딩 후티 미사일에 파손…'비전2030' 상징(종합)&nbsp;&nbsp;연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQR2d6Q1VVb3VpUDMya3dxZDhjOTlXSktXbWE4dVRtRE1pcEVPa0dZTEducm1SRl9NMDljNzVPVHgwUi1wQ21TRVhzcERwRXhZa2RXZ2FGT29xd2PSAWBBVV95cUxQTVViUDNvZnhTWjJ0SWhRa3Z4bWt3WndpMlVQM05ya1RVTHJXYjd2SHc0ZmxyelhSVjNmU3FDVWRwZ3FMdGpsbXFRWmdzeE1jVGhpZlB5cmdmcDVLRWtEQkI?oc=5",
+          "summary": "후티 반군, 사우디 금융센터 등 '민간 시설'에 보복 예고&nbsp;&nbsp;연합뉴스",
+          "lang": "ko",
+          "translated": false
+        },
+        {
+          "title": "사우디 연합군 \"홍해 후티 반군 '무기 밀수 근거지' 타격\"",
+          "source": "MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uZkY3NWhPc1AwV2ZtQ2UwdnY5eFdkSEd2aFlLNGNYR2ZBWXRLZVZ2czRwX2N6S3FrRkVXVWtIMFBhbDJDVkQtWk8taVdSNDBGUy1UV2owdE1ZeWZFN3RjVzlTVXp1U3BnVDh6WFBna1Y3d2x30gF0QVVfeXFMT25mRjc1aE9zUDBXZm1DZTB2djl4V2RIR3ZoWUs0Y1hHZkFZdEtlVnZzNHBfY3pLcWtGRVdVa0gwUGFsMkNWRC1aTy1pV1I0MEZTLVRXajB0TVl5ZkU3dGNXOVNVenVTcGdUOHpYUGdrVjd3bHc?oc=5",
+          "summary": "사우디 연합군 \"홍해 후티 반군 '무기 밀수 근거지' 타격\"&nbsp;&nbsp;MBC 뉴스",
           "lang": "ko",
           "translated": false
         }
@@ -4842,13 +4842,13 @@
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Azerbaijan's proposed hourly wage system: Who…",
-          "desc": "Azerbaijan's proposed hourly wage system: Who stands to benefit – work…",
-          "source": "JAMnews",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0Y1JCVC1iUnF4R2JMcGhPSnBISUltaVNTXzJ0NWpxUkRKM1hwWXc0X2lpSEZJVFVyc2Y1WkJfYWVlRUpqZUlBRWlrdUtIbm93aEVsNTR4VE9iQmp0RmNiVFhFSW1mMGgzc0J1QWNhSVpCdw?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Azerbaijan's proposed hourly wage system: Who stands to benefit – workers, employers or state?"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -4898,8 +4898,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 24.87,
-        "change_pct": 0.44,
+        "current_rate": 24.82,
+        "change_pct": 0.2,
         "history_labels": [
           "12월",
           "1월",
@@ -4926,32 +4926,32 @@
           27.66,
           25.95,
           23.9,
-          24.87
+          24.82
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "[이집트 미라전] 4천년 세월 넘어 '봉인' 풀 목소리는…\"애굽민수와 함께해요\"",
+          "title": "[아프리카인물열전](47) 첫 아프리카 출신 유엔 수장 부트로스 갈리",
           "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0QW9jbEZ1QTNGc1Q4Vld4eWs3NGowX2l0WGRrOXVuSGZDUTR0MXNkNlJfakNPc04wajlHLVhNbW5QVXNMOHpfVWNUZUU4MElobFFXN3E5LW5DTTgtOW1Od9IBYEFVX3lxTFA0QW9jbEZ1QTNGc1Q4Vld4eWs3NGowX2l0WGRrOXVuSGZDUTR0MXNkNlJfakNPc04wajlHLVhNbW5QVXNMOHpfVWNUZUU4MElobFFXN3E5LW5DTTgtOW1Odw?oc=5",
-          "summary": "[이집트 미라전] 4천년 세월 넘어 '봉인' 풀 목소리는…\"애굽민수와 함께해요\"&nbsp;&nbsp;연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BTWRiQzJ5ODNzOU5weV8zUkNSRGtpYzVjeWM4VG1TRnhpbW1sdUl0LUw0UnVINkpfd3YwU1ZrQUJrQUFnUTlSYUFFZXExcm1IWllGNklsQ2hFN3o2QlVpS9IBYEFVX3lxTE5BTWRiQzJ5ODNzOU5weV8zUkNSRGtpYzVjeWM4VG1TRnhpbW1sdUl0LUw0UnVINkpfd3YwU1ZrQUJrQUFnUTlSYUFFZXExcm1IWllGNklsQ2hFN3o2QlVpSw?oc=5",
+          "summary": "[아프리카인물열전](47) 첫 아프리카 출신 유엔 수장 부트로스 갈리&nbsp;&nbsp;연합뉴스",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "[뉴스후] EU 집행위 '숫자 미화' 의혹과 대이집트 자금집행의 구조적 위험",
-          "source": "데일리연합",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVXo1VGVFcjJLVk9ZM094NTNxMFlZSlNHM3h3dHJsWXN1TkZ5bWFFWC1JY19xMHhueUlnN0NGNjJpYXJ6ek54S0Y1Y0F0aTc0eTJQWVJEV3prQQ?oc=5",
-          "summary": "[뉴스후] EU 집행위 '숫자 미화' 의혹과 대이집트 자금집행의 구조적 위험&nbsp;&nbsp;데일리연합",
+          "title": "춘천 청소년 공공외교단 5개월 여정 마무리…이집트서 국제교류",
+          "source": "동방일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUFF3R3B5cVVWUUd5UWp5THNHWW8wLTNyR21aN2FRdWVWTkN4dW83cm5tLUNmMTd2eFRuQUlQTUdTNVFqVWxtS282Zk1iTlZsaF9Rd2NYY3JvSUMteFZwM0o3VFI5NkhaSkdhYlZYU3dhUzQ?oc=5",
+          "summary": "춘천 청소년 공공외교단 5개월 여정 마무리…이집트서 국제교류&nbsp;&nbsp;동방일보",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "[기획-무역 FOCUS] 이집트 9월 무역적자 53억 달러…수입 29.7% 늘어",
-          "source": "국제통상신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mT0s0WUlzV2FnY05Eckl1Qm40THo5Mm0tTmsxTENKU3pxY1JCVzRCMmdwdmpwTUtFVWd3a0NudnBWX054a0RNYWxmdFlyVlQ5S0lyTnJVTnp5Rzk4OEtTWUpkWlA2dFBp?oc=5",
-          "summary": "[기획-무역 FOCUS] 이집트 9월 무역적자 53억 달러…수입 29.7% 늘어&nbsp;&nbsp;국제통상신문",
+          "title": "춘천 청소년들, 이집트서 한국문화 알리고 세계와 소통",
+          "source": "강원신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rQTlhX0NRMXpQQVowUGZsYkJ4cUpfZmRjaEhkRjk2dlRxZ3VXVG5pUS1YNFpsQ0xjR3VoSjNVQ0xuYmxzcGw3cjNtS3p0bDR3OTVpN0xaa0trNnVWZ2JlWV9HWmNRUnlt?oc=5",
+          "summary": "춘천 청소년들, 이집트서 한국문화 알리고 세계와 소통&nbsp;&nbsp;강원신문",
           "lang": "ko",
           "translated": false
         }
@@ -4961,25 +4961,25 @@
           "category": "AUTO MARKET",
           "tag": "완성차·타이어 시장",
           "tag_class": "bg-rose-100 text-rose-700",
-          "title": "압축 성형 프레스 시장 2035년 전망: 복합소재 수요가 성장 견인",
-          "desc": "압축 성형 프레스 시장 2035년 전망: 복합소재 수요가 성장 견인 - 뉴스 및 통계&nbsp;&nbsp;IndexBox",
+          "title": "Ultra High Performance Tires Market To 2035: E…",
+          "desc": "Ultra High Performance Tires Market To 2035: Electrified Performance V…",
           "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYzlpVjV1T1F5R3JsQVI1bmdKR2x2OHRfQm4xX193SWJ6aTNRZWJGLVRCUWdKbm5ab29jNV82bGdTanRyX1NiekJYeHJpNV9pVUp2RTZQcFBhWlZINWN1LWM0Mi1HRnZDMWhIamxvdnRDZktVb3lNekRoc3htLXl5SGU3VDhFVDM4RF9GUzJ1anU4MEd6UWt2a1M1dm9BM09LU1I1czRBNjBFeVBRLXNjSWFpTmtUZjMtSHEzMGdYV2h2OUtvWi1hSHctR0tGaWtBUHlaZUdrTXQ5ZkV5OVhjT2RWYUo1UQ?oc=5",
-          "lang": "ko",
-          "translated": false,
-          "original_title": ""
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY3Q2NnpWUjhsZEZ2LWxnUWE1WXNIUHNuU1BXOHhtc0J0UTc0dHNvOTB0RHVEdlR6cUdtbldXS2ZxRVJlSzF4LWxLVmxsWUZPVmpEc2ZFMXh2RlItRUs3M0NUWUgxQVNWVkM4YVhIMVY3bFZsc3hIYnh6QWU4eVp3aWNtTVdvZGZPSGhHM2FaRzFqcjBibm5pU0VaSG9GZTFYRXhEbS1yQW5nUngzc3pXS0VBc214QTVHYmU1X253UHQySmE4dmV0ajN0cmV3WkRoVzBMVy1HQTBnZzQ?oc=5",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Ultra High Performance Tires Market To 2035: Electrified Performance Vehicles Fuel Growth"
         },
         {
           "category": "HR & LABOR",
           "tag": "노동법·인력",
           "tag_class": "bg-indigo-100 text-indigo-700",
-          "title": "Four countries welcome Egyptian migrants with…",
-          "desc": "Four countries welcome Egyptian migrants with high salaries and reside…",
-          "source": "Egypt Independent",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWs3aTNORk1HZm5ablFwSEdzV3l4N3VPMUxEaE1aa0pIWnlCQ3VCS05ONkRoNnZIS1huVUd2NlptRDlsTHk5cVI1TlQwZmlVT292bDluWllYU0dVbzBuenRWRHBaMXBxZUMwRWJoVV9XakhYOFdNYmkzWnotUTJQQml6UzA3dEZXeGVJUEtuNUwxSGVRcWJ3UHJkSUlwbjIydHktNlNvZElmZUJhd3dDUGNQeC1MYldvRFJ3WXd3?oc=5",
+          "title": "Minimum Salary Changes Announced",
+          "desc": "Minimum Salary Changes Announced&nbsp;&nbsp;Fragomen",
+          "source": "Fragomen",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
           "lang": "en",
           "translated": true,
-          "original_title": "Four countries welcome Egyptian migrants with high salaries and residency opportunities"
+          "original_title": "Minimum Salary Changes Announced"
         },
         {
           "category": "ECONOMY",
@@ -5029,8 +5029,8 @@
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
-        "current_rate": 2.98,
-        "change_pct": -3.96,
+        "current_rate": 3.07,
+        "change_pct": -0.96,
         "history_labels": [
           "12월",
           "1월",
@@ -5057,32 +5057,32 @@
           3.05,
           3.19,
           3.06,
-          2.98
+          3.07
         ],
         "source": "Yahoo Finance (USD 교차 환산)"
       },
       "headlines": [
         {
-          "title": "대한항공, 2027년 카자흐스탄 알마티 직항 띄운다",
-          "source": "리드경제",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8waWdqdkpzRjg0SVloeWNiSU9qM3Y1X2xTRjlqb2tfREZvYjdyeTVVWTVDVmM2UjRQbVVFTUw2WTZTMDVrOGVDWEhrcnVjWDFuSmpDVzZYNTJ5QlNUVWVsa3NYMWRCckdHODROMkRWU2U?oc=5",
-          "summary": "대한항공, 2027년 카자흐스탄 알마티 직항 띄운다&nbsp;&nbsp;리드경제",
+          "title": "대한항공, 내년 하반기 카자흐스탄 알마티 하늘길 연다",
+          "source": "더구루",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZ25lT2hvc1dHb1BEYjlFWFVqSUFBdi1NcmdFUURVXy1ySnRvN0dBRE5pZDlvRkRHYlJ6Z1Z0MTFabHNaZ0t3TG9FZ1ZwMk5qQmxZNG00Y3B3NkZMS25Vczc4RQ?oc=5",
+          "summary": "대한항공, 내년 하반기 카자흐스탄 알마티 하늘길 연다&nbsp;&nbsp;더구루",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "Qusmuryn 공기질 지수 (AQI) 및 카자흐스탄 공해 | IQAir 대한민국",
-          "source": "IQAir",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5TURqRllKWTlEQW5oN0JVQjRJSkh6NFlmRnZ3d0k5dnB5U2JwSFh3UDBJMlp2M0lNZzVLOXVmb3hwQkIzTG9Cd1NJRE1hZ2Y3UHdhU3Rscm5aX1gxdGd1NGVCVDY?oc=5",
-          "summary": "Qusmuryn 공기질 지수 (AQI) 및 카자흐스탄 공해 | IQAir 대한민국&nbsp;&nbsp;IQAir",
+          "title": "카자흐스탄 곡물 수출 7% 증가…중국·아프가니스탄행 확대",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTR3V2QwdTJlQWhMRE83bXdEbEZNekNmQlB1Rkh4NGpfaWtaZ24zWWxyMmJ3Nl9HVGdQcWZlSVlTenhicF9FNUkxdFdkV1VfS2JHOEJVTVQ2M1N0Wm9ZYkpMMTlraUs0MkkzNmdFLVFkWkpMUmc3SlZ2b3BSZWVjcTQ5RTBpUWRGODVXaWd4NGRQb0ljTlQ1M0FBQzJzNmZ6NEF5RG1KQ1E1eHg1?oc=5",
+          "summary": "카자흐스탄 곡물 수출 7% 증가…중국·아프가니스탄행 확대 - 뉴스 및 통계&nbsp;&nbsp;IndexBox",
           "lang": "ko",
           "translated": false
         },
         {
-          "title": "애드바이오텍, 카자흐스탄 K뷰티 플랫폼 ‘베스티’ 한국 유통법인 지분 51% 인수",
-          "source": "팜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pZ1ZKOUNST0FhRHo1bGpSeFVMdl8wdkNZUkF2OU1iVXMyWGdLcVhjdGZDeEJTR1FVUlRnaFhGTFNDZUJyVk9kdW5lX1otNjB2WUQxNWctdmk5Rm94YkRCajhhVVpsV2tHaDR6NQ?oc=5",
-          "summary": "애드바이오텍, 카자흐스탄 K뷰티 플랫폼 ‘베스티’ 한국 유통법인 지분 51% 인수&nbsp;&nbsp;팜뉴스",
+          "title": "세계한인정치인포럼, 카자흐스탄서 첫 개최",
+          "source": "Корё ильбо",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ad20zQU1rM3ZKeW5YSHZpOHdsb0F6VUtFMl8yNVRvdUZ6ZDFYX0E5M1NxS1pGZVYwRFJNTno5NFNpVndUVEY0ME1xYUJmcnREemRQQjFqM0Myc29BZkJr?oc=5",
+          "summary": "세계한인정치인포럼, 카자흐스탄서 첫 개최&nbsp;&nbsp;Корё ильбо",
           "lang": "ko",
           "translated": false
         }
